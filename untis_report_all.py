@@ -1,8 +1,8 @@
 # untis_report_all.py
-# Report mit Datum-/Klassen-Dropdowns, Permalinks und Tabellenlinien.
-# Permalink-Beispiele: ?cls=8c  |  ?cls=8c&date=16.09.2025  |  …&refresh=120
+# Report mit Datum-/Klassen-Dropdowns, Permalinks (&refresh) und Tabellenlinien.
+# Robuster Datums-Fallback pro Gruppe (zeigt heute + morgen zuverlässig).
 
-import html, json
+import html, json, re
 from pathlib import Path
 from datetime import datetime, timedelta
 import pandas as pd
@@ -74,7 +74,7 @@ TPL = """<!doctype html>
 (function(){{  // IIFE
   $(function(){{   // DOM ready
 
-    // --- Hilfsfunktionen ---
+    // Hilfsfunktionen
     function selectInsensitive(selId, wanted) {{
       if (!wanted) return;
       var val = (''+wanted).trim().toLowerCase();
@@ -90,13 +90,13 @@ TPL = """<!doctype html>
       if (match !== null) document.getElementById(selId).value = match;
     }}
 
-    // --- URL-Parameter lesen (vor Init) ---
+    // URL-Parameter (vor Init)
     var params     = new URLSearchParams(window.location.search);
     var clsParam   = params.get('cls')   || params.get('class') || params.get('c');
     var dateParam  = params.get('date')  || params.get('d');
     var refreshSec = parseInt(params.get('refresh') || params.get('r') || '0', 10);
 
-    // --- Custom-Filter registrieren (vor erster Zeichnung) ---
+    // Custom-Filter registrieren
     $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {{
       var selDate = ($('#dateSel').val() || '').trim();
       var selCls  = ($('#classSel').val() || '').toLowerCase().trim();
@@ -113,24 +113,28 @@ TPL = """<!doctype html>
       return true;
     }});
 
-    // --- DataTable initialisieren ---
+    // DataTable initialisieren
     var table = $('#tbl').DataTable({{
       pageLength: 50,
       order: [[0,'asc'],[1,'asc'],[2,'asc']],
       columnDefs: [{{ targets: 2, type: 'num' }}]
     }});
 
-    // --- Events binden ---
+    // Events binden
     $('#dateSel, #classSel').on('change', function(){{ table.draw(); }});
 
-    // --- Voreinstellungen aus URL anwenden und initial zeichnen ---
+    // Voreinstellungen anwenden + initial zeichnen
     if (dateParam) selectInsensitive('dateSel',  dateParam);
     if (clsParam)  selectInsensitive('classSel', clsParam);
-    table.draw();  // WICHTIG: damit Permalink sofort filtert
+    table.draw();  // wichtig: Permalink filtert sofort
 
-    // --- Auto-Refresh (optional) ---
+    // Auto-Refresh (optional)
     if (refreshSec > 0) {{
-      setTimeout(function() {{ location.reload(); }}, Math.max(5, refreshSec) * 1000);
+      setTimeout(function() {{
+        const url = new URL(window.location.href);
+        url.searchParams.set('v', Date.now().toString()); // Cache-Bust
+        location.href = url.toString();
+      }}, Math.max(5, refreshSec) * 1000);
     }}
   }});
 }})();
@@ -150,14 +154,53 @@ def main():
     df = df[df["stunde_num"].notna()]
     df = df[~df["klasse"].astype(str).str.startswith("Klassen:")]
 
-    # Datum: falls leer, Gruppen -> heute/morgen …
-    if df["datum"].fillna("").str.strip().eq("").all():
-        groups = sorted(df["gruppe"].dropna().unique())
-        base = datetime.now().date()
-        mapping = {g: (base + timedelta(days=i)).strftime("%d.%m.%Y") for i, g in enumerate(groups)}
-        df["Datum"] = df["gruppe"].map(mapping).fillna("")
+    # Robuste Datumszuweisung pro Gruppe
+    def _parse_date_any(s: str):
+        s = (s or "").strip()
+        if not s:
+            return None
+        m = re.search(r'(?:Mo|Di|Mi|Do|Fr|Sa|So)?\\s*(\\d{1,2}\\.\\d{1,2}\\.(\\d{2,4})?)', s)
+        if not m:
+            return None
+        d = m.group(1)
+        parts = d.strip(".").split(".")
+        if len(parts) == 2:
+            y = datetime.now().year
+            d = f"{parts[0]}.{parts[1]}.{y}"
+        elif len(parts) == 3 and len(parts[2]) == 2:
+            d = f"{parts[0]}.{parts[1]}.20{parts[2]}"
+        try:
+            return datetime.strptime(d, "%d.%m.%Y").date()
+        except Exception:
+            return None
+
+    groups = [g for g in df["gruppe"].dropna().unique()]
+    if "quelle_table_index" in df.columns:
+        groups.sort(key=lambda g: df.loc[df["gruppe"] == g, "quelle_table_index"].min())
     else:
-        df["Datum"] = df["datum"].fillna("")
+        groups.sort()
+
+    known = {}
+    for g in groups:
+        vals = df.loc[df["gruppe"] == g, "datum"].dropna().unique()
+        parsed = [_parse_date_any(v) for v in vals]
+        parsed = [p for p in parsed if p]
+        if parsed:
+            known[g] = min(parsed)
+
+    if known:
+        first_known_group = min(known.keys(), key=lambda gr: groups.index(gr))
+        base_idx = groups.index(first_known_group)
+        base_date = known[first_known_group]
+    else:
+        base_idx = 0
+        base_date = datetime.now().date()
+
+    mapping = {}
+    for i, g in enumerate(groups):
+        mapping[g] = known.get(g, base_date + timedelta(days=(i - base_idx)))
+
+    df["Datum"] = df["gruppe"].map(mapping).apply(lambda d: d.strftime("%d.%m.%Y"))
 
     # Zielspalten vereinheitlichen + sortieren
     df["Klassen"] = df["klasse"].fillna("")
@@ -167,8 +210,8 @@ def main():
     df["Vertretungstext"] = df["text"].fillna("")
 
     df["Stunde_num_"] = pd.to_numeric(df["Stunde"], errors="coerce")
-    df.sort_values(["Datum","Klassen","Stunde_num_","Fach","Lehrkraft"], inplace=True, na_position="last")
-    df = df[["Datum","Klassen","Stunde","Fach","Lehrkraft","Vertretungstext"]]
+    df.sort_values(["Datum", "Klassen", "Stunde_num_", "Fach", "Lehrkraft"], inplace=True, na_position="last")
+    df = df[["Datum", "Klassen", "Stunde", "Fach", "Lehrkraft", "Vertretungstext"]]
 
     # Dropdown-Optionen erzeugen
     def parse_date(s):
@@ -176,16 +219,17 @@ def main():
             return datetime.strptime(s, "%d.%m.%Y")
         except Exception:
             return datetime.max
+
     dates = [d for d in sorted(df["Datum"].unique(), key=parse_date) if d]
     classes = sorted({c.strip() for c in df["Klassen"].astype(str) if c.strip()})
 
-    date_options  = "\n".join(f'          <option value="{html.escape(d)}">{html.escape(d)}</option>' for d in dates)
+    date_options = "\n".join(f'          <option value="{html.escape(d)}">{html.escape(d)}</option>' for d in dates)
     class_options = "\n".join(f'          <option value="{html.escape(c)}">{html.escape(c)}</option>' for c in classes)
 
     # Tabellenkörper
     rows = []
     for _, r in df.iterrows():
-        cells = [r[c] for c in ["Datum","Klassen","Stunde","Fach","Lehrkraft","Vertretungstext"]]
+        cells = [r[c] for c in ["Datum", "Klassen", "Stunde", "Fach", "Lehrkraft", "Vertretungstext"]]
         rows.append("    <tr>" + "".join(f"<td>{html.escape(str(x))}</td>" for x in cells) + "</tr>")
     tbody = "\n".join(rows)
 
