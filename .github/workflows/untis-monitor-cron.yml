@@ -48,6 +48,9 @@ jobs:
           python untis_normalize.py
           python build_site.py
 
+      - name: Cache-bust report assets
+        run: python tools/cache_bust_site.py site
+
       - name: Commit & push only if /site changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
