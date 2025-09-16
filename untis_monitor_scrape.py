@@ -1,5 +1,6 @@
 # untis_monitor_scrape.py
-# Robust: wartet bis beide Tagesblöcke gerendert sind, setzt Locale/Zeitzone.
+# Wartet zuverlässig, bis beide Tagesblöcke gerendert sind (>= 8 Tabellen),
+# setzt de-DE/Europe/Berlin und scrollt, falls lazy load.
 
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
@@ -63,27 +64,37 @@ def extract_tables(html: str):
         frames.append(df)
     return frames
 
-def _wait_full_render(page, min_headers=2, hard_timeout_ms=20000):
-    """Wartet, bis mind. 'min_headers' Header-Zeilen (Stunde/Klassen/Fach/...) vorhanden sind."""
+def _wait_until_ready(page, min_tables=8, hard_timeout_ms=60000):
+    """Wartet bis mind. min_tables <table>-Elemente existieren. Scrollt, falls lazy load."""
     deadline = time.time() + hard_timeout_ms/1000
-    last_html = ""
-    headers_found = 0
+    last_count = -1
     while time.time() < deadline:
-        html = page.content()
-        last_html = html
-        # Header-Zeilen zählen (robust gegen Leerzeichen/Tags)
-        headers_found = len(re.findall(
-            r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
-            html, flags=re.S | re.I))
-        if headers_found >= min_headers:
+        try:
+            count = page.locator("table").count()
+        except Exception:
+            count = 0
+        if count >= min_tables:
             break
-        page.wait_for_timeout(500)
-    return last_html, headers_found
+        # Scroll an das Ende/Anfang um lazy rendering zu triggern
+        try:
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(600)
+            page.evaluate("window.scrollTo(0, 0)")
+        except Exception:
+            pass
+        if count != last_count:
+            last_count = count
+        page.wait_for_timeout(700)
+    html = page.content()
+    # Header-Zeilen zählen (optional, Diagnose)
+    headers_found = len(re.findall(
+        r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
+        html, flags=re.S | re.I))
+    return html, count, headers_found
 
 def main():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        # Kontext mit deutscher Locale/Zeitzone – relevant für „heute/morgen“-Aufteilung
         context = browser.new_context(
             locale="de-DE",
             timezone_id="Europe/Berlin",
@@ -93,9 +104,8 @@ def main():
         )
         page = context.new_page()
         page.goto(URL, wait_until="networkidle", timeout=90000)
-        # kurze Grundwartezeit + gezieltes Warten auf beide Tagesblöcke
         page.wait_for_timeout(3000)
-        html, headers_found = _wait_full_render(page, min_headers=2, hard_timeout_ms=20000)
+        html, table_count, headers_found = _wait_until_ready(page, min_tables=8, hard_timeout_ms=60000)
         context.close()
         browser.close()
 
@@ -106,6 +116,7 @@ def main():
         "url": URL,
         "scraped_at": datetime.now().isoformat(timespec="seconds"),
         "tables_found": len(frames),
+        "tables_in_dom": table_count,
         "headers_found": headers_found,
         "locale": "de-DE",
         "timezone": "Europe/Berlin",
