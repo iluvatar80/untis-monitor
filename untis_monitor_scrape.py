@@ -1,6 +1,6 @@
 # untis_monitor_scrape.py
-# Wartet zuverlässig, bis beide Tagesblöcke gerendert sind (>= 8 Tabellen),
-# setzt de-DE/Europe/Berlin und scrollt, falls lazy load.
+# Wartet bis >=8 Tabellen UND >=2 Header-Blöcke (Stunde/Klassen/Fach/Lehrkraft/Vertretungstext)
+# gerendert sind. Scrollt, falls lazy geladen wird. DE-Locale/Zeitzone gesetzt.
 
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
@@ -64,33 +64,45 @@ def extract_tables(html: str):
         frames.append(df)
     return frames
 
-def _wait_until_ready(page, min_tables=8, hard_timeout_ms=60000):
-    """Wartet bis mind. min_tables <table>-Elemente existieren. Scrollt, falls lazy load."""
+def _wait_until_ready(page, min_tables=8, min_headers=2, hard_timeout_ms=90000):
+    """Wartet bis mind. min_tables <table> und min_headers Header-Blöcke vorhanden sind.
+       Scrollt, um evtl. Lazy-Rendering/2. Tagesblock zu triggern."""
     deadline = time.time() + hard_timeout_ms/1000
-    last_count = -1
+    last_tables = -1
+    headers_found = 0
+    tables_count = 0
     while time.time() < deadline:
         try:
-            count = page.locator("table").count()
+            tables_count = page.locator("table").count()
         except Exception:
-            count = 0
-        if count >= min_tables:
-            break
-        # Scroll an das Ende/Anfang um lazy rendering zu triggern
+            tables_count = 0
+        html = page.content()
+        headers_found = len(re.findall(
+            r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
+            html, flags=re.S | re.I))
+        # zusätzlich: zwei Infozeilen "Klassen:" (eine je Tag) sind oft vorhanden
+        info_found = len(re.findall(r'Klassen:\s*\d', html))
+
+        if tables_count >= min_tables and headers_found >= min_headers:
+            return html, tables_count, headers_found, info_found
+
+        # Scrollen, kurze Pausen
         try:
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            page.wait_for_timeout(600)
+        except Exception:
+            pass
+        page.wait_for_timeout(800)
+        try:
             page.evaluate("window.scrollTo(0, 0)")
         except Exception:
             pass
-        if count != last_count:
-            last_count = count
-        page.wait_for_timeout(700)
-    html = page.content()
-    # Header-Zeilen zählen (optional, Diagnose)
-    headers_found = len(re.findall(
-        r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
-        html, flags=re.S | re.I))
-    return html, count, headers_found
+        page.wait_for_timeout(800)
+
+        # wenn sich nichts ändert, dennoch weiter warten, bis timeout erreicht
+        last_tables = tables_count
+
+    # Timeout: letztes HTML zurückgeben
+    return page.content(), tables_count, headers_found, 0
 
 def main():
     with sync_playwright() as p:
@@ -100,12 +112,14 @@ def main():
             timezone_id="Europe/Berlin",
             user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
-            viewport={"width": 1366, "height": 900},
+            viewport={"width": 1366, "height": 1200},
         )
         page = context.new_page()
-        page.goto(URL, wait_until="networkidle", timeout=90000)
-        page.wait_for_timeout(3000)
-        html, table_count, headers_found = _wait_until_ready(page, min_tables=8, hard_timeout_ms=60000)
+        page.goto(URL, wait_until="networkidle", timeout=120000)
+        page.wait_for_timeout(4000)  # Grundpuffer
+        html, tables_count, headers_found, info_found = _wait_until_ready(
+            page, min_tables=8, min_headers=2, hard_timeout_ms=90000
+        )
         context.close()
         browser.close()
 
@@ -116,8 +130,9 @@ def main():
         "url": URL,
         "scraped_at": datetime.now().isoformat(timespec="seconds"),
         "tables_found": len(frames),
-        "tables_in_dom": table_count,
+        "tables_in_dom": tables_count,
         "headers_found": headers_found,
+        "info_lines_found": info_found,
         "locale": "de-DE",
         "timezone": "Europe/Berlin",
     }
