@@ -1,0 +1,13 @@
+# Python venv & Caches
+.venv/
+__pycache__/
+*.pyc
+
+# Lokale Artefakte
+*.csv
+*.json
+*_raw.html
+report_*.html
+
+# Sonstiges
+.DS_Store
