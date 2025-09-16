@@ -90,6 +90,9 @@ jobs:
       - name: Cache-bust report assets
         run: python tools/cache_bust_site.py docs
 
+      - name: Inject header + timestamp
+        run: python tools/inject_header.py docs
+
       - name: Commit & push only if /docs changed (force-add JSON/CSV)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
