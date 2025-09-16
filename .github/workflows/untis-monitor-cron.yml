@@ -46,6 +46,7 @@ jobs:
         run: |
           set -e
           python untis_monitor_scrape.py
+          # Normalizer optional (falls nicht vorhanden/kein Output) → weiterbauen
           python untis_normalize.py || echo "[warn] untis_normalize.py did not produce outputs (continuing)"
           python build_site.py
 
@@ -53,6 +54,8 @@ jobs:
         run: |
           echo "[debug] top-level files:"
           ls -la
+          echo "[debug] .gitignore (if any):"
+          if [[ -f .gitignore ]]; then cat .gitignore; else echo "(none)"; fi
 
       - name: Publish folder (site → docs)
         run: |
@@ -82,25 +85,38 @@ jobs:
 
       - name: List docs content
         run: |
-          echo "[debug] docs content:"
-          ls -la docs
+          echo "[debug] docs content:"; ls -la docs
 
       - name: Cache-bust report assets
         run: python tools/cache_bust_site.py docs
 
-      - name: Commit & push only if /docs changed
+      - name: Commit & push only if /docs changed (force-add JSON/CSV)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Prüfen, ob sich im Ordner /docs etwas geändert hat
-          if [[ -n "$(git status --porcelain docs)" ]]; then
-            git add -A docs
+          echo "[debug] git status before add:"; git status --porcelain docs || true
+
+          # Force-add, falls .gitignore JSON/CSV/HTML ausblendet
+          shopt -s nullglob
+          force=(docs/*.json docs/*.csv docs/report_all.html)
+          if [ ${#force[@]} -gt 0 ]; then
+            echo "[debug] force-adding: ${force[@]}"
+            git add -f ${force[@]} || true
+          fi
+
+          # Normales Add für alle anderen Änderungen
+          git add -A docs || true
+
+          echo "[debug] git status after add:"; git status --porcelain docs || true
+
+          if [[ -n "$(git diff --cached --name-only -- docs)" ]]; then
             git commit -m "Auto-build: update docs ($(date -u +"%Y-%m-%d %H:%M:%S UTC")) [skip ci]"
             git push origin HEAD:${{ github.ref_name }}
             echo "Changes pushed."
           else
-            echo "No changes in /docs – skipping commit."
+            echo "No staged changes in /docs – skipping commit."
           fi
