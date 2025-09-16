@@ -1,20 +1,23 @@
 # untis_monitor_scrape.py
-# Wartet bis >=8 Tabellen UND >=2 Header-Blöcke (Stunde/Klassen/Fach/Lehrkraft/Vertretungstext)
-# gerendert sind. Scrollt, falls lazy geladen wird. DE-Locale/Zeitzone gesetzt.
+# Lädt "heute", versucht dann zum nächsten Slide ("morgen") zu wechseln,
+# extrahiert beide Zustände und führt die Tabellen zusammen.
+# JSON wird NaN-frei geschrieben.
 
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import pandas as pd
-import json, re, time
+import json, re, time, hashlib
 from datetime import datetime
-import pathlib
+from pathlib import Path
 
 URL = "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage"
 
-OUTPUT_CSV = "webuntis_subst.csv"
-OUTPUT_JSON = "webuntis_subst.json"
-RAW_HTML = "webuntis_subst_raw.html"
+OUT_CSV  = "webuntis_subst.csv"
+OUT_JSON = "webuntis_subst.json"
+RAW1_HTML = "webuntis_subst_raw_1.html"
+RAW2_HTML = "webuntis_subst_raw_2.html"  # optional, nur wenn Slide 2 gefunden
 
+# ---------- HTML -> DataFrames ----------
 def _uniq_headers(headers):
     out, seen = [], {}
     for i, h in enumerate(headers):
@@ -51,9 +54,9 @@ def extract_tables(html: str):
             row = [c.get_text(separator=" ", strip=True) for c in cells]
             if any(cell for cell in row):
                 data_rows.append(row)
-        maxlen = max((len(r) for r in data_rows), default=0)
-        if maxlen == 0:
+        if not data_rows:
             continue
+        maxlen = max(len(r) for r in data_rows)
         if not headers or len(headers) != maxlen:
             headers = [f"col_{i+1}" for i in range(maxlen)]
         headers = _uniq_headers(headers)
@@ -64,96 +67,127 @@ def extract_tables(html: str):
         frames.append(df)
     return frames
 
-def _wait_until_ready(page, min_tables=8, min_headers=2, hard_timeout_ms=90000):
-    """Wartet bis mind. min_tables <table> und min_headers Header-Blöcke vorhanden sind.
-       Scrollt, um evtl. Lazy-Rendering/2. Tagesblock zu triggern."""
-    deadline = time.time() + hard_timeout_ms/1000
-    last_tables = -1
-    headers_found = 0
-    tables_count = 0
+# ---------- Warten / Slides ----------
+def _counts_from_html(html: str):
+    tables = len(re.findall(r"<table", html, flags=re.I))
+    headers = len(re.findall(
+        r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
+        html, flags=re.S | re.I))
+    return tables, headers
+
+def _wait_ready(page, min_tables=4, min_headers=1, timeout_s=90):
+    deadline = time.time() + timeout_s
+    html = page.content()
     while time.time() < deadline:
-        try:
-            tables_count = page.locator("table").count()
-        except Exception:
-            tables_count = 0
         html = page.content()
-        headers_found = len(re.findall(
-            r'>\s*Stunde\s*<.*?>\s*Klassen\s*<.*?>\s*Fach\s*<.*?>\s*Lehrkraft\s*<.*?>\s*Vertretungstext\s*<',
-            html, flags=re.S | re.I))
-        # zusätzlich: zwei Infozeilen "Klassen:" (eine je Tag) sind oft vorhanden
-        info_found = len(re.findall(r'Klassen:\s*\d', html))
+        t, h = _counts_from_html(html)
+        if t >= min_tables and h >= min_headers:
+            break
+        page.wait_for_timeout(700)
+    return html
 
-        if tables_count >= min_tables and headers_found >= min_headers:
-            return html, tables_count, headers_found, info_found
-
-        # Scrollen, kurze Pausen
+def _try_next_slide(page):
+    """Versucht, zum 'Morgen'-Slide zu wechseln: Pfeil rechts & gängige Next-Buttons."""
+    # 1) Tastatur (viele Slider reagieren auf ArrowRight/PageDown)
+    for key in ["ArrowRight", "PageDown"]:
         try:
-            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.keyboard.press(key)
+            page.wait_for_timeout(1200)
+            return True
         except Exception:
             pass
-        page.wait_for_timeout(800)
+    # 2) typische Next-Selectoren durchprobieren
+    selectors = [
+        ".slick-next", ".swiper-button-next", ".carousel-control-next",
+        "[aria-label*='weiter' i]", "[aria-label*='next' i]",
+        "button:has-text('Weiter')", "button:has-text('Nächste')",
+        ".next", ".arrow-right"
+    ]
+    for sel in selectors:
         try:
-            page.evaluate("window.scrollTo(0, 0)")
+            loc = page.locator(sel)
+            if loc.count() > 0:
+                loc.first.click()
+                page.wait_for_timeout(1200)
+                return True
         except Exception:
-            pass
-        page.wait_for_timeout(800)
+            continue
+    return False
 
-        # wenn sich nichts ändert, dennoch weiter warten, bis timeout erreicht
-        last_tables = tables_count
-
-    # Timeout: letztes HTML zurückgeben
-    return page.content(), tables_count, headers_found, 0
+# ---------- JSON helper (NaN -> None) ----------
+def df_records(df: pd.DataFrame):
+    return df.where(pd.notna(df), None).to_dict(orient="records")
 
 def main():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            locale="de-DE",
-            timezone_id="Europe/Berlin",
+            locale="de-DE", timezone_id="Europe/Berlin",
+            viewport={"width": 2400, "height": 1400},  # breit: zweiter Tag hat Platz
             user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
-            viewport={"width": 1366, "height": 1200},
         )
         page = context.new_page()
         page.goto(URL, wait_until="networkidle", timeout=120000)
-        page.wait_for_timeout(4000)  # Grundpuffer
-        html, tables_count, headers_found, info_found = _wait_until_ready(
-            page, min_tables=8, min_headers=2, hard_timeout_ms=90000
-        )
+        page.wait_for_timeout(2500)  # Grundpuffer
+
+        # ---- Slide 1 (heute)
+        html1 = _wait_ready(page, min_tables=4, min_headers=1, timeout_s=60)
+        Path(RAW1_HTML).write_text(html1, encoding="utf-8")
+        t1, h1 = _counts_from_html(html1)
+
+        # ---- Slide 2 (morgen) erzwingen
+        had_next = _try_next_slide(page)
+        page.wait_for_timeout(1200)
+        html2 = page.content()
+        # wenn HTML wirklich anders ist: erneut auf readiness warten
+        if hashlib.md5(html1.encode("utf-8")).hexdigest() != hashlib.md5(html2.encode("utf-8")).hexdigest():
+            html2 = _wait_ready(page, min_tables=4, min_headers=1, timeout_s=30)
+            Path(RAW2_HTML).write_text(html2, encoding="utf-8")
+            t2, h2 = _counts_from_html(html2)
+        else:
+            html2, t2, h2 = "", 0, 0
+
         context.close()
         browser.close()
 
-    pathlib.Path(RAW_HTML).write_text(html, encoding="utf-8")
+    # ---- Tabellen extrahieren & zusammenführen
+    frames_all = extract_tables(html1)
+    if html2:
+        frames_all += extract_tables(html2)
 
-    frames = extract_tables(html)
+    # Diagnose
     meta = {
         "url": URL,
         "scraped_at": datetime.now().isoformat(timespec="seconds"),
-        "tables_found": len(frames),
-        "tables_in_dom": tables_count,
-        "headers_found": headers_found,
-        "info_lines_found": info_found,
+        "slide1": {"tables": t1, "headers": h1},
+        "slide2": {"tried_next": had_next, "tables": t2, "headers": h2, "captured": bool(html2)},
+        "frames_total": len(frames_all),
         "locale": "de-DE",
         "timezone": "Europe/Berlin",
     }
 
-    if frames:
-        df_all = pd.concat(frames, ignore_index=True, join="outer")
-        df_all.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
+    # CSV + JSON schreiben
+    if frames_all:
+        df_all = pd.concat(frames_all, ignore_index=True, join="outer")
+        df_all.to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
+
         json_obj = {
             "meta": meta,
-            "tables": {str(i): frames[i].to_dict(orient="records") for i in range(len(frames))},
-            "combined": df_all.to_dict(orient="records"),
+            "tables": {str(i): df_records(frames_all[i]) for i in range(len(frames_all))},
+            "combined": df_records(df_all),
         }
     else:
-        soup = BeautifulSoup(html, "lxml")
+        # Fallback: gar keine Tabellen
+        soup = BeautifulSoup(html1 or "", "lxml")
         items = [el.get_text(" ", strip=True) for el in soup.select("div, li, p") if el.get_text(strip=True)]
-        json_obj = {"meta": {**meta, "note": "no tables found, raw text extracted"}, "text_blocks": items[:500]}
+        json_obj = {"meta": {**meta, "note": "no tables found, raw text extracted"},
+                    "text_blocks": items[:500]}
 
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(json_obj, f, ensure_ascii=False, indent=2)
+    # Striktes JSON (kein NaN)
+    Path(OUT_JSON).write_text(json.dumps(json_obj, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
 
-    print(f"Fertig. Meta: {meta}")
+    print("Fertig. Meta:", meta)
 
 if __name__ == "__main__":
     main()
