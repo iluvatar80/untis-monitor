@@ -1,0 +1,66 @@
+# .github/workflows/untis-monitor-cron.yml
+name: Build & Deploy (cron)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Mo–Fr, alle 30 Minuten von 05:00–18:00 Europe/Berlin
+    # GitHub Actions läuft in UTC → 03:00–16:00 UTC
+    - cron: "*/30 3-16 * * 1-5"
+
+concurrency:
+  group: untis-monitor-cron
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Berlin
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # wir wollen committen/pushen
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers (Chromium)
+        # requirements.txt enthält playwright==1.46.0 → Browser + System-Dependencies installieren
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Run scrape → normalize → build
+        run: |
+          python untis_monitor_scrape.py
+          python untis_normalize.py
+          python build_site.py
+
+      - name: Commit & push only if /site changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Prüfen, ob sich im Ordner /site etwas geändert hat
+          if [[ -n "$(git status --porcelain site)" ]]; then
+            git add -A site
+            git commit -m "Auto-build: update site ($(date -u +"%Y-%m-%d %H:%M:%S UTC")) [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+            echo "Changes pushed."
+          else
+            echo "No changes in /site – skipping commit."
+          fi
