@@ -1,156 +1,173 @@
 # untis_normalize.py
-# Normalisiert die aus dem WebUntis-Monitor extrahierten Tabellen zu
-# Klasse / Stunde / Fach / Lehrkraft / Text (+ Datum, soweit erkennbar).
+# Liest webuntis_subst_raw_1.html (heute) und webuntis_subst_raw_2.html (morgen),
+# extrahiert Tabellen, mappt auf ein einheitliches Schema und schreibt
+# untis_subst_normalized.json / .csv
 
-import json, re
+from pathlib import Path
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import date, timedelta
+import json
+import re
 
-JSON_PATH = "webuntis_subst.json"
-RAW_HTML = "webuntis_subst_raw.html"
-OUT_CSV = "untis_subst_normalized.csv"
-OUT_JSON = "untis_subst_normalized.json"
+RAW1 = Path("webuntis_subst_raw_1.html")  # heute
+RAW2 = Path("webuntis_subst_raw_2.html")  # morgen (optional)
 
-def load_tables():
-    with open(JSON_PATH, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    tables = data.get("tables", {})
-    tab_list = []
-    for k, rows in tables.items():
-        ti = rows[0].get("table_index") if rows else None
-        if ti is not None:
-            tab_list.append({"key": k, "rows": rows, "ti": ti})
-    tab_list.sort(key=lambda x: x["ti"])
-    return tab_list
+OUT_JSON = Path("untis_subst_normalized.json")
+OUT_CSV  = Path("untis_subst_normalized.csv")
 
-HDR_KEYS = {"Stunde","Klassen","Fach","Lehrkraft","Vertretungstext"}
-
-def cols_of(rows):
-    c=set()
-    for r in rows:
-        c.update(r.keys())
-    return list(c)
-
-def group_tables(tab_list):
-    """Gruppiert: Header-Tabelle (mit Spaltennamen) + die danach folgenden Datentabellen."""
-    groups = []
-    current = None
-    for t in tab_list:
-        c = cols_of(t["rows"])
-        is_header = (len(t["rows"]) <= 2) and any(
-            any(hk.lower() in col.lower() for col in c) for hk in HDR_KEYS
-        )
-        if is_header:
-            current = {"header_ti": t["ti"], "tables": [], "date": None}
-            groups.append(current)
+# ---------- HTML -> DataFrames (wie im Scraper) ----------
+def _uniq_headers(headers):
+    out, seen = [], {}
+    for i, h in enumerate(headers):
+        name = (h or "").strip() or f"col_{i+1}"
+        if name in seen:
+            seen[name] += 1
+            name = f"{name}_{seen[name]}"
         else:
-            if current is None:  # falls Seite ohne erkannten Header beginnt
-                current = {"header_ti": None, "tables": [], "date": None}
-                groups.append(current)
-            current["tables"].append(t)
-    return groups
+            seen[name] = 1
+        out.append(name)
+    return out
 
-def find_date_for_header_ti(html_text, header_ti):
-    soup = BeautifulSoup(html_text, "lxml")
-    all_tables = soup.find_all("table")
-    if header_ti is None or header_ti >= len(all_tables):
-        return None
-    node = all_tables[header_ti]
+def extract_tables_from_html(html: str):
+    soup = BeautifulSoup(html, "lxml")
+    tables = soup.find_all("table")
+    frames = []
+    for ti, table in enumerate(tables):
+        headers = []
+        thead = table.find("thead")
+        if thead:
+            headers = [h.get_text(strip=True) for h in thead.find_all(["th", "td"])]
+        rows = table.find_all("tr")
+        start_idx = 0
+        if not headers and rows:
+            ths = rows[0].find_all("th")
+            if ths:
+                headers = [th.get_text(strip=True) for h in ths]
+                start_idx = 1
+        data_rows = []
+        for r in rows[start_idx:]:
+            cells = r.find_all(["td", "th"])
+            if not cells:
+                continue
+            row = [c.get_text(separator=" ", strip=True) for c in cells]
+            if any(cell for cell in row):
+                data_rows.append(row)
+        if not data_rows:
+            continue
+        maxlen = max(len(r) for r in data_rows)
+        if not headers or len(headers) != maxlen:
+            headers = [f"col_{i+1}" for i in range(maxlen)]
+        headers = _uniq_headers(headers)
+        normalized = [r + [""] * (maxlen - len(r)) for r in data_rows]
+        df = pd.DataFrame(normalized, columns=headers)
+        df.insert(0, "table_index", ti)
+        df.columns = _uniq_headers(list(df.columns))
+        frames.append(df)
+    return frames
 
-    # Texte in den vorangehenden Geschwistern einsammeln (kleines Fenster)
-    txts = []
-    sib = node.previous_sibling
-    for _ in range(8):
-        if sib is None:
-            break
-        try:
-            s = sib.get_text(" ", strip=True) if hasattr(sib, "get_text") else str(sib).strip()
-        except Exception:
-            s = ""
-        if s:
-            txts.append(s)
-        sib = sib.previous_sibling
-    blob = " | ".join(reversed(txts))
-
-    # Datumsmuster: z.B. "Di 17.09.2025" oder "17.09.2025" oder "17.09."
-    m = re.search(r'((?:Mo|Di|Mi|Do|Fr|Sa|So)\w*\s*)?(\d{1,2}\.\d{1,2}\.\d{2,4})', blob)
-    if m:
-        return m.group(0)
-    m2 = re.search(r'(\d{1,2}\.\d{1,2}\.)', blob)
-    if m2:
-        return m2.group(1)
-    return None
-
-def first_nonempty(d, keys):
-    for k in keys:
-        v = d.get(k, "")
-        if isinstance(v, str):
-            v = v.strip()
-        if v:
-            return v
-    return ""
-
-def normalize(groups, html_text):
-    # Datum je Gruppe bestimmen
-    for g in groups:
-        g["date"] = find_date_for_header_ti(html_text, g["header_ti"])
-
-    out_rows = []
-    for gid, g in enumerate(groups, start=1):
-        for t in g["tables"]:
-            for r in t["rows"]:
-                klasse = first_nonempty(r, ["Klassen","Klasse","col_1"])
-                stunde = first_nonempty(r, ["Stunde","col_3"])
-                fach   = first_nonempty(r, ["Fach","col_5"])
-                lehr   = first_nonempty(r, ["Lehrkraft","Lehrer","col_6"])
-                text   = first_nonempty(r, ["Vertretungstext","Text","Info","Bemerkung","col_7"])
-
-                # Leere/Trennzeilen überspringen
-                if not any([klasse, stunde, fach, lehr, text]):
-                    continue
-
-                out_rows.append({
-                    "gruppe": gid,
-                    "datum": g.get("date") or "",
-                    "quelle_table_index": t["ti"],
-                    "klasse": klasse,
-                    "stunde": stunde,
-                    "fach": fach,
-                    "lehrkraft": lehr,
-                    "text": text
-                })
-
-    df = pd.DataFrame(out_rows)
-    if df.empty:
-        return df
-
-    # Stunde numerisch sortierbar machen
-    df["stunde_num"] = pd.to_numeric(df["stunde"], errors="coerce")
-    df.sort_values(
-        ["datum","klasse","stunde_num","fach","lehrkraft","text","quelle_table_index"],
-        inplace=True, na_position="last"
-    )
-    df.drop(columns=["stunde_num"], inplace=True)
-
-    # Dubletten entfernen
-    df = df.drop_duplicates(subset=["datum","klasse","stunde","fach","lehrkraft","text"])
-    return df
+def load_frames_for_day(path: Path, datum_str: str):
+    if not path.exists():
+        return []
+    html = path.read_text(encoding="utf-8", errors="ignore")
+    frames = extract_tables_from_html(html)
+    for df in frames:
+        df["__datum"] = datum_str
+    return frames
 
 def main():
-    tabs = load_tables()
-    groups = group_tables(tabs)
-    with open(RAW_HTML, "r", encoding="utf-8") as f:
-        html_text = f.read()
+    today = date.today()
+    datum1 = today.strftime("%d.%m.%Y")
+    datum2 = (today + timedelta(days=1)).strftime("%d.%m.%Y")
 
-    df = normalize(groups, html_text)
+    frames = []
+    # heute
+    frames += load_frames_for_day(RAW1, datum1)
+    # morgen (falls vorhanden)
+    frames += load_frames_for_day(RAW2, datum2)
 
-    if df.empty:
-        print("Keine verwertbaren Datenzeilen erkannt.")
-        return
+    if not frames:
+        raise SystemExit("Keine raw_HTML-Dateien gefunden (webuntis_subst_raw_1.html / _2.html).")
 
-    df.to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
-    df.to_json(OUT_JSON, orient="records", force_ascii=False, indent=2)
-    print(f"OK. {len(df)} Zeilen → {OUT_CSV} / {OUT_JSON}")
+    # Alles zusammenführen (später filtern)
+    df_all = pd.concat(frames, ignore_index=True, sort=False)
+
+    # Spalten-Mapping mit Fallbacks
+    def pick(*cols):
+        for c in cols:
+            if c in df_all.columns:
+                return df_all[c]
+        # Fallback leere Spalte
+        return pd.Series([""] * len(df_all))
+
+    klasse   = pick("Klassen", "klassen", "col_4")
+    stunde   = pick("Stunde", "stunde", "col_3")
+    fach     = pick("Fach", "fach", "col_5")
+    lehrer   = pick("Lehrkraft", "lehrkraft", "col_6")
+    text     = pick("Vertretungstext", "vertretungstext", "col_7")
+    datum    = df_all["__datum"] if "__datum" in df_all.columns else pd.Series([""] * len(df_all))
+
+    # Header-Zeilen erkennen und entfernen (z. B. "Stunde/Klassen/Fach/...")
+    is_header = (
+        stunde.astype(str).str.strip().str.lower().eq("stunde") &
+        klasse.astype(str).str.strip().str.lower().eq("klassen")
+    )
+
+    # Info-Zeilen "Klassen: 5a, 5b, ..." (ohne reguläre Spalten) als gruppe=1 durchlassen
+    col1 = pick("col_1")
+    is_info = col1.astype(str).str.strip().str.startswith("Klassen:")
+
+    # Relevante Datenzeilen: nicht Header, und etwas Inhalt vorhanden
+    has_any = (
+        klasse.astype(str).str.strip().ne("") |
+        stunde.astype(str).str.strip().ne("") |
+        fach.astype(str).str.strip().ne("") |
+        lehrer.astype(str).str.strip().ne("") |
+        text.astype(str).str.strip().ne("")
+    )
+
+    mask_data = (~is_header) & has_any
+
+    # Normierte Datensätze (gruppe=2)
+    df_data = pd.DataFrame({
+        "gruppe": 2,
+        "datum": datum.fillna(""),
+        "quelle_table_index": df_all.get("table_index", pd.Series([None] * len(df_all))),
+        "klasse": klasse.fillna(""),
+        "stunde": stunde.fillna(""),
+        "fach":   fach.fillna(""),
+        "lehrkraft": lehrer.fillna(""),
+        "text":   text.fillna(""),
+    })
+    df_data = df_data[mask_data].copy()
+
+    # Info-Datensätze (gruppe=1)
+    df_info = pd.DataFrame({
+        "gruppe": 1,
+        "datum": datum.fillna(""),
+        "quelle_table_index": df_all.get("table_index", pd.Series([None] * len(df_all))),
+        "klasse": col1.fillna(""),
+        "stunde": "",
+        "fach": "",
+        "lehrkraft": "",
+        "text": "",
+    })
+    df_info = df_info[is_info].copy()
+
+    # Zusammenführen, leere Zeilen entfernen, bereinigen
+    df_out = pd.concat([df_data, df_info], ignore_index=True)
+    # Whitespace normalisieren
+    for c in ["klasse", "stunde", "fach", "lehrkraft", "text", "datum"]:
+        df_out[c] = df_out[c].astype(str).str.replace(r"\s+", " ", regex=True).str.strip()
+
+    # Als JSON (ohne NaN) und CSV schreiben
+    OUT_JSON.write_text(
+        json.dumps(df_out.to_dict(orient="records"), ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    df_out.to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
+
+    print(f"OK. {len(df_out)} Zeilen → {OUT_CSV.name} / {OUT_JSON.name}")
 
 if __name__ == "__main__":
     main()
