@@ -6,7 +6,7 @@
     "klasse": "10a",
     "stunde": "2",
     "fach": "Che",
-    "lehrkraft": "Rom",
+    "lehrkraft": "<span>Rom</span>",
     "text": ""
   },
   {
@@ -16,7 +16,7 @@
     "klasse": "10a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -26,7 +26,7 @@
     "klasse": "10a, 10b",
     "stunde": "4",
     "fach": "WPU",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -36,7 +36,7 @@
     "klasse": "10a, 10b",
     "stunde": "4",
     "fach": "WPU",
-    "lehrkraft": "Boe",
+    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
@@ -46,7 +46,7 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "WiPo",
-    "lehrkraft": "Wei",
+    "lehrkraft": "<span>Wei</span>",
     "text": ""
   },
   {
@@ -66,7 +66,7 @@
     "klasse": "2a",
     "stunde": "2",
     "fach": "Deu",
-    "lehrkraft": "Nn",
+    "lehrkraft": "<span>Nn</span>",
     "text": ""
   },
   {
@@ -76,7 +76,7 @@
     "klasse": "2a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Pü",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -86,7 +86,7 @@
     "klasse": "2a",
     "stunde": "4",
     "fach": "Deu",
-    "lehrkraft": "Hm, Pü",
+    "lehrkraft": "Hm, <span>Pü</span>",
     "text": ""
   },
   {
@@ -96,7 +96,7 @@
     "klasse": "2c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -106,7 +106,7 @@
     "klasse": "3b",
     "stunde": "5",
     "fach": "Ma",
-    "lehrkraft": "Zi, Zi , Lü",
+    "lehrkraft": "Zi, <span>Zi</span>, Lü",
     "text": ""
   },
   {
@@ -186,7 +186,7 @@
     "klasse": "6d",
     "stunde": "4",
     "fach": "WK",
-    "lehrkraft": "Scm",
+    "lehrkraft": "<span>Scm</span>",
     "text": ""
   },
   {
@@ -196,7 +196,7 @@
     "klasse": "6d",
     "stunde": "5",
     "fach": "Sp",
-    "lehrkraft": "Bb",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -226,7 +226,7 @@
     "klasse": "7a",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "Jo",
+    "lehrkraft": "<span>Jo</span>",
     "text": ""
   },
   {
@@ -266,7 +266,7 @@
     "klasse": "7c",
     "stunde": "2",
     "fach": "Deu",
-    "lehrkraft": "Wei , Wei",
+    "lehrkraft": "<span>Wei</span>, <span>Wei</span>",
     "text": ""
   },
   {
@@ -276,7 +276,7 @@
     "klasse": "7c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Jo , Jo",
+    "lehrkraft": "<span>Jo</span>, <span>Jo</span>",
     "text": ""
   },
   {
@@ -286,7 +286,7 @@
     "klasse": "8a",
     "stunde": "2",
     "fach": "Eng",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -296,7 +296,7 @@
     "klasse": "8c",
     "stunde": "2",
     "fach": "IT",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -306,7 +306,7 @@
     "klasse": "8c",
     "stunde": "4",
     "fach": "Deu",
-    "lehrkraft": "Wei, Wei",
+    "lehrkraft": "Wei, <span>Wei</span>",
     "text": ""
   },
   {
@@ -316,7 +316,7 @@
     "klasse": "8c",
     "stunde": "5",
     "fach": "WiPo",
-    "lehrkraft": "Ca",
+    "lehrkraft": "<span>Ca</span>",
     "text": ""
   },
   {
@@ -336,7 +336,7 @@
     "klasse": "9b",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "We",
+    "lehrkraft": "<span>We</span>",
     "text": ""
   },
   {
@@ -346,7 +346,7 @@
     "klasse": "9c",
     "stunde": "5",
     "fach": "Che",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -356,7 +356,7 @@
     "klasse": "DaZ-a",
     "stunde": "2",
     "fach": "DaZ",
-    "lehrkraft": "Bb , Bb",
+    "lehrkraft": "<span>Bb</span>, Bb",
     "text": ""
   },
   {
@@ -366,7 +366,7 @@
     "klasse": "DaZ-a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Bb",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -376,7 +376,7 @@
     "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
-    "lehrkraft": "Jo, Jo",
+    "lehrkraft": "Jo, <span>Jo</span>",
     "text": ""
   },
   {
@@ -386,7 +386,7 @@
     "klasse": "10a",
     "stunde": "2",
     "fach": "Che",
-    "lehrkraft": "Rom",
+    "lehrkraft": "<span>Rom</span>",
     "text": ""
   },
   {
@@ -396,7 +396,7 @@
     "klasse": "10a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -406,7 +406,7 @@
     "klasse": "10a, 10b",
     "stunde": "4",
     "fach": "WPU",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -416,7 +416,7 @@
     "klasse": "10a, 10b",
     "stunde": "4",
     "fach": "WPU",
-    "lehrkraft": "Boe",
+    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
@@ -426,7 +426,7 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "WiPo",
-    "lehrkraft": "Wei",
+    "lehrkraft": "<span>Wei</span>",
     "text": ""
   },
   {
@@ -446,7 +446,7 @@
     "klasse": "2a",
     "stunde": "2",
     "fach": "Deu",
-    "lehrkraft": "Nn",
+    "lehrkraft": "<span>Nn</span>",
     "text": ""
   },
   {
@@ -456,7 +456,7 @@
     "klasse": "2a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Pü",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -466,7 +466,7 @@
     "klasse": "2a",
     "stunde": "4",
     "fach": "Deu",
-    "lehrkraft": "Hm, Pü",
+    "lehrkraft": "Hm, <span>Pü</span>",
     "text": ""
   },
   {
@@ -476,7 +476,7 @@
     "klasse": "2c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -486,7 +486,7 @@
     "klasse": "3b",
     "stunde": "5",
     "fach": "Ma",
-    "lehrkraft": "Zi, Zi , Lü",
+    "lehrkraft": "Zi, <span>Zi</span>, Lü",
     "text": ""
   },
   {
@@ -566,7 +566,7 @@
     "klasse": "6d",
     "stunde": "4",
     "fach": "WK",
-    "lehrkraft": "Scm",
+    "lehrkraft": "<span>Scm</span>",
     "text": ""
   },
   {
@@ -576,7 +576,7 @@
     "klasse": "6d",
     "stunde": "5",
     "fach": "Sp",
-    "lehrkraft": "Bb",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -606,7 +606,7 @@
     "klasse": "7a",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "Jo",
+    "lehrkraft": "<span>Jo</span>",
     "text": ""
   },
   {
@@ -646,7 +646,7 @@
     "klasse": "7c",
     "stunde": "2",
     "fach": "Deu",
-    "lehrkraft": "Wei , Wei",
+    "lehrkraft": "<span>Wei</span>, <span>Wei</span>",
     "text": ""
   },
   {
@@ -656,7 +656,7 @@
     "klasse": "7c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Jo , Jo",
+    "lehrkraft": "<span>Jo</span>, <span>Jo</span>",
     "text": ""
   },
   {
@@ -666,7 +666,7 @@
     "klasse": "8a",
     "stunde": "2",
     "fach": "Eng",
-    "lehrkraft": "---",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -676,7 +676,7 @@
     "klasse": "8c",
     "stunde": "2",
     "fach": "IT",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -686,7 +686,7 @@
     "klasse": "8c",
     "stunde": "4",
     "fach": "Deu",
-    "lehrkraft": "Wei, Wei",
+    "lehrkraft": "Wei, <span>Wei</span>",
     "text": ""
   },
   {
@@ -696,7 +696,7 @@
     "klasse": "8c",
     "stunde": "5",
     "fach": "WiPo",
-    "lehrkraft": "Ca",
+    "lehrkraft": "<span>Ca</span>",
     "text": ""
   },
   {
@@ -716,7 +716,7 @@
     "klasse": "9b",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "We",
+    "lehrkraft": "<span>We</span>",
     "text": ""
   },
   {
@@ -726,7 +726,7 @@
     "klasse": "9c",
     "stunde": "5",
     "fach": "Che",
-    "lehrkraft": "Ni",
+    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -736,7 +736,7 @@
     "klasse": "DaZ-a",
     "stunde": "2",
     "fach": "DaZ",
-    "lehrkraft": "Bb , Bb",
+    "lehrkraft": "<span>Bb</span>, Bb",
     "text": ""
   },
   {
@@ -746,7 +746,7 @@
     "klasse": "DaZ-a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "Bb",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -756,7 +756,7 @@
     "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
-    "lehrkraft": "Jo, Jo",
+    "lehrkraft": "Jo, <span>Jo</span>",
     "text": ""
   },
   {
