@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Vertretungen (alle Klassen / Tage)</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/datatables.net-dt@1.13.8/css/jquery.dataTables.min.css"/>
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;margin:16px}
+  header{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+  select{padding:6px 8px}
+  table.dataTable{border-collapse:collapse !important}
+  table.dataTable th, table.dataTable td{border:1px solid #ccc !important}
+  .muted{color:#666;font-size:0.9em}
+</style>
+</head>
+<body>
+  <header>
+    <div><strong>Datum:</strong> <select id="dateSel"><option value="">Alle Tage</option></select></div>
+    <div><strong>Klasse:</strong> <select id="classSel"><option value="">Alle Klassen</option></select></div>
+    <div class="muted" id="status"></div>
+  </header>
+
+  <table id="tbl" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>Datum</th><th>Klassen</th><th>Stunde</th><th>Fach</th><th>Lehrkraft</th><th>Vertretungstext</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/datatables.net@1.13.8/js/jquery.dataTables.min.js"></script>
+  <script>
+  (function(){
+    const params = new URLSearchParams(window.location.search);
+    const v = params.get('v') || Date.now().toString(); // Cache-Buster
+    const wantCls = params.get('cls') || '';
+
+    const url = 'untis_subst_normalized.json?v=2c15c98' + encodeURIComponent(v);
+
+    function escapeRegex(s){
+      return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    function uniqueSorted(arr){
+      return Array.from(new Set(arr.filter(Boolean))).sort((a,b)=>{
+        // DD.MM.YYYY natürlich sortieren
+        const pa = a.split('.').reverse().join('');
+        const pb = b.split('.').reverse().join('');
+        return pa.localeCompare(pb);
+      });
+    }
+
+    fetch(url)
+      .then(r => r.json())
+      .then(raw => {
+        const arr = Array.isArray(raw) ? raw
+                   : Array.isArray(raw?.rows) ? raw.rows
+                   : Array.isArray(raw?.data) ? raw.data
+                   : [];
+
+        // Map auf einheitliche Keys + nur gruppe==2 (Datenzeilen)
+        const rows = [];
+        for (const r of arr){
+          const grp = Number((r.gruppe ?? r.Gruppe ?? 2));
+          if (!Number.isNaN(grp) && grp !== 2) continue;
+
+          const Datum = String(r.Datum ?? r.datum ?? '').trim();
+          const Klassen = String(r.Klassen ?? r.klasse ?? '').trim();
+          const Stunde = String(r.Stunde ?? r.stunde ?? '').trim();
+          const Fach = String(r.Fach ?? r.fach ?? '').trim();
+          const Lehrkraft = String(r.Lehrkraft ?? r.lehrkraft ?? '').trim();
+          const Vertretungstext = String(r.Vertretungstext ?? r.text ?? '').trim();
+
+          // Min. Felder nötig, sonst ignorieren
+          if (!(Klassen || Stunde || Fach || Lehrkraft || Vertretungstext)) continue;
+
+          rows.push({Datum,Klassen,Stunde,Fach,Lehrkraft,Vertretungstext});
+        }
+
+        // Dropdowns füllen
+        const dates = uniqueSorted(rows.map(r => r.Datum));
+        const classes = uniqueSorted(
+          rows.flatMap(r => r.Klassen.split(',').map(s => s.trim()))
+        );
+
+        const dateSel = document.getElementById('dateSel');
+        const classSel = document.getElementById('classSel');
+        dateSel.innerHTML = '<option value="">Alle Tage</option>' + dates.map(d=>`<option value="${d}">${d}</option>`).join('');
+        classSel.innerHTML = '<option value="">Alle Klassen</option>' + classes.map(c=>`<option value="${c}">${c}</option>`).join('');
+
+        // Permalink-Vorauswahl
+        if (wantCls && classes.includes(wantCls)) classSel.value = wantCls;
+        const wantDate = params.get('date');
+        if (wantDate && dates.includes(wantDate)) dateSel.value = wantDate;
+
+        // Tabelle
+        const table = $('#tbl').DataTable({
+          data: rows,
+          deferRender: true,
+          pageLength: 50,
+          order: [[0,'asc'],[1,'asc'],[2,'asc']],
+          columns: [
+            {data:'Datum'},{data:'Klassen'},{data:'Stunde'},{data:'Fach'},{data:'Lehrkraft'},{data:'Vertretungstext'}
+          ],
+          language: { url: 'https://cdn.datatables.net/plug-ins/1.13.8/i18n/de-DE.json' }
+        });
+
+        function applyFilters(){
+          const d = dateSel.value.trim();
+          const c = classSel.value.trim();
+
+          // exaktes Datum
+          table.column(0).search(d ? '^'+escapeRegex(d)+'$' : '', true, false);
+          // Klasse als Teil in kommaseparierter Liste
+          table.column(1).search(c ? '(^|,\\s*)'+escapeRegex(c)+'(\\s*,|$)' : '', true, false);
+
+          table.draw();
+          const cnt = table.rows({filter:'applied'}).data().length;
+          document.getElementById('status').textContent = cnt + ' Einträge';
+        }
+
+        $('#dateSel, #classSel').on('change', applyFilters);
+
+        // Wichtig: Initial anwenden (Permalink)
+        applyFilters();
+      })
+      .catch(err=>{
+        console.error(err);
+        document.getElementById('status').textContent = 'Fehler beim Laden der Daten.';
+      });
+  })();
+  </script>
+</body>
+</html>
