@@ -1,6 +1,6 @@
 # untis_report_all.py
-# HTML-Report mit Dropdown-Filtern für Datum & Klasse (DataTables) + Tabellenlinien.
-# Alle { } in JS/CSS sind korrekt verdoppelt, damit .format() sicher funktioniert.
+# Report mit Datum-/Klassen-Dropdowns, Permalinks und Tabellenlinien.
+# Permalink-Beispiele: ?cls=8c  |  ?cls=8c&date=16.09.2025  |  …&refresh=120
 
 import html, json
 from pathlib import Path
@@ -18,7 +18,6 @@ TPL = """<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>{title}</title>
 
-<!-- DataTables (offizielles CDN) -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css"/>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
@@ -74,13 +73,30 @@ TPL = """<!doctype html>
 <script>
 (function(){{  // IIFE
   $(function(){{   // DOM ready
-    var table = $('#tbl').DataTable({{
-      pageLength: 50,
-      order: [[0,'asc'],[1,'asc'],[2,'asc']],   // Datum, Klasse, Stunde
-      columnDefs: [{{ targets: 2, type: 'num' }}]
-    }});
 
-    // Custom-Filter: exakter Datumstreffer + Klassen-Tokenvergleich
+    // --- Hilfsfunktionen ---
+    function selectInsensitive(selId, wanted) {{
+      if (!wanted) return;
+      var val = (''+wanted).trim().toLowerCase();
+      var sel = document.getElementById(selId);
+      if (!sel) return;
+      var match = null;
+      for (var i=0;i<sel.options.length;i++) {{
+        var opt = sel.options[i];
+        if (opt.value.toLowerCase() === val || opt.text.toLowerCase() === val) {{
+          match = opt.value; break;
+        }}
+      }}
+      if (match !== null) document.getElementById(selId).value = match;
+    }}
+
+    // --- URL-Parameter lesen (vor Init) ---
+    var params     = new URLSearchParams(window.location.search);
+    var clsParam   = params.get('cls')   || params.get('class') || params.get('c');
+    var dateParam  = params.get('date')  || params.get('d');
+    var refreshSec = parseInt(params.get('refresh') || params.get('r') || '0', 10);
+
+    // --- Custom-Filter registrieren (vor erster Zeichnung) ---
     $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {{
       var selDate = ($('#dateSel').val() || '').trim();
       var selCls  = ($('#classSel').val() || '').toLowerCase().trim();
@@ -88,10 +104,8 @@ TPL = """<!doctype html>
       var rowDate = (data[0] || '').trim();
       var rowCls  = (data[1] || '').toLowerCase();
 
-      // Datum: wenn gesetzt, muss exakt stimmen
       if (selDate && rowDate !== selDate) return false;
 
-      // Klasse: wenn gesetzt, match über Token (trennt , ; / | und Whitespace)
       if (selCls) {{
         var tokens = rowCls.split(/[\\s,;\\/|]+/).filter(Boolean);
         if (tokens.indexOf(selCls) === -1) return false;
@@ -99,8 +113,25 @@ TPL = """<!doctype html>
       return true;
     }});
 
-    // Trigger Redraw bei Auswahländerung
+    // --- DataTable initialisieren ---
+    var table = $('#tbl').DataTable({{
+      pageLength: 50,
+      order: [[0,'asc'],[1,'asc'],[2,'asc']],
+      columnDefs: [{{ targets: 2, type: 'num' }}]
+    }});
+
+    // --- Events binden ---
     $('#dateSel, #classSel').on('change', function(){{ table.draw(); }});
+
+    // --- Voreinstellungen aus URL anwenden und initial zeichnen ---
+    if (dateParam) selectInsensitive('dateSel',  dateParam);
+    if (clsParam)  selectInsensitive('classSel', clsParam);
+    table.draw();  // WICHTIG: damit Permalink sofort filtert
+
+    // --- Auto-Refresh (optional) ---
+    if (refreshSec > 0) {{
+      setTimeout(function() {{ location.reload(); }}, Math.max(5, refreshSec) * 1000);
+    }}
   }});
 }})();
 </script>
@@ -114,12 +145,12 @@ def main():
     if df.empty:
         raise SystemExit("Keine Daten in untis_subst_normalized.json")
 
-    # Nur echte Zeilen; Kopfzeilen raus; Stunde numerisch
+    # echte Zeilen, Stunde numerisch, Kopfzeilen raus
     df["stunde_num"] = pd.to_numeric(df["stunde"], errors="coerce")
     df = df[df["stunde_num"].notna()]
     df = df[~df["klasse"].astype(str).str.startswith("Klassen:")]
 
-    # Datum: falls leer, Gruppen heuristisch heute/morgen… zuordnen
+    # Datum: falls leer, Gruppen -> heute/morgen …
     if df["datum"].fillna("").str.strip().eq("").all():
         groups = sorted(df["gruppe"].dropna().unique())
         base = datetime.now().date()
@@ -128,19 +159,18 @@ def main():
     else:
         df["Datum"] = df["datum"].fillna("")
 
-    # Zielspalten
+    # Zielspalten vereinheitlichen + sortieren
     df["Klassen"] = df["klasse"].fillna("")
     df["Stunde"] = df["stunde"].fillna("")
     df["Fach"] = df["fach"].fillna("")
     df["Lehrkraft"] = df["lehrkraft"].fillna("")
     df["Vertretungstext"] = df["text"].fillna("")
 
-    # Sortierung
     df["Stunde_num_"] = pd.to_numeric(df["Stunde"], errors="coerce")
     df.sort_values(["Datum","Klassen","Stunde_num_","Fach","Lehrkraft"], inplace=True, na_position="last")
     df = df[["Datum","Klassen","Stunde","Fach","Lehrkraft","Vertretungstext"]]
 
-    # Dropdown-Werte
+    # Dropdown-Optionen erzeugen
     def parse_date(s):
         try:
             return datetime.strptime(s, "%d.%m.%Y")
@@ -152,7 +182,7 @@ def main():
     date_options  = "\n".join(f'          <option value="{html.escape(d)}">{html.escape(d)}</option>' for d in dates)
     class_options = "\n".join(f'          <option value="{html.escape(c)}">{html.escape(c)}</option>' for c in classes)
 
-    # Tabellenzeilen
+    # Tabellenkörper
     rows = []
     for _, r in df.iterrows():
         cells = [r[c] for c in ["Datum","Klassen","Stunde","Fach","Lehrkraft","Vertretungstext"]]
