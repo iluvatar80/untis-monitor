@@ -44,17 +44,46 @@ jobs:
 
       - name: Run scrape → normalize → build
         run: |
+          set -e
           python untis_monitor_scrape.py
-          python untis_normalize.py
+          python untis_normalize.py || echo "[warn] untis_normalize.py did not produce outputs (continuing)"
           python build_site.py
+
+      - name: Debug workspace (top-level)
+        run: |
+          echo "[debug] top-level files:"
+          ls -la
 
       - name: Publish folder (site → docs)
         run: |
           rm -rf docs
           mkdir -p docs
-          cp -a site/. docs/
-          # Sicherheit: Jekyll deaktivieren, damit JSON etc. unverändert served werden
+          if [ -d site ]; then
+            cp -a site/. docs/
+          else
+            echo "[warn] site/ directory not found"
+          fi
+          # Jekyll deaktivieren, damit JSON etc. unverändert served werden
           touch docs/.nojekyll
+
+      - name: Attach extra artifacts (root → docs if present)
+        run: |
+          shopt -s nullglob
+          for f in untis_subst_normalized.json untis_subst_normalized.csv debug_meta.json report_all.html; do
+            if [[ -f "$f" ]]; then
+              echo "[info] copying $f → docs/"
+              cp -f "$f" docs/
+            fi
+          done
+          # Falls nur report_all.html existiert, als index.html ablegen
+          if [[ -f "docs/report_all.html" && ! -f "docs/index.html" ]]; then
+            cp -f docs/report_all.html docs/index.html
+          fi
+
+      - name: List docs content
+        run: |
+          echo "[debug] docs content:"
+          ls -la docs
 
       - name: Cache-bust report assets
         run: python tools/cache_bust_site.py docs
