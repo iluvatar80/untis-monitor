@@ -1,0 +1,806 @@
+<!DOCTYPE html><html class="dj_webkit dj_chrome dj_contentbox"><head>
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <title>WebUntis</title>
+
+    <script type="text/javascript">
+        var dojoConfig = {
+            async: true,
+            has: {
+                // Deprecation-Warnungen ausgeben
+//                "dojo-debug-messages": true
+            },
+            baseUrl: "https://content.webuntis.com/WebUntis/static/2026.2.1/js/",
+            packages: [
+                {name: "dojo", location: "lib/dojo"},
+                {name: "dijit", location: "lib/dijit"},
+                {name: "dojox", location: "lib/dojox"},
+                {name: "put-selector", location: "lib/put-selector"},
+                "grupet",
+                "webuntis",
+                "webuntis-embedded",
+                "webuntis-anonymous",
+                "webuntis-monitor",
+                "pods",
+                "untis"
+            ],
+            grupet: {"locale":"de","contextPath":"/WebUntis","staticResourcesUrl":"https://content.webuntis.com/WebUntis/static/2026.2.1","loginServiceConfig":{"useNewSamlImplementation":true,"ssoSamlProviders":[],"loginError":"","lastUserName":"","lastMandantName":"","anonymousMode":true,"userRegistrationEnabled":true,"user":{"name":"anonym","id":-1,"departmentId":0,"roleId":0,"userGroupId":0,"personId":-1,"persons":[{"id":-1,"type":0,"displayName":"","longName":"","foreName":""}],"email":""},"ssoOffice365":false,"ssoOffice365LoginUrl":null,"adminEmail":null,"hideWuLogin":false,"oidcProviderLabel":"Anmeldung mit Iserv","ssoOidc":true},"calendarServiceConfig":{"today":null,"currentDate":"2025-09-16","currentSchoolyearId":17,"schoolyears":[{"startDate":"2020-08-10","endDate":"2021-06-19","schoolyearId":2,"finalMarkActive":true,"semesters":[],"name":"2020/2021","id":2},{"startDate":"2021-08-02","endDate":"2022-07-03","schoolyearId":6,"finalMarkActive":true,"semesters":[],"name":"2021/2022","id":6},{"startDate":"2022-08-15","endDate":"2023-07-16","schoolyearId":10,"finalMarkActive":true,"semesters":[],"name":"2022/2023","id":10},{"startDate":"2023-08-28","endDate":"2024-07-21","schoolyearId":13,"finalMarkActive":true,"semesters":[],"name":"2023/2024","id":13},{"startDate":"2024-09-02","endDate":"2025-07-27","schoolyearId":15,"finalMarkActive":true,"semesters":[],"name":"2024/2025","id":15},{"startDate":"2025-09-08","endDate":"2026-07-05","schoolyearId":17,"finalMarkActive":true,"semesters":[],"name":"2025/2026","id":17}],"holidays":[{"longName":"Herbstferien","startDate":"2025-10-20","endDate":"2025-10-31","bookingAllowed":false,"name":"Herbst"},{"longName":"Winterferien","startDate":"2025-12-19","endDate":"2026-01-06","bookingAllowed":false,"name":"Winter"},{"longName":"bewegl. Ferientag","startDate":"2026-02-02","endDate":"2026-02-02","bookingAllowed":false,"name":"bewegl."},{"longName":"bewegl. Ferientage","startDate":"2026-03-02","endDate":"2026-03-03","bookingAllowed":false,"name":"bewegl._1"},{"longName":"Osterferien","startDate":"2026-03-26","endDate":"2026-04-12","bookingAllowed":false,"name":"Ostern"},{"longName":"Pfingstferien","startDate":"2026-05-14","endDate":"2026-05-15","bookingAllowed":false,"name":"Pfingsten"}],"showWeekNumbers":false,"weekendDays":[0,6],"firstDayOfWeek":1,"minNumberOfDaysInFirstWeek":5},"serviceDescriptors":{"jsonBookingService":{"url":"jsonBookingService","methods":["changeBookingDate","getBookableRooms","isValidBookingId"]},"jsonStudentLessonMatrixService":{"url":"jsonStudentLessonMatrixService","methods":["getFilter","load","save"]},"jsonStudentgroupService":{"url":"jsonStudentgroupService","methods":["getStudentLessonPeriodMatrix","submitStudentLessonPeriodData"]},"jsonTeacherService":{"url":"jsonTeacherService","methods":["getEmailAddressesOfTeachers","updateTeacherVarQuota","updateTeacherVarStatus","getAllTeacherStatuses"]},"jsonLessonTopicService":{"url":"jsonLessonTopicService","methods":["renumberLessonTopics"]},"jsonUserProfileService":{"url":"jsonUserProfileService","methods":["activateTotp","getTotpKey","setNewAdminDetails","deactivateTotp","getPasswordRules","generateTotpKey","isTotpEnabled"]},"jsonHomeworkService":{"url":"jsonHomeworkService","methods":["save","deleteHomework"]},"jsonAddressService":{"url":"jsonAddressService","methods":["readFor","save","deleteAddress"]},"jsonKlasseService":{"url":"jsonKlasseService","methods":["getUserIdsOfKlassen","getStudentIdsOfKlassen","getTeacherIdsOfKlassen","getPersonIdsOfKlassen"]}},"messageServiceConfig":null,"appColors":[{"id":1,"labelKey":"LBL_FREE_HOUR","backColor":"#eceded"},{"id":2,"labelKey":"IDC_LESSON","backColor":"#f49f25"},{"id":3,"labelKey":"LBL_NOT_CONFIRMED","backColor":"#d7dd7a"},{"id":4,"labelKey":"LBL_ACTIVITY","backColor":"#b0bc00"},{"id":5,"labelKey":"LBL_STORNO_BK","backColor":"#f3c480"},{"id":6,"labelKey":"LBL_HOUR_NOT_ALLOWED","backColor":"#b1b3b4"},{"id":7,"labelKey":"LBL_HOLIDAY_BK","backColor":"#53aedd"},{"id":8,"labelKey":"LBL_HOLIDAY_NO_BK","backColor":"#a2d8f4"},{"id":9,"labelKey":"HDR_CONFLICT_LIST","backColor":"#e53527"},{"id":10,"labelKey":"LBL_SUBSTITUTION","backColor":"#a781b5"},{"id":11,"labelKey":"LBL_CANCELLED","backColor":"#b1b3b4"},{"id":12,"labelKey":"LBL_WITHOUT_ELEM","backColor":"#0000ff"},{"id":13,"labelKey":"LBL_ELEM_CHANGED","backColor":"#a781b5"},{"id":14,"labelKey":"LBL_SHIFT","backColor":"#a781b5"},{"id":15,"labelKey":"LBL_SPECIALDUTY","backColor":"#a781b5"},{"id":16,"labelKey":"LBL_EXAM","backColor":"#ffed00"},{"id":17,"labelKey":"IDC_BREAKSUPERVISION","backColor":"#ea6ea3"},{"id":18,"labelKey":"IDC_STANDBY","backColor":"#f49f25"},{"id":19,"labelKey":"IDC_OFFICEHOUR","backColor":"#f49f25"},{"id":20,"labelKey":"LBL_ABSENCE","backColor":"#e53527"}]}
+        };
+        dojoConfig.locale = dojoConfig.grupet.locale;
+
+        window.untisUIVersion = 1;
+        window.untisMomentLocale= "de";
+        window.untis__webpack_public_path__ = "https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/";
+    </script>
+
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/moment/moment.min.js"></script>
+
+
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/moment/locale/de.js"></script>
+    <script type="text/javascript">moment.locale("de");</script>
+
+
+    
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/webpack.js"></script>
+
+    
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/react.js"></script>
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/ramda.js"></script>
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/rx.js"></script>
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/ag-grid.js"></script>
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/draft-js.js"></script>
+    <script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/immutable.js"></script>
+
+
+
+    
+
+    <script type="text/javascript">
+        // IE 9 console patch
+        var method;
+        var noop = function () {};
+        var methods = [
+            'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+            'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+            'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+            'timeStamp', 'trace', 'warn'
+        ];
+        var length = methods.length;
+        var console = (window.console = window.console || {});
+
+        while (length--) {
+            method = methods[length];
+
+            // Only stub undefined methods.
+            if (!console[method]) {
+                console[method] = noop;
+            }
+        }
+
+        // IE 10 Fix
+        if (window.navigator.language === undefined) {
+            window.navigator.language = window.navigator.userLanguage;
+        }
+    </script>
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/webuntis.css">
+    <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/widgets.css">
+    <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/icons.css">
+
+    
+    
+    
+    
+    <link rel="stylesheet" href="/WebUntis/appColor/viewColors.css">
+
+    
+        
+        
+            <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dojo/resources/dojo.css">
+            <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dijit/themes/claro/claro.css">
+            <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/anonymous.css">
+        
+    
+
+    <script src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/socket.io-2.1.1.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/nls/main_de.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/SubstitutionMonitor.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/TickerMonitor.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/Ticker.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/reloadTimer.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/ProgressBar.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/grupet/widget/AutoScrollingTable.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/AbsenceHeader.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dojo/number.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/grupet/widget/scrollabletable/ScrollableTable.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/grupet/widget/scrollabletable/measureTable.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/grupet/widget/scrollabletable/renderTableHeader.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/grupet/widget/scrollabletable/renderTableBody.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dojo/cldr/nls/number.js"></script><script type="text/javascript" charset="utf-8" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dojo/cldr/nls/de/number.js"></script><script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/lib/dojo/dojo.js"></script>
+
+    <link rel="stylesheet" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/clusterize-0.18.1.min.css">
+    <script src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/clusterize-0.18.1.min.js"></script>
+
+    
+    <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/Styles/font-awesome.css">
+    <style type="text/css">
+        @font-face {
+            font-family: "Noto Sans";
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/NotoSans-Regular.ttf) format("truetype");
+        }
+        @font-face {
+            font-family: "Space Grotesk";
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/SpaceGrotesk-Regular.ttf) format("truetype");
+        }
+        @font-face {
+            font-family: "UNIcons";
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/UNIcons.woff) format("woff");
+        }
+        @font-face {
+            font-family: 'AvenirNextW05';
+            font-weight: 400;
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Regular.eot?#iefix);
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Regular.eot?#iefix) format('eot'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Regular.woff2) format('woff2'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Regular.woff) format('woff'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Regular.ttf) format('truetype');
+        }
+        @font-face {
+            font-family: 'AvenirNextW05';
+            font-weight: 600;
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Demi.eot?#iefix);
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Demi.eot?#iefix) format('eot'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Demi.woff2) format('woff2'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Demi.woff) format('woff'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Demi.ttf) format('truetype');
+        }
+
+        @font-face {
+            font-family: 'AvenirNextW05';
+            font-weight: 700;
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Bold.eot?#iefix);
+            src: url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Bold.eot?#iefix) format('eot'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Bold.woff2) format('woff2'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Bold.woff) format('woff'), url(https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/fonts/AvenirNextW05-Bold.ttf) format('truetype');
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/styles/wrapper.css">
+<style>/*!
+ * https://github.com/YouCanBookMe/react-datetime
+ */
+
+.rdt {
+  position: relative;
+}
+.rdtPicker {
+  display: none;
+  position: absolute;
+  width: 250px;
+  padding: 4px;
+  margin-top: 1px;
+  z-index: 99999 !important;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,.1);
+  border: 1px solid #f9f9f9;
+}
+.rdtOpen .rdtPicker {
+  display: block;
+}
+.rdtStatic .rdtPicker {
+  box-shadow: none;
+  position: static;
+}
+
+.rdtPicker .rdtTimeToggle {
+  text-align: center;
+}
+
+.rdtPicker table {
+  width: 100%;
+  margin: 0;
+}
+.rdtPicker td,
+.rdtPicker th {
+  text-align: center;
+  height: 28px;
+}
+.rdtPicker td {
+  cursor: pointer;
+}
+.rdtPicker td.rdtDay:hover,
+.rdtPicker td.rdtHour:hover,
+.rdtPicker td.rdtMinute:hover,
+.rdtPicker td.rdtSecond:hover,
+.rdtPicker .rdtTimeToggle:hover {
+  background: #eeeeee;
+  cursor: pointer;
+}
+.rdtPicker td.rdtOld,
+.rdtPicker td.rdtNew {
+  color: #999999;
+}
+.rdtPicker td.rdtToday {
+  position: relative;
+}
+.rdtPicker td.rdtToday:before {
+  content: '';
+  display: inline-block;
+  border-left: 7px solid transparent;
+  border-bottom: 7px solid #428bca;
+  border-top-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+}
+.rdtPicker td.rdtActive,
+.rdtPicker td.rdtActive:hover {
+  background-color: #428bca;
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.rdtPicker td.rdtActive.rdtToday:before {
+  border-bottom-color: #fff;
+}
+.rdtPicker td.rdtDisabled,
+.rdtPicker td.rdtDisabled:hover {
+  background: none;
+  color: #999999;
+  cursor: not-allowed;
+}
+
+.rdtPicker td span.rdtOld {
+  color: #999999;
+}
+.rdtPicker td span.rdtDisabled,
+.rdtPicker td span.rdtDisabled:hover {
+  background: none;
+  color: #999999;
+  cursor: not-allowed;
+}
+.rdtPicker th {
+  border-bottom: 1px solid #f9f9f9;
+}
+.rdtPicker .dow {
+  width: 14.2857%;
+  border-bottom: none;
+  cursor: default;
+}
+.rdtPicker th.rdtSwitch {
+  width: 100px;
+}
+.rdtPicker th.rdtNext,
+.rdtPicker th.rdtPrev {
+  font-size: 21px;
+  vertical-align: top;
+}
+
+.rdtPrev span,
+.rdtNext span {
+  display: block;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;
+}
+
+.rdtPicker th.rdtDisabled,
+.rdtPicker th.rdtDisabled:hover {
+  background: none;
+  color: #999999;
+  cursor: not-allowed;
+}
+.rdtPicker thead tr:first-child th {
+  cursor: pointer;
+}
+.rdtPicker thead tr:first-child th:hover {
+  background: #eeeeee;
+}
+
+.rdtPicker tfoot {
+  border-top: 1px solid #f9f9f9;
+}
+
+.rdtPicker button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.rdtPicker button:hover {
+  background-color: #eee;
+}
+
+.rdtPicker thead button {
+  width: 100%;
+  height: 100%;
+}
+
+td.rdtMonth,
+td.rdtYear {
+  height: 50px;
+  width: 25%;
+  cursor: pointer;
+}
+td.rdtMonth:hover,
+td.rdtYear:hover {
+  background: #eee;
+}
+
+.rdtCounters {
+  display: inline-block;
+}
+
+.rdtCounters > div {
+  float: left;
+}
+
+.rdtCounter {
+  height: 100px;
+}
+
+.rdtCounter {
+  width: 40px;
+}
+
+.rdtCounterSeparator {
+  line-height: 100px;
+}
+
+.rdtCounter .rdtBtn {
+  height: 40%;
+  line-height: 40px;
+  cursor: pointer;
+  display: block;
+
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;
+}
+.rdtCounter .rdtBtn:hover {
+  background: #eee;
+}
+.rdtCounter .rdtCount {
+  height: 20%;
+  font-size: 1.2em;
+}
+
+.rdtMilli {
+  vertical-align: middle;
+  padding-left: 8px;
+  width: 48px;
+}
+
+.rdtMilli input {
+  width: 100%;
+  font-size: 1.2em;
+  margin-top: 37px;
+}
+
+.rdtTime td {
+  cursor: default;
+}
+</style><style>.Toastify__toast-container {
+  z-index: 9999;
+  position: fixed;
+  padding: 4px;
+  width: 320px;
+  box-sizing: border-box;
+  color: #fff; }
+  .Toastify__toast-container--top-left {
+    top: 1em;
+    left: 1em; }
+  .Toastify__toast-container--top-center {
+    top: 1em;
+    left: 50%;
+    margin-left: -160px; }
+  .Toastify__toast-container--top-right {
+    top: 1em;
+    right: 1em; }
+  .Toastify__toast-container--bottom-left {
+    bottom: 1em;
+    left: 1em; }
+  .Toastify__toast-container--bottom-center {
+    bottom: 1em;
+    left: 50%;
+    margin-left: -160px; }
+  .Toastify__toast-container--bottom-right {
+    bottom: 1em;
+    right: 1em; }
+
+@media only screen and (max-width: 480px) {
+  .Toastify__toast-container {
+    width: 100vw;
+    padding: 0;
+    left: 0;
+    margin: 0; }
+    .Toastify__toast-container--top-left, .Toastify__toast-container--top-center, .Toastify__toast-container--top-right {
+      top: 0; }
+    .Toastify__toast-container--bottom-left, .Toastify__toast-container--bottom-center, .Toastify__toast-container--bottom-right {
+      bottom: 0; }
+    .Toastify__toast-container--rtl {
+      right: 0;
+      left: initial; } }
+
+.Toastify__toast {
+  position: relative;
+  min-height: 64px;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+  padding: 8px;
+  border-radius: 1px;
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1), 0 2px 15px 0 rgba(0, 0, 0, 0.05);
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  max-height: 800px;
+  overflow: hidden;
+  font-family: sans-serif;
+  cursor: pointer;
+  direction: ltr; }
+  .Toastify__toast--rtl {
+    direction: rtl; }
+  .Toastify__toast--default {
+    background: #fff;
+    color: #aaa; }
+  .Toastify__toast--info {
+    background: #3498db; }
+  .Toastify__toast--success {
+    background: #07bc0c; }
+  .Toastify__toast--warning {
+    background: #f1c40f; }
+  .Toastify__toast--error {
+    background: #e74c3c; }
+  .Toastify__toast-body {
+    margin: auto 0;
+    -ms-flex: 1;
+        flex: 1; }
+
+@media only screen and (max-width: 480px) {
+  .Toastify__toast {
+    margin-bottom: 0; } }
+
+.Toastify__close-button {
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  background: transparent;
+  outline: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: 0.3s ease;
+  -ms-flex-item-align: start;
+      align-self: flex-start; }
+  .Toastify__close-button--default {
+    color: #000;
+    opacity: 0.3; }
+  .Toastify__close-button:hover, .Toastify__close-button:focus {
+    opacity: 1; }
+
+@keyframes Toastify__trackProgress {
+  0% {
+    transform: scaleX(1); }
+  100% {
+    transform: scaleX(0); } }
+
+.Toastify__progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  z-index: 9999;
+  opacity: 0.7;
+  background-color: rgba(255, 255, 255, 0.7);
+  transform-origin: left; }
+  .Toastify__progress-bar--animated {
+    animation: Toastify__trackProgress linear 1 forwards; }
+  .Toastify__progress-bar--controlled {
+    transition: transform .2s; }
+  .Toastify__progress-bar--rtl {
+    right: 0;
+    left: initial;
+    transform-origin: right; }
+  .Toastify__progress-bar--default {
+    background: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55); }
+
+@keyframes Toastify__bounceInRight {
+  from,
+  60%,
+  75%,
+  90%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  from {
+    opacity: 0;
+    transform: translate3d(3000px, 0, 0); }
+  60% {
+    opacity: 1;
+    transform: translate3d(-25px, 0, 0); }
+  75% {
+    transform: translate3d(10px, 0, 0); }
+  90% {
+    transform: translate3d(-5px, 0, 0); }
+  to {
+    transform: none; } }
+
+@keyframes Toastify__bounceOutRight {
+  20% {
+    opacity: 1;
+    transform: translate3d(-20px, 0, 0); }
+  to {
+    opacity: 0;
+    transform: translate3d(2000px, 0, 0); } }
+
+@keyframes Toastify__bounceInLeft {
+  from,
+  60%,
+  75%,
+  90%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% {
+    opacity: 0;
+    transform: translate3d(-3000px, 0, 0); }
+  60% {
+    opacity: 1;
+    transform: translate3d(25px, 0, 0); }
+  75% {
+    transform: translate3d(-10px, 0, 0); }
+  90% {
+    transform: translate3d(5px, 0, 0); }
+  to {
+    transform: none; } }
+
+@keyframes Toastify__bounceOutLeft {
+  20% {
+    opacity: 1;
+    transform: translate3d(20px, 0, 0); }
+  to {
+    opacity: 0;
+    transform: translate3d(-2000px, 0, 0); } }
+
+@keyframes Toastify__bounceInUp {
+  from,
+  60%,
+  75%,
+  90%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  from {
+    opacity: 0;
+    transform: translate3d(0, 3000px, 0); }
+  60% {
+    opacity: 1;
+    transform: translate3d(0, -20px, 0); }
+  75% {
+    transform: translate3d(0, 10px, 0); }
+  90% {
+    transform: translate3d(0, -5px, 0); }
+  to {
+    transform: translate3d(0, 0, 0); } }
+
+@keyframes Toastify__bounceOutUp {
+  20% {
+    transform: translate3d(0, -10px, 0); }
+  40%,
+  45% {
+    opacity: 1;
+    transform: translate3d(0, 20px, 0); }
+  to {
+    opacity: 0;
+    transform: translate3d(0, -2000px, 0); } }
+
+@keyframes Toastify__bounceInDown {
+  from,
+  60%,
+  75%,
+  90%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -3000px, 0); }
+  60% {
+    opacity: 1;
+    transform: translate3d(0, 25px, 0); }
+  75% {
+    transform: translate3d(0, -10px, 0); }
+  90% {
+    transform: translate3d(0, 5px, 0); }
+  to {
+    transform: none; } }
+
+@keyframes Toastify__bounceOutDown {
+  20% {
+    transform: translate3d(0, 10px, 0); }
+  40%,
+  45% {
+    opacity: 1;
+    transform: translate3d(0, -20px, 0); }
+  to {
+    opacity: 0;
+    transform: translate3d(0, 2000px, 0); } }
+
+.Toastify__bounce-enter--top-left, .Toastify__bounce-enter--bottom-left {
+  animation-name: Toastify__bounceInLeft; }
+
+.Toastify__bounce-enter--top-right, .Toastify__bounce-enter--bottom-right {
+  animation-name: Toastify__bounceInRight; }
+
+.Toastify__bounce-enter--top-center {
+  animation-name: Toastify__bounceInDown; }
+
+.Toastify__bounce-enter--bottom-center {
+  animation-name: Toastify__bounceInUp; }
+
+.Toastify__bounce-exit--top-left, .Toastify__bounce-exit--bottom-left {
+  animation-name: Toastify__bounceOutLeft; }
+
+.Toastify__bounce-exit--top-right, .Toastify__bounce-exit--bottom-right {
+  animation-name: Toastify__bounceOutRight; }
+
+.Toastify__bounce-exit--top-center {
+  animation-name: Toastify__bounceOutUp; }
+
+.Toastify__bounce-exit--bottom-center {
+  animation-name: Toastify__bounceOutDown; }
+
+@keyframes Toastify__zoomIn {
+  from {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3); }
+  50% {
+    opacity: 1; } }
+
+@keyframes Toastify__zoomOut {
+  from {
+    opacity: 1; }
+  50% {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3); }
+  to {
+    opacity: 0; } }
+
+.Toastify__zoom-enter {
+  animation-name: Toastify__zoomIn; }
+
+.Toastify__zoom-exit {
+  animation-name: Toastify__zoomOut; }
+
+@keyframes Toastify__flipIn {
+  from {
+    transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+    animation-timing-function: ease-in;
+    opacity: 0; }
+  40% {
+    transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+    animation-timing-function: ease-in; }
+  60% {
+    transform: perspective(400px) rotate3d(1, 0, 0, 10deg);
+    opacity: 1; }
+  80% {
+    transform: perspective(400px) rotate3d(1, 0, 0, -5deg); }
+  to {
+    transform: perspective(400px); } }
+
+@keyframes Toastify__flipOut {
+  from {
+    transform: perspective(400px); }
+  30% {
+    transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+    opacity: 1; }
+  to {
+    transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+    opacity: 0; } }
+
+.Toastify__flip-enter {
+  animation-name: Toastify__flipIn; }
+
+.Toastify__flip-exit {
+  animation-name: Toastify__flipOut; }
+
+@keyframes Toastify__slideInRight {
+  from {
+    transform: translate3d(110%, 0, 0);
+    visibility: visible; }
+  to {
+    transform: translate3d(0, 0, 0); } }
+
+@keyframes Toastify__slideInLeft {
+  from {
+    transform: translate3d(-110%, 0, 0);
+    visibility: visible; }
+  to {
+    transform: translate3d(0, 0, 0); } }
+
+@keyframes Toastify__slideInUp {
+  from {
+    transform: translate3d(0, 110%, 0);
+    visibility: visible; }
+  to {
+    transform: translate3d(0, 0, 0); } }
+
+@keyframes Toastify__slideInDown {
+  from {
+    transform: translate3d(0, -110%, 0);
+    visibility: visible; }
+  to {
+    transform: translate3d(0, 0, 0); } }
+
+@keyframes Toastify__slideOutRight {
+  from {
+    transform: translate3d(0, 0, 0); }
+  to {
+    visibility: hidden;
+    transform: translate3d(110%, 0, 0); } }
+
+@keyframes Toastify__slideOutLeft {
+  from {
+    transform: translate3d(0, 0, 0); }
+  to {
+    visibility: hidden;
+    transform: translate3d(-110%, 0, 0); } }
+
+@keyframes Toastify__slideOutDown {
+  from {
+    transform: translate3d(0, 0, 0); }
+  to {
+    visibility: hidden;
+    transform: translate3d(0, 500px, 0); } }
+
+@keyframes Toastify__slideOutUp {
+  from {
+    transform: translate3d(0, 0, 0); }
+  to {
+    visibility: hidden;
+    transform: translate3d(0, -500px, 0); } }
+
+.Toastify__slide-enter--top-left, .Toastify__slide-enter--bottom-left {
+  animation-name: Toastify__slideInLeft; }
+
+.Toastify__slide-enter--top-right, .Toastify__slide-enter--bottom-right {
+  animation-name: Toastify__slideInRight; }
+
+.Toastify__slide-enter--top-center {
+  animation-name: Toastify__slideInDown; }
+
+.Toastify__slide-enter--bottom-center {
+  animation-name: Toastify__slideInUp; }
+
+.Toastify__slide-exit--top-left, .Toastify__slide-exit--bottom-left {
+  animation-name: Toastify__slideOutLeft; }
+
+.Toastify__slide-exit--top-right, .Toastify__slide-exit--bottom-right {
+  animation-name: Toastify__slideOutRight; }
+
+.Toastify__slide-exit--top-center {
+  animation-name: Toastify__slideOutUp; }
+
+.Toastify__slide-exit--bottom-center {
+  animation-name: Toastify__slideOutDown; }</style><style type="text/css" id="monitorStyles">.WebUntisMonitor, .WebUntisMonitor .container {text-align: center; overflow: hidden;}.grupet_widget_AutoScrollingTable table{margin: auto;}.WebUntisMonitor p {font-size: 16px; background-color: inherit;}.gp_SubstitutionMonitor_AbsenceHeader {font-size: 16px; color: black;}.gp_SubstitutionMonitor_AbsenceHeader span.bold{font-weight: bold;}table.noSpacing{border-spacing: 0;}.gp_SubstitutionMonitor_AbsenceHeader table{width: 100%;}.gp_SubstitutionMonitor_AbsenceHeader td{text-align: left; vertical-align: top;}.gp_SubstitutionMonitor_AbsenceHeader .messageContent {vertical-align: middle;}.gp_SubstitutionMonitor_AbsenceHeader .regularFree .regularFreeContent{background-color: black; color: #ff9900; text-align: center; font-weight: bold;}.WebUntisMonitor .title{font-size: 19px; font-family: Verdana,serif; font-style: normal; font-weight: 900; color: #ff9900; background-color: #ffffff; padding:2px;}.WebUntisMonitor .status{font-size: 12px; font-weight: normal; color: black;}.WebUntisMonitor .noData {padding: 10px 0 10px 0; margin: 0px;}.WebUntisMonitor td, .WebUntisMonitor th {font-size: 16px; padding: 5px 3px;}.WebUntisMonitor th div {font-size: 16px; overflow-x: hidden;}.WebUntisMonitor td div {font-size: 16px;}.WebUntisMonitor th {padding-bottom: 2px;}.WebUntisMonitor .dijitProgressBar {height: 9px; margin: 0 auto !important;}.WebUntisMonitor .dijitProgressBar div {font-size: 9px !important;}.WebUntisMonitor .ticker{height: 26px; border-top: 1px solid black; padding-top: 3px; overflow: hidden;}.WebUntisMonitor .tickerContent{font-size: 16px; font-weight: bold; white-space: nowrap; position: relative; display: inline;}.WebUntisMonitor .tickerSeparator{padding-left: 20px; padding-right: 20px;}.WebUntisMonitor .evenGroup {color: black; background-color: #a3c9fa;}.WebUntisMonitor .oddGroup {color: black; background-color: #5b9df4;}.WebUntisMonitor tr.odd {color: black; background-color: #daecf8;}.WebUntisMonitor tr.even {color: black; background-color: #f2f7fb;}.untis-monitor-progressbar {height: 9px; width: 100%; margin: 0; padding: 0; background-color: white; border: 1px solid #759dc0; position: relative; overflow: hidden;}.untis-monitor-progressbar .untis-monitor-progressbar-bar {height: 100%; position: absolute; width: auto; border: 1px solid #759dc0; border-top: 0; border-bottom: 0;}</style></head>
+<body class="claro WebUntisMonitor">
+ <!--[if lt IE 9]>
+<div style="background: yellow; padding: 5px;">
+    
+        
+        
+            <a href="https://content.webuntis.com/WebUntis/static/2026.2.1/html/browser-not-supported-en.html" style="text-decoration: none; color: black;">
+                Your browser might not be supported by WebUntis - click here for further information!
+            </a>
+        
+    
+</div>
+<![endif]-->
+
+
+
+
+<script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/untis/wrapper.js"></script>
+<script type="text/javascript" src="https://content.webuntis.com/WebUntis/static/2026.2.1/js/webuntis-monitor/main.js"></script>
+
+
+<div class="WebUntisMonitor_errorNode hidden"></div><div style="position: absolute; top: 0px; left: 0px; width: 1192.5px; height: 1374px; margin: 0px; padding: 0px 3px;"><div data-dojo-attach-point="containerNode" class="gp_SubstitutionMonitor" id="dijit__WidgetsInTemplateMixin_0" title="Vertretungen:" widgetid="dijit__WidgetsInTemplateMixin_0" style="width: 1192.5px; height: 1374px;">
+    <div data-dojo-attach-point="header">
+        <div data-dojo-attach-point="progressBar" data-dojo-type="webuntis-monitor/ProgressBar" class="untis-monitor-progressbar" id="dijit__Widget_0" widgetid="dijit__Widget_0"><div class="untis-monitor-progressbar-bar dijitProgressBarTile" style="left: 32.3891%; right: 62.6109%;"></div></div>
+        <div class="title" data-dojo-attach-point="titleNode">Vertretungen:<span data-dojo-attach-point="dateNode"> Mittwoch, 17.09.2025</span></div>
+        <div class="status" data-dojo-attach-point="statusNode">Stand: 16.09.2025 14:57:21</div>
+        <div data-dojo-attach-point="absenceHeaderNode"><div class="gp_SubstitutionMonitor_AbsenceHeader" id="dijit__WidgetBase_2" widgetid="dijit__WidgetBase_2"><table id="dijit__WidgetBase_3" widgetid="dijit__WidgetBase_3"><tr class="odd"><td><span class="bold">Klassen: </span><span>10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a</span></td></tr></table><table id="dijit__WidgetBase_4" widgetid="dijit__WidgetBase_4"></table></div></div>
+    </div>
+    <div class="grupet_widget_ScrollableTable grupet_widget_AutoScrollingTable" data-dojo-attach-point="table" data-dojo-type="grupet/widget/AutoScrollingTable" data-dojo-attach-event="onScroll:_updateProgressBar" id="uniqName_15_0" widgetid="uniqName_15_0" style="height: 1290px;"><div><table><thead><tr class=""><th style="width: 50.4531px;"><div>&nbsp;</div></th><th style="width: 10.4531px;"><div>&nbsp;</div></th><th style="width: 56.7188px;"><div>Stunde</div></th><th style="width: 76.2812px;"><div>Klassen</div></th><th style="width: 76.2969px;"><div>Fach</div></th><th style="width: 72.7031px;"><div>Lehrkraft</div></th><th style="width: 113.625px;"><div>Vertretungstext</div></th></tr></thead></table></div><div style="overflow: hidden; height: 1261px;"><table style="position: relative; top: -501.383px;"><tbody><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">Che</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Rom</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Boe</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">WiPo</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">10a</td><td class=" cancelStyle" style="width: 76.2969px;">Eng</td><td class=" cancelStyle" style="width: 72.7031px;">Lg</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">10b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">10b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Boe</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Nn</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Pü</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;">Hm, <span class="substMonitorSubstElem">Pü</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">2c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">2c</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">3b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">3b</td><td class="" style="width: 76.2969px;">Ma</td><td class="" style="width: 72.7031px;">Zi, <span class="substMonitorSubstElem">Zi</span>, Lü</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">4a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">4a, 4b</td><td class=" cancelStyle" style="width: 76.2969px;">AG Streit</td><td class=" cancelStyle" style="width: 72.7031px;">Ka</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">4b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">4a, 4b</td><td class=" cancelStyle" style="width: 76.2969px;">AG Streit</td><td class=" cancelStyle" style="width: 72.7031px;">Ka</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">5a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5a</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">5b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5b</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Blu</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5c</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Lu</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">Schw</td><td class=" cancelStyle" style="width: 72.7031px;">Ad, Lt, Sr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5d</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">Schw</td><td class=" cancelStyle" style="width: 72.7031px;">Ad, Lt, Sr</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">6d</td><td class="" style="width: 76.2969px;">WK</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Scm</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">6d</td><td class="" style="width: 76.2969px;">Sp</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">6d</td><td class=" cancelStyle" style="width: 76.2969px;">Ku</td><td class=" cancelStyle" style="width: 72.7031px;">Dw</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">7a</td><td class=" cancelStyle" style="width: 76.2969px;">Nawi</td><td class=" cancelStyle" style="width: 72.7031px;">Blu</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">7a</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">Rel</td><td class=" cancelStyle" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">7b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">7c</td><td class=" cancelStyle" style="width: 76.2969px;">FöD</td><td class=" cancelStyle" style="width: 72.7031px;">Wu</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">7c</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Wei</span>, <span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">7c</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Jo</span>, <span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">Rel</td><td class=" cancelStyle" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">8a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">8a</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">IT</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;">Wei, <span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">WiPo</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ca</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">9a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">9a</td><td class=" cancelStyle" style="width: 76.2969px;">Eng</td><td class=" cancelStyle" style="width: 72.7031px;">Bl</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">9b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">9b</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">We</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">9c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">9c</td><td class="" style="width: 76.2969px;">Che</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">DaZ</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span>, Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">DaZ</td><td class="" style="width: 72.7031px;">Jo, <span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr></tbody></table><table style="position: relative; visibility: visible; top: -496.383px;"><tbody><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">Che</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Rom</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Boe</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">10a</td><td class="" style="width: 76.2969px;">WiPo</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">10a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">10a</td><td class=" cancelStyle" style="width: 76.2969px;">Eng</td><td class=" cancelStyle" style="width: 72.7031px;">Lg</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">10b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">10b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">10a, 10b</td><td class="" style="width: 76.2969px;">WPU</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Boe</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Nn</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Pü</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">2a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">2a</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;">Hm, <span class="substMonitorSubstElem">Pü</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">2c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">2c</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">3b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">3b</td><td class="" style="width: 76.2969px;">Ma</td><td class="" style="width: 72.7031px;">Zi, <span class="substMonitorSubstElem">Zi</span>, Lü</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">4a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">4a, 4b</td><td class=" cancelStyle" style="width: 76.2969px;">AG Streit</td><td class=" cancelStyle" style="width: 72.7031px;">Ka</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">4b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">4a, 4b</td><td class=" cancelStyle" style="width: 76.2969px;">AG Streit</td><td class=" cancelStyle" style="width: 72.7031px;">Ka</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">5a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5a</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">5b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5b</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Blu</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5c</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Lu</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">Schw</td><td class=" cancelStyle" style="width: 72.7031px;">Ad, Lt, Sr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">5c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">0 - 7</td><td class="" style="width: 76.2812px;">5d</td><td class="" style="width: 76.2969px;"></td><td class="" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;">Kennlernfahrt</td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">Schw</td><td class=" cancelStyle" style="width: 72.7031px;">Ad, Lt, Sr</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">5d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">5b, 5c, 5d</td><td class=" cancelStyle" style="width: 76.2969px;">DaZ Auf</td><td class=" cancelStyle" style="width: 72.7031px;">Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">6d</td><td class="" style="width: 76.2969px;">WK</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Scm</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">6d</td><td class="" style="width: 76.2969px;">Sp</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="evenGroup" style="width: 50.4531px;">6d</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">6d</td><td class=" cancelStyle" style="width: 76.2969px;">Ku</td><td class=" cancelStyle" style="width: 72.7031px;">Dw</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">7a</td><td class=" cancelStyle" style="width: 76.2969px;">Nawi</td><td class=" cancelStyle" style="width: 72.7031px;">Blu</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">7a</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">Rel</td><td class=" cancelStyle" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">7b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">1</td><td class=" cancelStyle" style="width: 76.2812px;">7c</td><td class=" cancelStyle" style="width: 76.2969px;">FöD</td><td class=" cancelStyle" style="width: 72.7031px;">Wu</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">7c</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Wei</span>, <span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">7c</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Jo</span>, <span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">Rel</td><td class=" cancelStyle" style="width: 72.7031px;">Wr</td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">7c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">7</td><td class=" cancelStyle" style="width: 76.2812px;">7a, 7b, 7c</td><td class=" cancelStyle" style="width: 76.2969px;">LRS</td><td class=" cancelStyle" style="width: 72.7031px;">Sch</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">8a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">8a</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">---</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">IT</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">Deu</td><td class="" style="width: 72.7031px;">Wei, <span class="substMonitorSubstElem">Wei</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">8c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">8c</td><td class="" style="width: 76.2969px;">WiPo</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ca</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">9a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">6</td><td class=" cancelStyle" style="width: 76.2812px;">9a</td><td class=" cancelStyle" style="width: 76.2969px;">Eng</td><td class=" cancelStyle" style="width: 72.7031px;">Bl</td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">9b</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">4</td><td class="" style="width: 76.2812px;">9b</td><td class="" style="width: 76.2969px;">Eng</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">We</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="even "><td class="evenGroup" style="width: 50.4531px;">9c</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">9c</td><td class="" style="width: 76.2969px;">Che</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Ni</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="grupet_widget_ScrollableTable_separator" data-untis-separator="true"></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">2</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">DaZ</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span>, Bb</td><td class="" style="width: 113.625px;"></td></tr><tr class="even "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">3</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">Leseband</td><td class="" style="width: 72.7031px;"><span class="substMonitorSubstElem">Bb</span></td><td class="" style="width: 113.625px;"></td></tr><tr class="odd "><td class="oddGroup" style="width: 50.4531px;">DaZ-a</td><td class="grupet_widget_ScrollableTable_separator" style="width: 10.4531px;"></td><td class="" style="width: 56.7188px;">5</td><td class="" style="width: 76.2812px;">DaZ-a</td><td class="" style="width: 76.2969px;">DaZ</td><td class="" style="width: 72.7031px;">Jo, <span class="substMonitorSubstElem">Jo</span></td><td class="" style="width: 113.625px;"></td></tr></tbody></table></div></div>
+</div></div><div style="position: absolute; top: 0px; left: 1198.5px; width: 3px; height: 1374px; background-color: black;"></div><div style="position: absolute; top: 0px; left: 1201.5px; width: 1192.5px; height: 1374px; margin: 0px; padding: 0px 3px;"><div data-dojo-attach-point="containerNode" class="gp_SubstitutionMonitor" id="dijit__WidgetsInTemplateMixin_1" title="Vertretungen:" widgetid="dijit__WidgetsInTemplateMixin_1" style="width: 1192.5px; height: 1374px;">
+    <div data-dojo-attach-point="header">
+        <div data-dojo-attach-point="progressBar" data-dojo-type="webuntis-monitor/ProgressBar" class="untis-monitor-progressbar" id="dijit__Widget_1" widgetid="dijit__Widget_1"><div class="untis-monitor-progressbar-bar dijitProgressBarTile" style="left: 100%; right: 0%;"></div></div>
+        <div class="title" data-dojo-attach-point="titleNode">Vertretungen:<span data-dojo-attach-point="dateNode"> Donnerstag, 18.09.2025</span></div>
+        <div class="status" data-dojo-attach-point="statusNode">Stand: 16.09.2025 14:57:21</div>
+        <div data-dojo-attach-point="absenceHeaderNode" class="hidden"></div>
+    </div>
+    <div class="grupet_widget_ScrollableTable grupet_widget_AutoScrollingTable" data-dojo-attach-point="table" data-dojo-type="grupet/widget/AutoScrollingTable" data-dojo-attach-event="onScroll:_updateProgressBar" id="uniqName_15_1" widgetid="uniqName_15_1" style="height: 1322px;">Keine Vertretungen</div>
+</div></div><div style="position: absolute; width: 100%; top: 1374px;"><div class="gp_SubstitutionMonitor" id="dijit__WidgetBase_0" widgetid="dijit__WidgetBase_0"><div class="ticker" id="dijit__WidgetBase_1" widgetid="dijit__WidgetBase_1"><div class="tickerContent"></div></div></div></div></body></html>
