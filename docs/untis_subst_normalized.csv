@@ -1,23 +1,15 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,17.09.2025,3,10a,5,WiPo,<span>Wei</span>,
 2,17.09.2025,3,10a,6,Eng,Lg,
-2,17.09.2025,3,3b,5,Ma,"Zi, <span>Zi</span>, Lü",
 2,17.09.2025,3,5a,0 - 7,,Sch,Kennlernfahrt
 2,17.09.2025,3,5b,0 - 7,,Blu,Kennlernfahrt
 2,17.09.2025,3,"5b, 5c, 5d",7,DaZ Auf,Bb,
 2,17.09.2025,3,5c,0 - 7,,Lu,Kennlernfahrt
 2,17.09.2025,3,5d,0 - 7,,Wr,Kennlernfahrt
-2,17.09.2025,3,6c,5,WK,<span>Li</span>,
 2,17.09.2025,3,6c,6,Ku,Ti,
-2,17.09.2025,3,6d,5,Sp,<span>Bb</span>,
 2,17.09.2025,3,6d,6,Ku,Dw,
 2,17.09.2025,3,"7a, 7c",6,Rel,Wr,
 2,17.09.2025,3,"7a, 7b, 7c",7,LRS,Sch,
-2,17.09.2025,3,8c,5,WiPo,<span>Ca</span>,
 2,17.09.2025,3,9a,6,Eng,Bl,
-2,17.09.2025,3,9c,5,Che,<span>Ni</span>,
-2,17.09.2025,3,9f,5,Ma,"<span>Str</span>, Str",
-2,17.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
 2,18.09.2025,3,10a,2,Che,<span>Rom</span>,
 2,18.09.2025,3,10a,3,Leseband,<span>Ni</span>,
 2,18.09.2025,3,"10a, 10b",4,WPU,<span>---</span>,
@@ -56,5 +48,5 @@
 2,18.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,18.09.2025,3,DaZ-a,3,Leseband,<span>Bb</span>,
 2,18.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
-1,17.09.2025,0,"Klassen: 10a, 3b, 5a, 5b, 5c, 5d, 6c, 6d, 7a, 7b, 7c, 8c, 9a, 9c, 9f, DaZ-a",,,,
+1,17.09.2025,0,"Klassen: 10a, 5a, 5b, 5c, 5d, 6c, 6d, 7a, 7b, 7c, 9a",,,,
 1,18.09.2025,0,"Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",,,,
