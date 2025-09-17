@@ -1,35 +1,13 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 5a, 5b, 5c, 5d, 6c, 6d, 7a, 7b, 7c, 9a",,,,,,,,,,,
+0,"Klassen: 6a, 6c, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,6,10a,Eng,Lg,
-3,5a,,,,,,,0 - 7,5a,,Sch,Kennlernfahrt
-3,5b,,,,,,,0 - 7,5b,,Blu,Kennlernfahrt
-3,5b,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-3,5c,,,,,,,0 - 7,5c,,Lu,Kennlernfahrt
-3,5c,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-3,5d,,,,,,,0 - 7,5d,,Wr,Kennlernfahrt
-3,5d,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-3,6c,,,,,,,6,6c,Ku,Ti,
-3,6d,,,,,,,6,6d,Ku,Dw,
-3,7a,,,,,,,6,"7a, 7c",Rel,Wr,
-3,7a,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-3,7b,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-3,7c,,,,,,,6,"7a, 7c",Rel,Wr,
-3,7c,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-3,9a,,,,,,,6,9a,Eng,Bl,
-4,10a,,,,,,,6,10a,Eng,Lg,
-4,5a,,,,,,,0 - 7,5a,,Sch,Kennlernfahrt
-4,5b,,,,,,,0 - 7,5b,,Blu,Kennlernfahrt
-4,5b,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-4,5c,,,,,,,0 - 7,5c,,Lu,Kennlernfahrt
-4,5c,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-4,5d,,,,,,,0 - 7,5d,,Wr,Kennlernfahrt
-4,5d,,,,,,,7,"5b, 5c, 5d",DaZ Auf,Bb,
-4,6c,,,,,,,6,6c,Ku,Ti,
-4,6d,,,,,,,6,6d,Ku,Dw,
-4,7a,,,,,,,6,"7a, 7c",Rel,Wr,
-4,7a,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-4,7b,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-4,7c,,,,,,,6,"7a, 7c",Rel,Wr,
-4,7c,,,,,,,7,"7a, 7b, 7c",LRS,Sch,
-4,9a,,,,,,,6,9a,Eng,Bl,
+3,6a,,,,,,,1,6a,Ma,"Mee , Mee",
+3,6a,,,,,,,3,6a,Leseband,"Mee , Mee",
+3,6a,,,,,,,6,6a,KlR,Bä,
+3,6c,,,,,,,2,6c,Ma,"Lit , Lit",
+3,9g,,,,,,,4,9g,Ma,"Gr, Gr",
+4,6a,,,,,,,1,6a,Ma,"Mee , Mee",
+4,6a,,,,,,,3,6a,Leseband,"Mee , Mee",
+4,6a,,,,,,,6,6a,KlR,Bä,
+4,6c,,,,,,,2,6c,Ma,"Lit , Lit",
+4,9g,,,,,,,4,9g,Ma,"Gr, Gr",
