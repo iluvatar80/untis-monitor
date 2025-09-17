@@ -1,6 +1,6 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,17.09.2025,3,6a,1,Ma,"<span>Mee</span>, Mee",
-2,17.09.2025,3,6a,3,Leseband,"<span>Mee</span>, Mee",
+2,17.09.2025,3,6a,3,Leseband,<span>Vo</span>,
 2,17.09.2025,3,6a,6,KlR,Bä,
 2,17.09.2025,3,6c,2,Ma,"<span>Lit</span>, Lit",
 2,17.09.2025,3,9g,4,Ma,"Gr, <span>Gr</span>",
