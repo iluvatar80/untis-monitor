@@ -33,6 +33,16 @@
     "gruppe": 2,
     "datum": "18.09.2025",
     "quelle_table_index": 8,
+    "klasse": "5a",
+    "stunde": "1",
+    "fach": "Eng",
+    "lehrkraft": "Sc",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "18.09.2025",
+    "quelle_table_index": 8,
     "klasse": "6a",
     "stunde": "1",
     "fach": "Ma",
@@ -87,6 +97,26 @@
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Sch</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "18.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b",
+    "stunde": "7",
+    "fach": "Sp",
+    "lehrkraft": "Sc",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "18.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a, 9b, 9c, 9f",
+    "stunde": "6",
+    "fach": "WPU",
+    "lehrkraft": "Sc",
     "text": ""
   },
   {
@@ -513,7 +543,7 @@
     "gruppe": 1,
     "datum": "18.09.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 6a, 6c, 9g, DaZ-a",
+    "klasse": "Klassen: 5a, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-18T12:19:55",
+    "scraped_at": "2025-09-18T12:41:44",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -162,7 +162,7 @@
     "4": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 6a, 6c, 9g, DaZ-a"
+        "col_1": "Klassen: 5a, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a"
       }
     ],
     "5": [
@@ -178,6 +178,16 @@
       }
     ],
     "6": [
+      {
+        "table_index": 8,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "5a",
+        "col_5": "Eng",
+        "col_6": "Sc",
+        "col_7": ""
+      },
       {
         "table_index": 8,
         "col_1": "6a",
@@ -236,6 +246,56 @@
         "col_4": "6c",
         "col_5": "Leseband",
         "col_6": "Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "7b",
+        "col_2": "",
+        "col_3": "7",
+        "col_4": "7b",
+        "col_5": "Sp",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9a",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9c",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
         "col_7": ""
       },
       {
@@ -272,6 +332,16 @@
     "7": [
       {
         "table_index": 9,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "5a",
+        "col_5": "Eng",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
         "col_1": "6a",
         "col_2": "",
         "col_3": "1",
@@ -328,6 +398,56 @@
         "col_4": "6c",
         "col_5": "Leseband",
         "col_6": "Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "7b",
+        "col_2": "",
+        "col_3": "7",
+        "col_4": "7b",
+        "col_5": "Sp",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9a",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9c",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "9a, 9b, 9c, 9f",
+        "col_5": "WPU",
+        "col_6": "Sc",
         "col_7": ""
       },
       {
@@ -575,7 +695,7 @@
     },
     {
       "table_index": 5,
-      "col_1": "Klassen: 6a, 6c, 9g, DaZ-a",
+      "col_1": "Klassen: 5a, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -602,6 +722,21 @@
       "col_5": null,
       "col_6": null,
       "col_7": null
+    },
+    {
+      "table_index": 8,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "5a",
+      "col_5": "Eng",
+      "col_6": "Sc",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -691,6 +826,81 @@
       "col_4": "6c",
       "col_5": "Leseband",
       "col_6": "Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "7b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "7",
+      "col_4": "7b",
+      "col_5": "Sp",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
       "col_7": ""
     },
     {
@@ -740,6 +950,21 @@
     },
     {
       "table_index": 9,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "5a",
+      "col_5": "Eng",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
       "col_1": "6a",
       "col_2": "",
       "Stunde": null,
@@ -826,6 +1051,81 @@
       "col_4": "6c",
       "col_5": "Leseband",
       "col_6": "Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "7b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "7",
+      "col_4": "7b",
+      "col_5": "Sp",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "9a, 9b, 9c, 9f",
+      "col_5": "WPU",
+      "col_6": "Sc",
       "col_7": ""
     },
     {
