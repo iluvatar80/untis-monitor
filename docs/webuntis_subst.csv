@@ -1,13 +1,19 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 5a, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 5a, 5d, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,5a,,,,,,,1,5a,Eng,Sc,
+3,5d,,,,,,,2,5d,KlR,Wr,Klassenlehrerunterricht
+3,5d,,,,,,,3,5d,,Wr,Klassenlehrerunterricht
+3,5d,,,,,,,4,5d,,Wr,Klassenlehrerunterricht
+3,5d,,,,,,,5,5d,,Wr,Klassenlehrerunterricht
 3,6a,,,,,,,1,6a,Ma,"Mee , Mee",
 3,6a,,,,,,,3,6a,Leseband,Vo,
 3,6a,,,,,,,6,6a,KlR,Bä,
 3,6c,,,,,,,1,6c,Deu,"Lit , Lit",
 3,6c,,,,,,,2,6c,Ma,"Lit , Lit",
 3,6c,,,,,,,3,6c,Leseband,Sch,
+3,6c,,,,,,,4,6c,Rel,Ge,
+3,6c,,,,,,,5,6c,Nawi,Sr,
 3,7b,,,,,,,7,7b,Sp,Sc,
 3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
 3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
@@ -15,14 +21,21 @@
 3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
 3,9g,,,,,,,4,9g,Ma,"Gr, Gr",
 3,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Bb, Bb",
+3,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 3,DaZ-a,,,,,,,4,DaZ-a,DaZ,An,
 4,5a,,,,,,,1,5a,Eng,Sc,
+4,5d,,,,,,,2,5d,KlR,Wr,Klassenlehrerunterricht
+4,5d,,,,,,,3,5d,,Wr,Klassenlehrerunterricht
+4,5d,,,,,,,4,5d,,Wr,Klassenlehrerunterricht
+4,5d,,,,,,,5,5d,,Wr,Klassenlehrerunterricht
 4,6a,,,,,,,1,6a,Ma,"Mee , Mee",
 4,6a,,,,,,,3,6a,Leseband,Vo,
 4,6a,,,,,,,6,6a,KlR,Bä,
 4,6c,,,,,,,1,6c,Deu,"Lit , Lit",
 4,6c,,,,,,,2,6c,Ma,"Lit , Lit",
 4,6c,,,,,,,3,6c,Leseband,Sch,
+4,6c,,,,,,,4,6c,Rel,Ge,
+4,6c,,,,,,,5,6c,Nawi,Sr,
 4,7b,,,,,,,7,7b,Sp,Sc,
 4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
 4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
@@ -30,6 +43,7 @@
 4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
 4,9g,,,,,,,4,9g,Ma,"Gr, Gr",
 4,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Bb, Bb",
+4,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 4,DaZ-a,,,,,,,4,DaZ-a,DaZ,An,
 5,"Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
