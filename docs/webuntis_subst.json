@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-18T09:17:59",
+    "scraped_at": "2025-09-18T09:37:48",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -114,16 +114,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Lu, Lu , Wr, Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -296,16 +286,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Lu, Lu , Wr, Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -762,21 +742,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
@@ -1021,21 +986,6 @@
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
       "col_6": "Sc, Lu, Lu , Wr, Sch",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
