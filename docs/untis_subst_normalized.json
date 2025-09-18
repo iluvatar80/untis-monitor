@@ -36,7 +36,7 @@
     "klasse": "5b",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>Ei</span>",
+    "lehrkraft": "<span>Ma</span>",
     "text": ""
   },
   {
@@ -77,16 +77,6 @@
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Hu</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "18.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a, 8b, 8c",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "<span>Ad</span>",
     "text": ""
   },
   {
@@ -603,7 +593,7 @@
     "gruppe": 1,
     "datum": "18.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 4b, 5a, 5b, 5c, 5d, 6c, 7c, 8a, 8b, 8c, 9a, DaZ-a",
+    "klasse": "Klassen: 4b, 5a, 5b, 5c, 5d, 6c, 7c, 9a, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
