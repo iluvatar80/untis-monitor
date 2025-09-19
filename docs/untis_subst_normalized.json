@@ -3,56 +3,6 @@
     "gruppe": 2,
     "datum": "19.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "7",
-    "fach": "WK",
-    "lehrkraft": "Sr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3a",
-    "stunde": "6",
-    "fach": "Sp",
-    "lehrkraft": "<span>Dr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "6",
-    "fach": "KlR",
-    "lehrkraft": "Bä",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7b",
-    "stunde": "7",
-    "fach": "Sp",
-    "lehrkraft": "Sc",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a, 9b, 9c, 9f",
-    "stunde": "6",
-    "fach": "WPU",
-    "lehrkraft": "Sc",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 8,
     "klasse": "10a, 10b",
     "stunde": "2",
     "fach": "WPU",
@@ -62,7 +12,7 @@
   {
     "gruppe": 2,
     "datum": "19.09.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a, 7b, 7c",
     "stunde": "5",
     "fach": "WPU",
@@ -72,7 +22,7 @@
   {
     "gruppe": 2,
     "datum": "19.09.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "1 - 7",
     "fach": "",
@@ -82,7 +32,7 @@
   {
     "gruppe": 2,
     "datum": "19.09.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "1 - 7",
     "fach": "",
@@ -92,9 +42,259 @@
   {
     "gruppe": 2,
     "datum": "19.09.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9c",
     "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Re",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "DaZ-a",
+    "stunde": "2",
+    "fach": "DaZ",
+    "lehrkraft": "Wr, <span>Wr</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "DaZ-a",
+    "stunde": "4",
+    "fach": "DaZ",
+    "lehrkraft": "Wr, <span>Wr</span>, Bb",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "Hallig",
+    "stunde": "4 - 5",
+    "fach": "Hallig",
+    "lehrkraft": "<span>Boe</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "Hallig",
+    "stunde": "6",
+    "fach": "Hallig",
+    "lehrkraft": "<span>Boe</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen, 2a Monde",
+    "stunde": "1 - 2",
+    "fach": "Rel",
+    "lehrkraft": "<span>Sv</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen, 2a Monde",
+    "stunde": "2 - 3",
+    "fach": "Leseband Ell",
+    "lehrkraft": "Sv",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2a Monde",
+    "stunde": "1 - 2",
+    "fach": "",
+    "lehrkraft": "<span>---</span>",
+    "text": "Wendepunkt Kl. 2 -&gt; Ew"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2a Monde",
+    "stunde": "3 - 4",
+    "fach": "Ma",
+    "lehrkraft": "Sv",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2a Monde",
+    "stunde": "4 - 5",
+    "fach": "Ma",
+    "lehrkraft": "Sv, Bre",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2b Monde",
+    "stunde": "1 - 2",
+    "fach": "Sp",
+    "lehrkraft": "Ew",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2b Monde, 3 Sterne",
+    "stunde": "2 - 3",
+    "fach": "Leseband Ell",
+    "lehrkraft": "Ew",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2b Monde",
+    "stunde": "3 - 4",
+    "fach": "Ma",
+    "lehrkraft": "Ew, Bre",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2b Monde",
+    "stunde": "4 - 5",
+    "fach": "Deu",
+    "lehrkraft": "Ro",
+    "text": "Wendepunkt Kl. 2"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "2c",
+    "stunde": "5",
+    "fach": "Rel",
+    "lehrkraft": "<span>Fu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "4b",
+    "stunde": "6",
+    "fach": "Sach",
+    "lehrkraft": "<span>Lt</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "4",
+    "fach": "Deu",
+    "lehrkraft": "<span>Wei</span>, Wei",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "6b",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "<span>Bk</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "5",
+    "fach": "WPU",
+    "lehrkraft": "<span>Rr</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "7",
+    "fach": "DaZ Auf",
+    "lehrkraft": "Li",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a",
+    "stunde": "6",
+    "fach": "IT",
+    "lehrkraft": "<span>Blu</span>, Blu",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a",
+    "stunde": "7",
+    "fach": "Eng",
+    "lehrkraft": "Lg",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "0 - 7",
+    "fach": "",
+    "lehrkraft": "Ls",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a, 9b, 9c",
+    "stunde": "7",
+    "fach": "Projektarbeit",
+    "lehrkraft": "Ei, Gro, Ls, Re, Sn",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9b",
+    "stunde": "0 - 7",
+    "fach": "",
+    "lehrkraft": "Sn",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9c",
+    "stunde": "0 - 7",
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
@@ -106,7 +306,7 @@
     "klasse": "DaZ-a",
     "stunde": "2",
     "fach": "DaZ",
-    "lehrkraft": "Wr, <span>Wr</span>",
+    "lehrkraft": "<span>Gum</span>, Gum",
     "text": ""
   },
   {
@@ -116,27 +316,17 @@
     "klasse": "DaZ-a",
     "stunde": "4",
     "fach": "DaZ",
-    "lehrkraft": "Wr, <span>Wr</span>, Bb",
+    "lehrkraft": "Wr, Bb",
     "text": ""
   },
   {
     "gruppe": 2,
     "datum": "19.09.2025",
     "quelle_table_index": 8,
-    "klasse": "Hallig",
-    "stunde": "4 - 5",
-    "fach": "Hallig",
-    "lehrkraft": "<span>Boe</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "19.09.2025",
-    "quelle_table_index": 8,
-    "klasse": "Hallig",
-    "stunde": "6",
-    "fach": "Hallig",
-    "lehrkraft": "<span>Boe</span>",
+    "klasse": "DaZ-a",
+    "stunde": "5",
+    "fach": "DaZ",
+    "lehrkraft": "Wr",
     "text": ""
   },
   {
@@ -523,7 +713,7 @@
     "gruppe": 1,
     "datum": "19.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10b, 3a, 6a, 7b, 9a, 9b, 9c, 9f",
+    "klasse": "Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -533,7 +723,7 @@
     "gruppe": 1,
     "datum": "19.09.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",
+    "klasse": "Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

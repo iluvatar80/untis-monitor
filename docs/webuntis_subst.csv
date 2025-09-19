@@ -1,45 +1,95 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10b, 3a, 6a, 7b, 9a, 9b, 9c, 9f",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10b,,,,,,,7,10b,WK,Sr,
-3,3a,,,,,,,6,3a,Sp,Dr,
-3,6a,,,,,,,6,6a,KlR,Bä,
-3,7b,,,,,,,7,7b,Sp,Sc,
-3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-4,10b,,,,,,,7,10b,WK,Sr,
-4,3a,,,,,,,6,3a,Sp,Dr,
-4,6a,,,,,,,6,6a,KlR,Bä,
-4,7b,,,,,,,7,7b,Sp,Sc,
-4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-5,"Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
+3,10a,,,,,,,2,"10a, 10b",WPU,Ni,
+3,10b,,,,,,,2,"10a, 10b",WPU,Ni,
+3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+3,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
+3,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
+3,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
+3,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Wr",
+3,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Wr , Bb",
+3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
+3,Hallig,,,,,,,6,Hallig,Hallig,Boe,
+4,10a,,,,,,,2,"10a, 10b",WPU,Ni,
+4,10b,,,,,,,2,"10a, 10b",WPU,Ni,
+4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+4,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
+4,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
+4,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
+4,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Wr",
+4,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Wr , Bb",
+4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
+4,Hallig,,,,,,,6,Hallig,Hallig,Boe,
+5,"Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,10a,,,,,,,2,"10a, 10b",WPU,Ni,
-8,10b,,,,,,,2,"10a, 10b",WPU,Ni,
-8,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-8,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-8,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-8,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
-8,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
-8,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
-8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Wr",
-8,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Wr , Bb",
-8,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
-8,Hallig,,,,,,,6,Hallig,Hallig,Boe,
-9,10a,,,,,,,2,"10a, 10b",WPU,Ni,
-9,10b,,,,,,,2,"10a, 10b",WPU,Ni,
-9,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-9,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-9,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
-9,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
-9,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
-9,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
-9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Wr",
-9,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Wr , Bb",
-9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
-9,Hallig,,,,,,,6,Hallig,Hallig,Boe,
+8,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+8,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+8,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+8,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
+8,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+8,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
+8,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
+8,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
+8,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+8,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
+8,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
+8,2c,,,,,,,5,2c,Rel,Fu,
+8,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+8,4b,,,,,,,6,4b,Sach,Lt,
+8,5d,,,,,,,4,5d,Deu,"Wei , Wei",
+8,6b,,,,,,,5,6b,Ma,Bk,
+8,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+8,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+8,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+8,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+8,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+8,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+8,8a,,,,,,,6,8a,IT,"Blu , Blu",
+8,8a,,,,,,,7,8a,Eng,Lg,
+8,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
+8,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+8,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
+8,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+8,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
+8,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
+8,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
+8,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
+9,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+9,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+9,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+9,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
+9,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+9,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
+9,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
+9,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
+9,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+9,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
+9,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
+9,2c,,,,,,,5,2c,Rel,Fu,
+9,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+9,4b,,,,,,,6,4b,Sach,Lt,
+9,5d,,,,,,,4,5d,Deu,"Wei , Wei",
+9,6b,,,,,,,5,6b,Ma,Bk,
+9,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+9,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+9,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+9,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+9,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+9,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+9,8a,,,,,,,6,8a,IT,"Blu , Blu",
+9,8a,,,,,,,7,8a,Eng,Lg,
+9,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
+9,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+9,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
+9,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+9,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
+9,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
+9,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
+9,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
