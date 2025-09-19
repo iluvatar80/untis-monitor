@@ -3,10 +3,90 @@
     "gruppe": 2,
     "datum": "19.09.2025",
     "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "1",
+    "fach": "Sp",
+    "lehrkraft": "<span>Ka</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>Bk</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a, 10b",
+    "stunde": "4",
+    "fach": "WPU",
+    "lehrkraft": "<span>HL</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "5",
+    "fach": "KlR",
+    "lehrkraft": "<span>Zi</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10b",
+    "stunde": "7",
+    "fach": "WK",
+    "lehrkraft": "Sr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "3a",
+    "stunde": "6",
+    "fach": "Sp",
+    "lehrkraft": "<span>Dr</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
     "klasse": "5a",
     "stunde": "1",
     "fach": "Eng",
     "lehrkraft": "Sc",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "5b",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "<span>Wu</span>, Wu",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "5c",
+    "stunde": "2",
+    "fach": "WK",
+    "lehrkraft": "<span>Hi</span>",
     "text": ""
   },
   {
@@ -74,6 +154,16 @@
     "datum": "19.09.2025",
     "quelle_table_index": 3,
     "klasse": "6a",
+    "stunde": "4",
+    "fach": "Rel",
+    "lehrkraft": "<span>Ws</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6a",
     "stunde": "6",
     "fach": "KlR",
     "lehrkraft": "Bä",
@@ -126,7 +216,17 @@
     "klasse": "6c",
     "stunde": "5",
     "fach": "Nawi",
-    "lehrkraft": "<span>Sr</span>",
+    "lehrkraft": "<span>Kä</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6d",
+    "stunde": "4",
+    "fach": "Rel",
+    "lehrkraft": "<span>Fu</span>",
     "text": ""
   },
   {
@@ -137,6 +237,56 @@
     "stunde": "7",
     "fach": "Sp",
     "lehrkraft": "Sc",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8a",
+    "stunde": "2",
+    "fach": "Ma",
+    "lehrkraft": "<span>Boe</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>Ei</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8a",
+    "stunde": "4",
+    "fach": "WiPo",
+    "lehrkraft": "<span>Dw</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "5",
+    "fach": "WPU",
+    "lehrkraft": "<span>Hu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "19.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8c",
+    "stunde": "1",
+    "fach": "Rel",
+    "lehrkraft": "<span>Lt</span>",
     "text": ""
   },
   {
@@ -284,119 +434,59 @@
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "10a",
-    "stunde": "2",
-    "fach": "Che",
-    "lehrkraft": "<span>Rom</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ni</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "4",
-    "fach": "WPU",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "4",
-    "fach": "WPU",
-    "lehrkraft": "<span>Boe</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "5",
-    "fach": "WiPo",
-    "lehrkraft": "<span>Wei</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "6",
-    "fach": "Eng",
-    "lehrkraft": "Lg",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2a",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Nn</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Pü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2a",
-    "stunde": "4",
-    "fach": "Deu",
-    "lehrkraft": "Hm, <span>Pü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3b",
-    "stunde": "5",
-    "fach": "Ma",
-    "lehrkraft": "Zi, <span>Zi</span>, Lü",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "4a, 4b",
     "stunde": "1",
-    "fach": "AG Streit",
-    "lehrkraft": "Ka",
+    "fach": "Sp",
+    "lehrkraft": "<span>Ka</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>Bk</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a, 10b",
+    "stunde": "4",
+    "fach": "WPU",
+    "lehrkraft": "<span>HL</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "5",
+    "fach": "KlR",
+    "lehrkraft": "<span>Zi</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10b",
+    "stunde": "7",
+    "fach": "WK",
+    "lehrkraft": "Sr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "3a",
+    "stunde": "6",
+    "fach": "Sp",
+    "lehrkraft": "<span>Dr</span>",
     "text": ""
   },
   {
@@ -404,29 +494,19 @@
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "5a",
-    "stunde": "0 - 7",
-    "fach": "",
-    "lehrkraft": "Sch",
-    "text": "Kennlernfahrt"
+    "stunde": "1",
+    "fach": "Eng",
+    "lehrkraft": "Sc",
+    "text": ""
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "5b",
-    "stunde": "0 - 7",
-    "fach": "",
-    "lehrkraft": "Blu",
-    "text": "Kennlernfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b, 5c, 5d",
-    "stunde": "7",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Bb",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "<span>Wu</span>, Wu",
     "text": ""
   },
   {
@@ -434,19 +514,9 @@
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "5c",
-    "stunde": "0 - 7",
-    "fach": "",
-    "lehrkraft": "Lu",
-    "text": "Kennlernfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c, 5d",
-    "stunde": "1",
-    "fach": "Schw",
-    "lehrkraft": "Ad, Lt, Sr",
+    "stunde": "2",
+    "fach": "WK",
+    "lehrkraft": "<span>Hi</span>",
     "text": ""
   },
   {
@@ -454,109 +524,149 @@
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "5d",
-    "stunde": "0 - 7",
+    "stunde": "2",
+    "fach": "KlR",
+    "lehrkraft": "Wr",
+    "text": "Klassenlehrerunterricht"
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "5d",
+    "stunde": "3",
     "fach": "",
     "lehrkraft": "Wr",
-    "text": "Kennlernfahrt"
+    "text": "Klassenlehrerunterricht"
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "6d",
+    "klasse": "5d",
     "stunde": "4",
-    "fach": "WK",
-    "lehrkraft": "<span>Scm</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6d",
-    "stunde": "5",
-    "fach": "Sp",
-    "lehrkraft": "<span>Bb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6d",
-    "stunde": "6",
-    "fach": "Ku",
-    "lehrkraft": "Dw",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
-    "stunde": "1",
-    "fach": "Nawi",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Jo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7c",
-    "stunde": "6",
-    "fach": "Rel",
+    "fach": "",
     "lehrkraft": "Wr",
-    "text": ""
+    "text": "Klassenlehrerunterricht"
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
-    "stunde": "7",
-    "fach": "LRS",
-    "lehrkraft": "Sch",
-    "text": ""
+    "klasse": "5d",
+    "stunde": "5",
+    "fach": "",
+    "lehrkraft": "Wr",
+    "text": "Klassenlehrerunterricht"
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "7c",
+    "klasse": "6a",
     "stunde": "1",
-    "fach": "FöD",
-    "lehrkraft": "Wu",
+    "fach": "Ma",
+    "lehrkraft": "<span>Mee</span>, Mee",
     "text": ""
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "7c",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Wei</span>, <span>Wei</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7c",
+    "klasse": "6a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>Jo</span>, <span>Jo</span>",
+    "lehrkraft": "<span>Vo</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6a",
+    "stunde": "4",
+    "fach": "Rel",
+    "lehrkraft": "<span>Ws</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6a",
+    "stunde": "6",
+    "fach": "KlR",
+    "lehrkraft": "Bä",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6c",
+    "stunde": "1",
+    "fach": "Deu",
+    "lehrkraft": "<span>Lit</span>, Lit",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6c",
+    "stunde": "2",
+    "fach": "Ma",
+    "lehrkraft": "<span>Lit</span>, Lit",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6c",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>Sch</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6c",
+    "stunde": "4",
+    "fach": "Rel",
+    "lehrkraft": "<span>Ge</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6c",
+    "stunde": "5",
+    "fach": "Nawi",
+    "lehrkraft": "<span>Kä</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "6d",
+    "stunde": "4",
+    "fach": "Rel",
+    "lehrkraft": "<span>Fu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "7b",
+    "stunde": "7",
+    "fach": "Sp",
+    "lehrkraft": "Sc",
     "text": ""
   },
   {
@@ -565,68 +675,68 @@
     "quelle_table_index": 3,
     "klasse": "8a",
     "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "fach": "Ma",
+    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "8c",
-    "stunde": "2",
-    "fach": "IT",
-    "lehrkraft": "<span>Ni</span>",
+    "klasse": "8a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>Ei</span>",
     "text": ""
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "8c",
+    "klasse": "8a",
     "stunde": "4",
-    "fach": "Deu",
-    "lehrkraft": "Wei, <span>Wei</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8c",
-    "stunde": "5",
     "fach": "WiPo",
-    "lehrkraft": "<span>Ca</span>",
+    "lehrkraft": "<span>Dw</span>",
     "text": ""
   },
   {
     "gruppe": 2,
     "datum": "20.09.2025",
     "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "6",
-    "fach": "Eng",
-    "lehrkraft": "Bl",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9b",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>We</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "20.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
+    "klasse": "8a, 8b, 8c, 8f",
     "stunde": "5",
-    "fach": "Che",
-    "lehrkraft": "<span>Ni</span>",
+    "fach": "WPU",
+    "lehrkraft": "<span>Hu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "8c",
+    "stunde": "1",
+    "fach": "Rel",
+    "lehrkraft": "<span>Lt</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "9a, 9b, 9c, 9f",
+    "stunde": "6",
+    "fach": "WPU",
+    "lehrkraft": "Sc",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "9g",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "Gr, <span>Gr</span>",
     "text": ""
   },
   {
@@ -636,7 +746,7 @@
     "klasse": "DaZ-a",
     "stunde": "2",
     "fach": "DaZ",
-    "lehrkraft": "<span>Bb</span>, Bb",
+    "lehrkraft": "Bb, <span>Bb</span>",
     "text": ""
   },
   {
@@ -654,16 +764,106 @@
     "datum": "20.09.2025",
     "quelle_table_index": 3,
     "klasse": "DaZ-a",
-    "stunde": "5",
+    "stunde": "4",
     "fach": "DaZ",
-    "lehrkraft": "Jo, <span>Jo</span>",
+    "lehrkraft": "<span>An</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "10a, 10b",
+    "stunde": "2",
+    "fach": "WPU",
+    "lehrkraft": "Ni",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "5",
+    "fach": "WPU",
+    "lehrkraft": "<span>Li</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Ls",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9b",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Sn",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9c",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Re",
+    "text": "Klassenfahrt"
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "DaZ-a",
+    "stunde": "2",
+    "fach": "DaZ",
+    "lehrkraft": "Wr, <span>Wr</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "DaZ-a",
+    "stunde": "4",
+    "fach": "DaZ",
+    "lehrkraft": "Wr, <span>Wr</span>, Bb",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "4 - 5",
+    "fach": "Hallig",
+    "lehrkraft": "<span>Boe</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "20.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "6",
+    "fach": "Hallig",
+    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
     "gruppe": 1,
     "datum": "19.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 5a, 5d, 6a, 6c, 7b, 9a, 9b, 9c, 9f, 9g, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 3a, 5a, 5b, 5c, 5d, 6a, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -683,7 +883,17 @@
     "gruppe": 1,
     "datum": "20.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 3a, 5a, 5b, 5c, 5d, 6a, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",
+    "stunde": "",
+    "fach": "",
+    "lehrkraft": "",
+    "text": ""
+  },
+  {
+    "gruppe": 1,
+    "datum": "20.09.2025",
+    "quelle_table_index": 5,
+    "klasse": "Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

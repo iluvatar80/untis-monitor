@@ -1,17 +1,17 @@
 {
   "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-  "scraped_at": "2025-09-19T06:21:56",
+  "scraped_at": "2025-09-19T06:43:54",
   "slide1": {
     "tables": 10,
     "headers": 2
   },
   "slide2": {
     "tried_next": true,
-    "tables": 0,
-    "headers": 0,
-    "captured": false
+    "tables": 10,
+    "headers": 2,
+    "captured": true
   },
-  "frames_total": 8,
+  "frames_total": 16,
   "locale": "de-DE",
   "timezone": "Europe/Berlin"
 }
