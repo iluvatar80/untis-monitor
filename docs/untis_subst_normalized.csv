@@ -1,13 +1,8 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,19.09.2025,3,10a,5,KlR,<span>Zi</span>,
 2,19.09.2025,3,10b,7,WK,Sr,
 2,19.09.2025,3,3a,6,Sp,<span>Dr</span>,
-2,19.09.2025,3,5b,5,Ma,"<span>Wu</span>, Wu",
-2,19.09.2025,3,5d,5,,Wr,Klassenlehrerunterricht
 2,19.09.2025,3,6a,6,KlR,Bä,
-2,19.09.2025,3,6c,5,Nawi,<span>Kä</span>,
 2,19.09.2025,3,7b,7,Sp,Sc,
-2,19.09.2025,3,"8a, 8b, 8c, 8f",5,WPU,<span>Hu</span>,
 2,19.09.2025,3,"9a, 9b, 9c, 9f",6,WPU,Sc,
 2,19.09.2025,8,"10a, 10b",2,WPU,Ni,
 2,19.09.2025,8,"7a, 7b, 7c",5,WPU,<span>Li</span>,
@@ -56,6 +51,6 @@
 2,20.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,20.09.2025,3,DaZ-a,3,Leseband,<span>Bb</span>,
 2,20.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
-1,19.09.2025,0,"Klassen: 10a, 10b, 3a, 5b, 5d, 6a, 6c, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",,,,
+1,19.09.2025,0,"Klassen: 10b, 3a, 6a, 7b, 9a, 9b, 9c, 9f",,,,
 1,19.09.2025,5,"Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",,,,
 1,20.09.2025,0,"Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",,,,
