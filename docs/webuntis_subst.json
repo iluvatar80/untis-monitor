@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-22T09:19:42",
+    "scraped_at": "2025-09-22T09:40:35",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -40,16 +40,6 @@
         "table_index": 3,
         "col_1": "10a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "10a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "10a",
         "col_5": "Eng",
@@ -64,16 +54,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "10b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
         "col_7": ""
       },
       {
@@ -394,16 +374,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Wr, Wr",
         "col_7": ""
       },
       {
@@ -442,16 +412,6 @@
         "table_index": 4,
         "col_1": "10a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "10a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "10a",
         "col_5": "Eng",
@@ -466,16 +426,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "10b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
         "col_7": ""
       },
       {
@@ -796,16 +746,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Wr, Wr",
         "col_7": ""
       },
       {
@@ -1584,16 +1524,6 @@
         "table_index": 3,
         "col_1": "10a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "10a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "10a",
         "col_5": "Eng",
@@ -1608,16 +1538,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "10b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
         "col_7": ""
       },
       {
@@ -1938,16 +1858,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Wr, Wr",
         "col_7": ""
       },
       {
@@ -1986,16 +1896,6 @@
         "table_index": 4,
         "col_1": "10a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "10a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "10a",
         "col_5": "Eng",
@@ -2010,16 +1910,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "10b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "10a, 10b",
-        "col_5": "WPU",
-        "col_6": "Ni",
         "col_7": ""
       },
       {
@@ -2340,16 +2230,6 @@
         "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
         "col_5": "AG Schulkleidung",
         "col_6": "Rom",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Wr, Wr",
         "col_7": ""
       },
       {
@@ -3146,21 +3026,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "10a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "10a",
       "col_5": "Eng",
@@ -3180,21 +3045,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "10b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
       "col_7": ""
     },
     {
@@ -3675,21 +3525,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Wr, Wr",
       "col_7": ""
     },
     {
@@ -3746,21 +3581,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "10a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "10a",
       "col_5": "Eng",
@@ -3780,21 +3600,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "10b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
       "col_7": ""
     },
     {
@@ -4275,21 +4080,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Wr, Wr",
       "col_7": ""
     },
     {
@@ -5456,21 +5246,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "10a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "10a",
       "col_5": "Eng",
@@ -5490,21 +5265,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "10b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
       "col_7": ""
     },
     {
@@ -5985,21 +5745,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Wr, Wr",
       "col_7": ""
     },
     {
@@ -6056,21 +5801,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "10a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "10a",
       "col_5": "Eng",
@@ -6090,21 +5820,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "10b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "10a, 10b",
-      "col_5": "WPU",
-      "col_6": "Ni",
       "col_7": ""
     },
     {
@@ -6585,21 +6300,6 @@
       "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
       "col_5": "AG Schulkleidung",
       "col_6": "Rom",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Wr, Wr",
       "col_7": ""
     },
     {

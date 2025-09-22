@@ -3,16 +3,6 @@
     "gruppe": 2,
     "datum": "22.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Ni",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "22.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a",
     "stunde": "5",
     "fach": "Eng",
@@ -118,16 +108,6 @@
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "22.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "Wr, <span>Wr</span>",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -423,16 +403,6 @@
     "gruppe": 2,
     "datum": "23.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Ni",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a",
     "stunde": "5",
     "fach": "Eng",
@@ -538,16 +508,6 @@
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "Wr, <span>Wr</span>",
-    "text": ""
   },
   {
     "gruppe": 2,
