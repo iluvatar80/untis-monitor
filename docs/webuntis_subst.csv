@@ -1,11 +1,14 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 7a, 7b, 7c, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 3b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,2,"10a, 10b",WPU,Ni,
+3,10a,,,,,,,5,10a,Eng,Pü,
 3,10b,,,,,,,2,"10a, 10b",WPU,Ni,
+3,3b,,,,,,,3,3b,Leseband,Hu,
 3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
 3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
 3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+3,8a,,,,,,,4,8a,Eng,Ca,
 3,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
 3,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
 3,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
@@ -14,10 +17,13 @@
 3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
 3,Hallig,,,,,,,6,Hallig,Hallig,Boe,
 4,10a,,,,,,,2,"10a, 10b",WPU,Ni,
+4,10a,,,,,,,5,10a,Eng,Pü,
 4,10b,,,,,,,2,"10a, 10b",WPU,Ni,
+4,3b,,,,,,,3,3b,Leseband,Hu,
 4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Li,
 4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Li,
 4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Li,
+4,8a,,,,,,,4,8a,Eng,Ca,
 4,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
 4,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
 4,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
