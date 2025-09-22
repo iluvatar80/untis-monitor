@@ -1,127 +1,99 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, Hallig",,,,,,,,,,,
+0,"Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
-3,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
-3,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
-3,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-3,Hallig,,,,,,,6,Hallig,Hallig,Vo,
-4,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,9a,,,,,,,1 - 7,9a,,Ls,Klassenfahrt
-4,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,9b,,,,,,,1 - 7,9b,,Sn,Klassenfahrt
-4,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,9c,,,,,,,1 - 7,9c,,Re,Klassenfahrt
-4,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
-4,Hallig,,,,,,,6,Hallig,Hallig,Vo,
-5,"Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,,,,,,,,
+3,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+3,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+3,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+3,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
+3,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+3,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
+3,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
+3,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
+3,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+3,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
+3,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
+3,2c,,,,,,,5,2c,Rel,Fu,
+3,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+3,4b,,,,,,,6,4b,Sach,Lt,
+3,5d,,,,,,,4,5d,Deu,"Wei , Wei",
+3,6b,,,,,,,5,6b,Ma,Bk,
+3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+3,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+3,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+3,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+3,8a,,,,,,,6,8a,IT,"Blu , Blu",
+3,8a,,,,,,,7,8a,Eng,Lg,
+3,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
+3,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+3,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
+3,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+3,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
+3,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+3,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
+3,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
+3,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
+3,Hallig,,,,,,,4,Hallig,Hallig,Vo,
+3,Hallig,,,,,,,5,Hallig,Hallig,Sch,
+4,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+4,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+4,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
+4,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
+4,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
+4,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
+4,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
+4,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
+4,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+4,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
+4,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
+4,2c,,,,,,,5,2c,Rel,Fu,
+4,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
+4,4b,,,,,,,6,4b,Sach,Lt,
+4,5d,,,,,,,4,5d,Deu,"Wei , Wei",
+4,6b,,,,,,,5,6b,Ma,Bk,
+4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+4,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+4,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
+4,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
+4,8a,,,,,,,6,8a,IT,"Blu , Blu",
+4,8a,,,,,,,7,8a,Eng,Lg,
+4,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
+4,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+4,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
+4,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+4,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
+4,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+4,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
+4,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
+4,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
+4,Hallig,,,,,,,4,Hallig,Hallig,Vo,
+4,Hallig,,,,,,,5,Hallig,Hallig,Sch,
+5,"Klassen: 10a, 10b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
-8,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
-8,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
-8,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
-8,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
-8,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
-8,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
-8,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
-8,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
-8,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
-8,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
-8,2c,,,,,,,5,2c,Rel,Fu,
-8,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
-8,4b,,,,,,,6,4b,Sach,Lt,
-8,5d,,,,,,,4,5d,Deu,"Wei , Wei",
-8,6b,,,,,,,5,6b,Ma,Bk,
-8,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-8,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-8,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-8,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-8,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-8,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-8,8a,,,,,,,6,8a,IT,"Blu , Blu",
-8,8a,,,,,,,7,8a,Eng,Lg,
+8,10a,,,,,,,4,"10a, 10b",WPU,Wx,
+8,10b,,,,,,,4,"10a, 10b",WPU,Wx,
+8,7b,,,,,,,4,7b,Nawi,Bl,
+8,7b,,,,,,,6,"7b, 7c",Rel,Vo,
+8,7c,,,,,,,6,"7b, 7c",Rel,Vo,
+8,8b,,,,,,,5,8b,Nawi,Pü,
 8,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-8,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 8,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-8,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 8,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-8,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
-8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-8,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
-8,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
-8,Hallig,,,,,,,4,Hallig,Hallig,Vo,
-8,Hallig,,,,,,,5,Hallig,Hallig,Sch,
-9,1 Sonnen,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
-9,1 Sonnen,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
-9,2a Monde,,,,,,,1 - 2,"1 Sonnen, 2a Monde",Rel,Sv,
-9,2a Monde,,,,,,,1 - 2,2a Monde,,---,Wendepunkt Kl. 2 -> Ew
-9,2a Monde,,,,,,,2 - 3,"1 Sonnen, 2a Monde",Leseband Ell,Sv,Wendepunkt Kl. 2
-9,2a Monde,,,,,,,3 - 4,2a Monde,Ma,Sv,Wendepunkt Kl. 2
-9,2a Monde,,,,,,,4 - 5,2a Monde,Ma,"Sv, Bre",Wendepunkt Kl. 2
-9,2b Monde,,,,,,,1 - 2,2b Monde,Sp,Ew,Wendepunkt Kl. 2
-9,2b Monde,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
-9,2b Monde,,,,,,,3 - 4,2b Monde,Ma,"Ew, Bre",Wendepunkt Kl. 2
-9,2b Monde,,,,,,,4 - 5,2b Monde,Deu,Ro,Wendepunkt Kl. 2
-9,2c,,,,,,,5,2c,Rel,Fu,
-9,3 Sterne,,,,,,,2 - 3,"2b Monde, 3 Sterne",Leseband Ell,Ew,Wendepunkt Kl. 2
-9,4b,,,,,,,6,4b,Sach,Lt,
-9,5d,,,,,,,4,5d,Deu,"Wei , Wei",
-9,6b,,,,,,,5,6b,Ma,Bk,
-9,7a,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-9,7a,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-9,7b,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-9,7b,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-9,7c,,,,,,,5,"7a, 7b, 7c",WPU,Rr,
-9,7c,,,,,,,7,"7a, 7b, 7c",DaZ Auf,Li,
-9,8a,,,,,,,6,8a,IT,"Blu , Blu",
-9,8a,,,,,,,7,8a,Eng,Lg,
+8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Bb",
+8,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Bb, Bb",
+8,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Jo",
+9,10a,,,,,,,4,"10a, 10b",WPU,Wx,
+9,10b,,,,,,,4,"10a, 10b",WPU,Wx,
+9,7b,,,,,,,4,7b,Nawi,Bl,
+9,7b,,,,,,,6,"7b, 7c",Rel,Vo,
+9,7c,,,,,,,6,"7b, 7c",Rel,Vo,
+9,8b,,,,,,,5,8b,Nawi,Pü,
 9,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-9,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 9,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-9,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 9,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-9,9c,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
-9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-9,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Wr, Bb",
-9,DaZ-a,,,,,,,5,DaZ-a,DaZ,Wr,
-9,Hallig,,,,,,,4,Hallig,Hallig,Vo,
-9,Hallig,,,,,,,5,Hallig,Hallig,Sch,
+9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Wr, Bb",
+9,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Bb, Bb",
+9,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Jo",

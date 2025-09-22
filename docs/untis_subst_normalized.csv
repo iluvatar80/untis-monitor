@@ -1,35 +1,37 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,22.09.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Schulkleidung,Rom,
-2,22.09.2025,3,9a,1 - 7,,Ls,Klassenfahrt
-2,22.09.2025,3,9b,1 - 7,,Sn,Klassenfahrt
-2,22.09.2025,3,9c,1 - 7,,Re,Klassenfahrt
-2,22.09.2025,3,Hallig,6,Hallig,<span>Vo</span>,
-2,22.09.2025,8,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Sv</span>,
-2,22.09.2025,8,"1 Sonnen, 2a Monde",2 - 3,Leseband Ell,Sv,Wendepunkt Kl. 2
-2,22.09.2025,8,2a Monde,1 - 2,,<span>---</span>,Wendepunkt Kl. 2 -&gt; Ew
-2,22.09.2025,8,2a Monde,3 - 4,Ma,Sv,Wendepunkt Kl. 2
-2,22.09.2025,8,2a Monde,4 - 5,Ma,"Sv, Bre",Wendepunkt Kl. 2
-2,22.09.2025,8,2b Monde,1 - 2,Sp,Ew,Wendepunkt Kl. 2
-2,22.09.2025,8,"2b Monde, 3 Sterne",2 - 3,Leseband Ell,Ew,Wendepunkt Kl. 2
-2,22.09.2025,8,2b Monde,3 - 4,Ma,"Ew, Bre",Wendepunkt Kl. 2
-2,22.09.2025,8,2b Monde,4 - 5,Deu,Ro,Wendepunkt Kl. 2
-2,22.09.2025,8,2c,5,Rel,<span>Fu</span>,
-2,22.09.2025,8,4b,6,Sach,<span>Lt</span>,
-2,22.09.2025,8,5d,4,Deu,"<span>Wei</span>, Wei",
-2,22.09.2025,8,6b,5,Ma,<span>Bk</span>,
-2,22.09.2025,8,"7a, 7b, 7c",5,WPU,<span>Rr</span>,
-2,22.09.2025,8,"7a, 7b, 7c",7,DaZ Auf,Li,
-2,22.09.2025,8,8a,6,IT,"<span>Blu</span>, Blu",
-2,22.09.2025,8,8a,7,Eng,Lg,
-2,22.09.2025,8,9a,0 - 7,,Ls,Klassenfahrt
-2,22.09.2025,8,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
-2,22.09.2025,8,9b,0 - 7,,Sn,Klassenfahrt
-2,22.09.2025,8,9c,0 - 7,,Re,Klassenfahrt
-2,22.09.2025,8,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
-2,22.09.2025,8,DaZ-a,4,DaZ,"Wr, Bb",
-2,22.09.2025,8,DaZ-a,5,DaZ,Wr,
-2,22.09.2025,8,Hallig,4,Hallig,<span>Vo</span>,
-2,22.09.2025,8,Hallig,5,Hallig,<span>Sch</span>,
+2,22.09.2025,3,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Sv</span>,
+2,22.09.2025,3,"1 Sonnen, 2a Monde",2 - 3,Leseband Ell,Sv,Wendepunkt Kl. 2
+2,22.09.2025,3,2a Monde,1 - 2,,<span>---</span>,Wendepunkt Kl. 2 -&gt; Ew
+2,22.09.2025,3,2a Monde,3 - 4,Ma,Sv,Wendepunkt Kl. 2
+2,22.09.2025,3,2a Monde,4 - 5,Ma,"Sv, Bre",Wendepunkt Kl. 2
+2,22.09.2025,3,2b Monde,1 - 2,Sp,Ew,Wendepunkt Kl. 2
+2,22.09.2025,3,"2b Monde, 3 Sterne",2 - 3,Leseband Ell,Ew,Wendepunkt Kl. 2
+2,22.09.2025,3,2b Monde,3 - 4,Ma,"Ew, Bre",Wendepunkt Kl. 2
+2,22.09.2025,3,2b Monde,4 - 5,Deu,Ro,Wendepunkt Kl. 2
+2,22.09.2025,3,2c,5,Rel,<span>Fu</span>,
+2,22.09.2025,3,4b,6,Sach,<span>Lt</span>,
+2,22.09.2025,3,5d,4,Deu,"<span>Wei</span>, Wei",
+2,22.09.2025,3,6b,5,Ma,<span>Bk</span>,
+2,22.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Rr</span>,
+2,22.09.2025,3,"7a, 7b, 7c",7,DaZ Auf,Li,
+2,22.09.2025,3,8a,6,IT,"<span>Blu</span>, Blu",
+2,22.09.2025,3,8a,7,Eng,Lg,
+2,22.09.2025,3,9a,0 - 7,,Ls,Klassenfahrt
+2,22.09.2025,3,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
+2,22.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
+2,22.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
+2,22.09.2025,3,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
+2,22.09.2025,3,DaZ-a,4,DaZ,"Wr, Bb",
+2,22.09.2025,3,DaZ-a,5,DaZ,Wr,
+2,22.09.2025,3,Hallig,4,Hallig,<span>Vo</span>,
+2,22.09.2025,3,Hallig,5,Hallig,<span>Sch</span>,
+2,22.09.2025,8,"10a, 10b",4,WPU,<span>Wx</span>,
+2,22.09.2025,8,7b,4,Nawi,<span>Bl</span>,
+2,22.09.2025,8,"7b, 7c",6,Rel,<span>Vo</span>,
+2,22.09.2025,8,8b,5,Nawi,<span>Pü</span>,
+2,22.09.2025,8,DaZ-a,2,DaZ,"Wr, Bb",
+2,22.09.2025,8,DaZ-a,4,DaZ,"Bb, <span>Bb</span>",
+2,22.09.2025,8,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
 2,23.09.2025,3,10a,2,Che,<span>Rom</span>,
 2,23.09.2025,3,10a,3,Leseband,<span>Ni</span>,
 2,23.09.2025,3,"10a, 10b",4,WPU,<span>---</span>,
@@ -68,6 +70,6 @@
 2,23.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,23.09.2025,3,DaZ-a,3,Leseband,<span>Bb</span>,
 2,23.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
-1,22.09.2025,0,"Klassen: 10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, Hallig",,,,
-1,22.09.2025,5,"Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,
+1,22.09.2025,0,"Klassen: 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,
+1,22.09.2025,5,"Klassen: 10a, 10b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
 1,23.09.2025,0,"Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",,,,
