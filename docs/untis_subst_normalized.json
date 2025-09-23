@@ -13,36 +13,6 @@
     "gruppe": 2,
     "datum": "23.09.2025",
     "quelle_table_index": 3,
-    "klasse": "2a Monde",
-    "stunde": "4 - 5",
-    "fach": "Ma",
-    "lehrkraft": "Sv, Bre",
-    "text": "Wendepunkt Kl. 2"
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2b Monde",
-    "stunde": "4 - 5",
-    "fach": "Deu",
-    "lehrkraft": "Ro",
-    "text": "Wendepunkt Kl. 2"
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "5",
-    "fach": "Rel",
-    "lehrkraft": "<span>Fu</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
     "klasse": "4b",
     "stunde": "6",
     "fach": "Sach",
@@ -57,36 +27,6 @@
     "stunde": "6",
     "fach": "Schw",
     "lehrkraft": "<span>Sc</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6b",
-    "stunde": "5",
-    "fach": "Ma",
-    "lehrkraft": "<span>Bk</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
-    "stunde": "5",
-    "fach": "WPU",
-    "lehrkraft": "<span>Rr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
-    "stunde": "5",
-    "fach": "WPU",
-    "lehrkraft": "<span>Klü</span>",
     "text": ""
   },
   {
@@ -158,26 +98,6 @@
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "5",
-    "fach": "DaZ",
-    "lehrkraft": "Wr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "23.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "Hallig",
-    "stunde": "5",
-    "fach": "Hallig",
-    "lehrkraft": "<span>Sch</span>",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -663,7 +583,7 @@
     "gruppe": 1,
     "datum": "23.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10b, 2a Monde, 2b Monde, 2c, 4b, 5a, 5b, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",
+    "klasse": "Klassen: 10b, 4b, 5a, 5b, 7a, 7b, 7c, 8a, 9a, 9b, 9c",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

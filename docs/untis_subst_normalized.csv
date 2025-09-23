@@ -1,13 +1,7 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,23.09.2025,3,10b,7,Sp,Vo,
-2,23.09.2025,3,2a Monde,4 - 5,Ma,"Sv, Bre",Wendepunkt Kl. 2
-2,23.09.2025,3,2b Monde,4 - 5,Deu,Ro,Wendepunkt Kl. 2
-2,23.09.2025,3,2c,5,Rel,<span>Fu</span>,
 2,23.09.2025,3,4b,6,Sach,<span>Lt</span>,
 2,23.09.2025,3,"5a, 5b",6,Schw,<span>Sc</span>,
-2,23.09.2025,3,6b,5,Ma,<span>Bk</span>,
-2,23.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Rr</span>,
-2,23.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Klü</span>,
 2,23.09.2025,3,"7a, 7b, 7c",7,DaZ Auf,Li,
 2,23.09.2025,3,8a,6,IT,"<span>Blu</span>, Blu",
 2,23.09.2025,3,8a,7,Eng,Lg,
@@ -15,8 +9,6 @@
 2,23.09.2025,3,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 2,23.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
 2,23.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
-2,23.09.2025,3,DaZ-a,5,DaZ,Wr,
-2,23.09.2025,3,Hallig,5,Hallig,<span>Sch</span>,
 2,23.09.2025,8,"10a, 10b",4,WPU,<span>Wx</span>,
 2,23.09.2025,8,6c,2,Eng,"Ti, <span>Ti</span>",
 2,23.09.2025,8,6c,3,Leseband,"Gum, <span>Gum</span>",
@@ -65,6 +57,6 @@
 2,24.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,24.09.2025,3,DaZ-a,3,Leseband,<span>Bb</span>,
 2,24.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
-1,23.09.2025,0,"Klassen: 10b, 2a Monde, 2b Monde, 2c, 4b, 5a, 5b, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,
+1,23.09.2025,0,"Klassen: 10b, 4b, 5a, 5b, 7a, 7b, 7c, 8a, 9a, 9b, 9c",,,,
 1,23.09.2025,5,"Klassen: 10a, 10b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
 1,24.09.2025,0,"Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",,,,
