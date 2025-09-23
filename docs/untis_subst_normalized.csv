@@ -1,9 +1,7 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,23.09.2025,3,10b,7,Sp,Vo,
-2,23.09.2025,3,"1 Sonnen, 2a Monde",2 - 3,Leseband Ell,Sv,Wendepunkt Kl. 2
 2,23.09.2025,3,2a Monde,3 - 4,Ma,Sv,Wendepunkt Kl. 2
 2,23.09.2025,3,2a Monde,4 - 5,Ma,"Sv, Bre",Wendepunkt Kl. 2
-2,23.09.2025,3,"2b Monde, 3 Sterne",2 - 3,Leseband Ell,Ew,Wendepunkt Kl. 2
 2,23.09.2025,3,2b Monde,3 - 4,Ma,"Ew, Bre",Wendepunkt Kl. 2
 2,23.09.2025,3,2b Monde,4 - 5,Deu,Ro,Wendepunkt Kl. 2
 2,23.09.2025,3,2c,5,Rel,<span>Fu</span>,
@@ -20,7 +18,6 @@
 2,23.09.2025,3,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 2,23.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
 2,23.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
-2,23.09.2025,3,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
 2,23.09.2025,3,DaZ-a,4,DaZ,"Wr, Bb",
 2,23.09.2025,3,DaZ-a,5,DaZ,Wr,
 2,23.09.2025,3,Hallig,4,Hallig,<span>Hu</span>,
@@ -70,6 +67,6 @@
 2,24.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,24.09.2025,3,DaZ-a,3,Leseband,<span>Bb</span>,
 2,24.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
-1,23.09.2025,0,"Klassen: 10b, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3 Sterne, 4b, 5a, 5b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,
+1,23.09.2025,0,"Klassen: 10b, 2a Monde, 2b Monde, 2c, 4b, 5a, 5b, 5d, 6b, 7a, 7b, 7c, 8a, 9a, 9b, 9c, DaZ-a, Hallig",,,,
 1,23.09.2025,5,"Klassen: 10a, 10b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
 1,24.09.2025,0,"Klassen: 10a, 10b, 2a, 2c, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6d, 7a, 7b, 7c, 8a, 8c, 9a, 9b, 9c, DaZ-a",,,,
