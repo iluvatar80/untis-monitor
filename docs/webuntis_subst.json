@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-23T10:22:35",
+    "scraped_at": "2025-09-23T10:46:12",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -682,7 +682,7 @@
     "4": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 10a, 10b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a"
+        "col_1": "Klassen: 10a, 10b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a"
       }
     ],
     "5": [
@@ -716,6 +716,36 @@
         "col_4": "10a, 10b",
         "col_5": "WPU",
         "col_6": "Wx",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "6c",
+        "col_5": "Eng",
+        "col_6": "Ti, Ti",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "6c",
+        "col_5": "Leseband",
+        "col_6": "Gum, Gum",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "6c",
+        "col_5": "Ma",
+        "col_6": "Bä, Bä",
         "col_7": ""
       },
       {
@@ -838,6 +868,36 @@
         "col_4": "10a, 10b",
         "col_5": "WPU",
         "col_6": "Wx",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "6c",
+        "col_5": "Eng",
+        "col_6": "Ti, Ti",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "6c",
+        "col_5": "Leseband",
+        "col_6": "Gum, Gum",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "6c",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "6c",
+        "col_5": "Ma",
+        "col_6": "Bä, Bä",
         "col_7": ""
       },
       {
@@ -1935,7 +1995,7 @@
     },
     {
       "table_index": 5,
-      "col_1": "Klassen: 10a, 10b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
+      "col_1": "Klassen: 10a, 10b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -1991,6 +2051,51 @@
       "col_4": "10a, 10b",
       "col_5": "WPU",
       "col_6": "Wx",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "6c",
+      "col_5": "Eng",
+      "col_6": "Ti, Ti",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "6c",
+      "col_5": "Leseband",
+      "col_6": "Gum, Gum",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "6c",
+      "col_5": "Ma",
+      "col_6": "Bä, Bä",
       "col_7": ""
     },
     {
@@ -2171,6 +2276,51 @@
       "col_4": "10a, 10b",
       "col_5": "WPU",
       "col_6": "Wx",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "6c",
+      "col_5": "Eng",
+      "col_6": "Ti, Ti",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "6c",
+      "col_5": "Leseband",
+      "col_6": "Gum, Gum",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "6c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "6c",
+      "col_5": "Ma",
+      "col_6": "Bä, Bä",
       "col_7": ""
     },
     {
