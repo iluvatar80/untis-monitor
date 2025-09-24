@@ -23,6 +23,26 @@
     "gruppe": 2,
     "datum": "24.09.2025",
     "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "5",
+    "fach": "WiPo",
+    "lehrkraft": "<span>Ws</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "24.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "Lg",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "24.09.2025",
+    "quelle_table_index": 3,
     "klasse": "10b",
     "stunde": "5",
     "fach": "WiPo",
@@ -337,6 +357,16 @@
     "stunde": "2",
     "fach": "WPU",
     "lehrkraft": "<span>Blu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "24.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "2",
+    "fach": "WPU",
+    "lehrkraft": "<span>Ka</span>",
     "text": ""
   },
   {
@@ -533,6 +563,26 @@
     "gruppe": 2,
     "datum": "25.09.2025",
     "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "5",
+    "fach": "WiPo",
+    "lehrkraft": "<span>Ws</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "25.09.2025",
+    "quelle_table_index": 3,
+    "klasse": "10a",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "Lg",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "25.09.2025",
+    "quelle_table_index": 3,
     "klasse": "10b",
     "stunde": "5",
     "fach": "WiPo",
@@ -847,6 +897,16 @@
     "stunde": "2",
     "fach": "WPU",
     "lehrkraft": "<span>Blu</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "25.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "2",
+    "fach": "WPU",
+    "lehrkraft": "<span>Ka</span>",
     "text": ""
   },
   {
