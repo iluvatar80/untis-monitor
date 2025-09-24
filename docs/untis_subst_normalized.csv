@@ -1,23 +1,16 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,24.09.2025,3,"10a, 10b",4,WPU,<span>Boe</span>,
-2,24.09.2025,3,"10a, 10b",4,WPU,<span>Wx</span>,
 2,24.09.2025,3,10a,5,WiPo,<span>Ws</span>,
 2,24.09.2025,3,10a,6,Eng,Lg,
 2,24.09.2025,3,10b,5,WiPo,<span>Lu</span>,
-2,24.09.2025,3,1a,4,Ma,<span>Ca</span>,
 2,24.09.2025,3,3b,5,Ma,"Lü, <span>Wu</span>, Wu",
 2,24.09.2025,3,"4a, 4b",6,Phi,<span>Lt</span>,
 2,24.09.2025,3,6a,6,Deu,"<span>---</span>, Mee",Vtr. ohne Lehrer
 2,24.09.2025,3,6b,5,Deu,<span>Bk</span>,
-2,24.09.2025,3,6c,4,Ma,"Bä, <span>Bä</span>",
-2,24.09.2025,3,7b,4,Nawi,<span>Bl</span>,
 2,24.09.2025,3,"7b, 7c",6,Rel,Sn,
-2,24.09.2025,3,7c,4,WK,<span>Bk</span>,
 2,24.09.2025,3,8b,5,Nawi,<span>Pü</span>,
 2,24.09.2025,3,9a,0 - 7,,Ls,Klassenfahrt
 2,24.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
 2,24.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
-2,24.09.2025,3,DaZ-a,4,DaZ,"Bb, <span>Bb</span>",
 2,24.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
 2,24.09.2025,8,10a,4,Ma,<span>Hu</span>,
 2,24.09.2025,8,10b,2,Sp,<span>Ca</span>,
@@ -53,25 +46,18 @@
 2,24.09.2025,8,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,24.09.2025,8,DaZ-a,4,DaZ,"Bb, Gum",
 2,24.09.2025,8,DaZ-a,5,DaZ,"Jo, Gum",
-2,25.09.2025,3,"10a, 10b",4,WPU,<span>Boe</span>,
-2,25.09.2025,3,"10a, 10b",4,WPU,<span>Wx</span>,
 2,25.09.2025,3,10a,5,WiPo,<span>Ws</span>,
 2,25.09.2025,3,10a,6,Eng,Lg,
 2,25.09.2025,3,10b,5,WiPo,<span>Lu</span>,
-2,25.09.2025,3,1a,4,Ma,<span>Ca</span>,
 2,25.09.2025,3,3b,5,Ma,"Lü, <span>Wu</span>, Wu",
 2,25.09.2025,3,"4a, 4b",6,Phi,<span>Lt</span>,
 2,25.09.2025,3,6a,6,Deu,"<span>---</span>, Mee",Vtr. ohne Lehrer
 2,25.09.2025,3,6b,5,Deu,<span>Bk</span>,
-2,25.09.2025,3,6c,4,Ma,"Bä, <span>Bä</span>",
-2,25.09.2025,3,7b,4,Nawi,<span>Bl</span>,
 2,25.09.2025,3,"7b, 7c",6,Rel,Sn,
-2,25.09.2025,3,7c,4,WK,<span>Bk</span>,
 2,25.09.2025,3,8b,5,Nawi,<span>Pü</span>,
 2,25.09.2025,3,9a,0 - 7,,Ls,Klassenfahrt
 2,25.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
 2,25.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
-2,25.09.2025,3,DaZ-a,4,DaZ,"Bb, <span>Bb</span>",
 2,25.09.2025,3,DaZ-a,5,DaZ,"Jo, <span>Jo</span>",
 2,25.09.2025,8,10a,4,Ma,<span>Hu</span>,
 2,25.09.2025,8,10b,2,Sp,<span>Ca</span>,
@@ -107,7 +93,7 @@
 2,25.09.2025,8,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
 2,25.09.2025,8,DaZ-a,4,DaZ,"Bb, Gum",
 2,25.09.2025,8,DaZ-a,5,DaZ,"Jo, Gum",
-1,24.09.2025,0,"Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
+1,24.09.2025,0,"Klassen: 10a, 10b, 3b, 4a, 4b, 6a, 6b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
 1,24.09.2025,5,"Klassen: 10a, 10b, 2a, 2b, 2c, 3a, 5c, 6a, 6b, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
-1,25.09.2025,0,"Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
+1,25.09.2025,0,"Klassen: 10a, 10b, 3b, 4a, 4b, 6a, 6b, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",,,,
 1,25.09.2025,5,"Klassen: 10a, 10b, 2a, 2b, 2c, 3a, 5c, 6a, 6b, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
