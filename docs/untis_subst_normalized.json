@@ -54,16 +54,6 @@
     "datum": "24.09.2025",
     "quelle_table_index": 3,
     "klasse": "4a",
-    "stunde": "2",
-    "fach": "Sp",
-    "lehrkraft": "<span>Dw</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "24.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "4a",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Hu</span>",
@@ -77,16 +67,6 @@
     "stunde": "6",
     "fach": "Phi",
     "lehrkraft": "<span>Lt</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "24.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "Gr, <span>Gr</span>",
     "text": ""
   },
   {
@@ -117,16 +97,6 @@
     "stunde": "5",
     "fach": "Deu",
     "lehrkraft": "<span>Bk</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "24.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "Ti, <span>Ti</span>",
     "text": ""
   },
   {
@@ -184,16 +154,6 @@
     "datum": "24.09.2025",
     "quelle_table_index": 3,
     "klasse": "8b",
-    "stunde": "2",
-    "fach": "Sp",
-    "lehrkraft": "<span>Sc</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "24.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8b",
     "stunde": "5",
     "fach": "Nawi",
     "lehrkraft": "<span>Pü</span>",
@@ -228,16 +188,6 @@
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "24.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "Wr, Bb",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -644,16 +594,6 @@
     "datum": "25.09.2025",
     "quelle_table_index": 3,
     "klasse": "4a",
-    "stunde": "2",
-    "fach": "Sp",
-    "lehrkraft": "<span>Dw</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "4a",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Hu</span>",
@@ -667,16 +607,6 @@
     "stunde": "6",
     "fach": "Phi",
     "lehrkraft": "<span>Lt</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "Gr, <span>Gr</span>",
     "text": ""
   },
   {
@@ -707,16 +637,6 @@
     "stunde": "5",
     "fach": "Deu",
     "lehrkraft": "<span>Bk</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "Ti, <span>Ti</span>",
     "text": ""
   },
   {
@@ -774,16 +694,6 @@
     "datum": "25.09.2025",
     "quelle_table_index": 3,
     "klasse": "8b",
-    "stunde": "2",
-    "fach": "Sp",
-    "lehrkraft": "<span>Sc</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8b",
     "stunde": "5",
     "fach": "Nawi",
     "lehrkraft": "<span>Pü</span>",
@@ -818,16 +728,6 @@
     "fach": "",
     "lehrkraft": "Re",
     "text": "Klassenfahrt"
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "Wr, Bb",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -1183,7 +1083,7 @@
     "gruppe": 1,
     "datum": "24.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 5c, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1203,7 +1103,7 @@
     "gruppe": 1,
     "datum": "25.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 5c, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1a, 3b, 4a, 4b, 6a, 6b, 6c, 7b, 7c, 8b, 9a, 9b, 9c, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
