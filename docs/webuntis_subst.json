@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-24T07:39:59",
+    "scraped_at": "2025-09-24T08:28:00",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -854,7 +854,7 @@
         "col_2": "",
         "col_3": "2",
         "col_4": "7b",
-        "col_5": "Nawi",
+        "col_5": "Sp",
         "col_6": "Sc",
         "col_7": ""
       },
@@ -1556,7 +1556,7 @@
         "col_2": "",
         "col_3": "2",
         "col_4": "7b",
-        "col_5": "Nawi",
+        "col_5": "Sp",
         "col_6": "Sc",
         "col_7": ""
       },
@@ -2898,7 +2898,7 @@
         "col_2": "",
         "col_3": "2",
         "col_4": "7b",
-        "col_5": "Nawi",
+        "col_5": "Sp",
         "col_6": "Sc",
         "col_7": ""
       },
@@ -3600,7 +3600,7 @@
         "col_2": "",
         "col_3": "2",
         "col_4": "7b",
-        "col_5": "Nawi",
+        "col_5": "Sp",
         "col_6": "Sc",
         "col_7": ""
       },
@@ -5363,7 +5363,7 @@
       "Vertretungstext": null,
       "col_3": "2",
       "col_4": "7b",
-      "col_5": "Nawi",
+      "col_5": "Sp",
       "col_6": "Sc",
       "col_7": ""
     },
@@ -6413,7 +6413,7 @@
       "Vertretungstext": null,
       "col_3": "2",
       "col_4": "7b",
-      "col_5": "Nawi",
+      "col_5": "Sp",
       "col_6": "Sc",
       "col_7": ""
     },
@@ -8423,7 +8423,7 @@
       "Vertretungstext": null,
       "col_3": "2",
       "col_4": "7b",
-      "col_5": "Nawi",
+      "col_5": "Sp",
       "col_6": "Sc",
       "col_7": ""
     },
@@ -9473,7 +9473,7 @@
       "Vertretungstext": null,
       "col_3": "2",
       "col_4": "7b",
-      "col_5": "Nawi",
+      "col_5": "Sp",
       "col_6": "Sc",
       "col_7": ""
     },
