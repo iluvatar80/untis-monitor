@@ -1,84 +1,38 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 3c, 6a, 6b, 6c, 6d, 8b, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,5,10a,VBL,Rr,
 3,10a,,,,,,,6,10a,WK,Rr,
-3,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
-3,2b,,,,,,,2 - 5,2b,,Gro,Prävention
-3,2c,,,,,,,2 - 5,2c,,Lt,Prävention
-3,3a,,,,,,,5,3a,Ma,Fu,
-3,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 3,3c,,,,,,,6,3c,KlR,Dr,
-3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,7c,,,,,,,5,7c,Eng,Bb,
 3,8b,,,,,,,6,8b,Sp,Vo,
-3,8c,,,,,,,5,8c,Ma,Wei,
-3,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-3,9a,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-3,9b,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-3,9c,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9f,,,,,,,1 - 7,9f,,Ne,Klassenfahrt
-3,9f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,9g,,,,,,,1 - 7,9g,,HL,Klassenfahrt
-3,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
-4,10a,,,,,,,5,10a,VBL,Rr,
 4,10a,,,,,,,6,10a,WK,Rr,
-4,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
-4,2b,,,,,,,2 - 5,2b,,Gro,Prävention
-4,2c,,,,,,,2 - 5,2c,,Lt,Prävention
-4,3a,,,,,,,5,3a,Ma,Fu,
-4,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 4,3c,,,,,,,6,3c,KlR,Dr,
-4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,7c,,,,,,,5,7c,Eng,Bb,
 4,8b,,,,,,,6,8b,Sp,Vo,
-4,8c,,,,,,,5,8c,Ma,Wei,
-4,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 4,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-4,9a,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-4,9b,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-4,9c,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9f,,,,,,,1 - 7,9f,,Ne,Klassenfahrt
-4,9f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 4,9g,,,,,,,1 - 7,9g,,HL,Klassenfahrt
-4,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
 5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10a,,,,,,,2,10a,Phy,Ws,
@@ -243,86 +197,40 @@
 9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
 9,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 3c, 6a, 6b, 6c, 6d, 8b, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,5,10a,VBL,Rr,
 3,10a,,,,,,,6,10a,WK,Rr,
-3,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
-3,2b,,,,,,,2 - 5,2b,,Gro,Prävention
-3,2c,,,,,,,2 - 5,2c,,Lt,Prävention
-3,3a,,,,,,,5,3a,Ma,Fu,
-3,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 3,3c,,,,,,,6,3c,KlR,Dr,
-3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-3,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 3,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-3,7c,,,,,,,5,7c,Eng,Bb,
 3,8b,,,,,,,6,8b,Sp,Vo,
-3,8c,,,,,,,5,8c,Ma,Wei,
-3,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-3,9a,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-3,9b,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-3,9c,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 3,9f,,,,,,,1 - 7,9f,,Ne,Klassenfahrt
-3,9f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,9g,,,,,,,1 - 7,9g,,HL,Klassenfahrt
-3,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
-4,10a,,,,,,,5,10a,VBL,Rr,
 4,10a,,,,,,,6,10a,WK,Rr,
-4,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
-4,2b,,,,,,,2 - 5,2b,,Gro,Prävention
-4,2c,,,,,,,2 - 5,2c,,Lt,Prävention
-4,3a,,,,,,,5,3a,Ma,Fu,
-4,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 4,3c,,,,,,,6,3c,KlR,Dr,
-4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6a,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6b,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6b,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6c,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6c,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Nn,
-4,6d,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
 4,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6d,,,,,,,6,"6a, 6b, 6c, 6d",Thea,Ti,
-4,7c,,,,,,,5,7c,Eng,Bb,
 4,8b,,,,,,,6,8b,Sp,Vo,
-4,8c,,,,,,,5,8c,Ma,Wei,
-4,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 4,9a,,,,,,,0 - 7,9a,,Ls,Klassenfahrt
-4,9a,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9b,,,,,,,0 - 7,9b,,Sn,Klassenfahrt
-4,9b,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9c,,,,,,,0 - 7,9c,,Re,Klassenfahrt
-4,9c,,,,,,,5,"9a, 9b, 9c",Phi,Wei,
 4,9f,,,,,,,1 - 7,9f,,Ne,Klassenfahrt
-4,9f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 4,9g,,,,,,,1 - 7,9g,,HL,Klassenfahrt
-4,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
 5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10a,,,,,,,2,10a,Phy,Ws,
