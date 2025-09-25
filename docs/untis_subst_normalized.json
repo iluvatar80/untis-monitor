@@ -294,16 +294,6 @@
     "datum": "25.09.2025",
     "quelle_table_index": 3,
     "klasse": "8a, 8b, 8c, 8f",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Bl",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "25.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a, 8b, 8c, 8f",
     "stunde": "2",
     "fach": "WPU",
     "lehrkraft": "<span>Ka</span>",
@@ -1137,16 +1127,6 @@
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Bb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a, 8b, 8c, 8f",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Bl",
     "text": ""
   },
   {
