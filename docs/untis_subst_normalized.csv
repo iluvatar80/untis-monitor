@@ -1,73 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,24.09.2025,3,10a,4,Ma,<span>Hu</span>,
-2,24.09.2025,3,10b,2,Sp,<span>Ca</span>,
-2,24.09.2025,3,2a,2,Sp,<span>Fu</span>,
-2,24.09.2025,3,2a,3,Leseband,Ka,Wendepunkt
-2,24.09.2025,3,2a,4,Ma,"Dr, Hm",Wendepunkt
-2,24.09.2025,3,2a,5,Deu,Ka,Wendepunkt
-2,24.09.2025,3,2b,2 - 5,,Gro,Prävention
-2,24.09.2025,3,2c,2 - 5,,Lt,Prävention
-2,24.09.2025,3,3a,5,Ma,<span>Fu</span>,
-2,24.09.2025,3,5c,2,Deu,"<span>Nn</span>, Nn",
-2,24.09.2025,3,"6a, 6b, 6c, 6d",4 - 5,Thea,<span>Nn</span>,
-2,24.09.2025,3,"6a, 6b, 6c, 6d",6,Thea,<span>Nn</span>,
-2,24.09.2025,3,6b,2,Ma,<span>Rr</span>,
-2,24.09.2025,3,7b,2,Sp,Sc,
-2,24.09.2025,3,"8a, 8b, 8c, 8f",1,DaZ Auf,Bl,
-2,24.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Blu</span>,
-2,24.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Ka</span>,
-2,24.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Ei</span>,
-2,24.09.2025,3,8b,4,Nawi,<span>Ri</span>,
-2,24.09.2025,3,8b,6,Sp,Vo,
-2,24.09.2025,3,8c,5,Ma,<span>Wei</span>,
-2,24.09.2025,3,8f,4,Ma,"<span>Bä</span>, Bä",
-2,24.09.2025,3,"8f, 9f, 9g",5,Sp,"<span>Ri</span>, Ri",
-2,24.09.2025,3,9a,0 - 7,,Ls,Klassenfahrt
-2,24.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Pü,
-2,24.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Re,
-2,24.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Sc,
-2,24.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Ei,
-2,24.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,HL,
-2,24.09.2025,3,"9a, 9b, 9c",5,Phi,Wei,
-2,24.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
-2,24.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
-2,24.09.2025,3,9f,1 - 7,,Ne,Klassenfahrt
-2,24.09.2025,3,9g,1 - 7,,HL,Klassenfahrt
-2,24.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
-2,24.09.2025,3,DaZ-a,4,DaZ,"Bb, Gum",
-2,24.09.2025,3,DaZ-a,5,DaZ,"Jo, Gum",
-2,24.09.2025,8,10a,2,Eng,<span>Hi</span>,
-2,24.09.2025,8,"10a, 10b",4,WPU,<span>Rr</span>,
-2,24.09.2025,8,10a,7,Phy,Ws,
-2,24.09.2025,8,10b,1,Deu,Ca,
-2,24.09.2025,8,10b,2,Deu,Ca,
-2,24.09.2025,8,1a,5,Rel,<span>Zi</span>,
-2,24.09.2025,8,2a,2 - 5,,Ka,Prävention
-2,24.09.2025,8,4b,5,Deu,"An, <span>An</span>",
-2,24.09.2025,8,"7a, 7b, 7c",1,DaZ Auf,Li,
-2,24.09.2025,8,"7a, 7b, 7c",2,WPU,<span>Ri</span>,
-2,24.09.2025,8,7b,6,Nawi,<span>Dr</span>,
-2,24.09.2025,8,7b,7,Sp,Sc,
-2,24.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,<span>Dr</span>,
-2,24.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,HL,
-2,24.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,<span>Ei</span>,
-2,24.09.2025,8,8b,1,Rel,Sn,
-2,24.09.2025,8,8b,2,WK,<span>Bl</span>,
-2,24.09.2025,8,8b,3,Leseband,<span>Vo</span>,
-2,24.09.2025,8,8c,4,Eng,<span>Bä</span>,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Pü,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Re,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Sc,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Ei,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,HL,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Pü,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Re,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Sc,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Ei,
-2,24.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,HL,
-2,24.09.2025,8,9f,0 - 7,,Ne,Klassenfahrt
-2,24.09.2025,8,9g,0 - 7,,HL,Klassenfahrt
-2,24.09.2025,8,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
 2,25.09.2025,3,10a,4,Ma,<span>Hu</span>,
 2,25.09.2025,3,10b,2,Sp,<span>Ca</span>,
 2,25.09.2025,3,2a,2,Sp,<span>Fu</span>,
@@ -137,7 +68,76 @@
 2,25.09.2025,8,9f,0 - 7,,Ne,Klassenfahrt
 2,25.09.2025,8,9g,0 - 7,,HL,Klassenfahrt
 2,25.09.2025,8,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
-1,24.09.2025,0,"Klassen: 10a, 10b, 2a, 2b, 2c, 3a, 5c, 6a, 6b, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
-1,24.09.2025,5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
+2,26.09.2025,3,10a,4,Ma,<span>Hu</span>,
+2,26.09.2025,3,10b,2,Sp,<span>Ca</span>,
+2,26.09.2025,3,2a,2,Sp,<span>Fu</span>,
+2,26.09.2025,3,2a,3,Leseband,Ka,Wendepunkt
+2,26.09.2025,3,2a,4,Ma,"Dr, Hm",Wendepunkt
+2,26.09.2025,3,2a,5,Deu,Ka,Wendepunkt
+2,26.09.2025,3,2b,2 - 5,,Gro,Prävention
+2,26.09.2025,3,2c,2 - 5,,Lt,Prävention
+2,26.09.2025,3,3a,5,Ma,<span>Fu</span>,
+2,26.09.2025,3,5c,2,Deu,"<span>Nn</span>, Nn",
+2,26.09.2025,3,"6a, 6b, 6c, 6d",4 - 5,Thea,<span>Nn</span>,
+2,26.09.2025,3,"6a, 6b, 6c, 6d",6,Thea,<span>Nn</span>,
+2,26.09.2025,3,6b,2,Ma,<span>Rr</span>,
+2,26.09.2025,3,7b,2,Sp,Sc,
+2,26.09.2025,3,"8a, 8b, 8c, 8f",1,DaZ Auf,Bl,
+2,26.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Blu</span>,
+2,26.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Ka</span>,
+2,26.09.2025,3,"8a, 8b, 8c, 8f",2,WPU,<span>Ei</span>,
+2,26.09.2025,3,8b,4,Nawi,<span>Ri</span>,
+2,26.09.2025,3,8b,6,Sp,Vo,
+2,26.09.2025,3,8c,5,Ma,<span>Wei</span>,
+2,26.09.2025,3,8f,4,Ma,"<span>Bä</span>, Bä",
+2,26.09.2025,3,"8f, 9f, 9g",5,Sp,"<span>Ri</span>, Ri",
+2,26.09.2025,3,9a,0 - 7,,Ls,Klassenfahrt
+2,26.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Pü,
+2,26.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Re,
+2,26.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Sc,
+2,26.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,Ei,
+2,26.09.2025,3,"9a, 9b, 9c, 9f",2,WPU,HL,
+2,26.09.2025,3,"9a, 9b, 9c",5,Phi,Wei,
+2,26.09.2025,3,9b,0 - 7,,Sn,Klassenfahrt
+2,26.09.2025,3,9c,0 - 7,,Re,Klassenfahrt
+2,26.09.2025,3,9f,1 - 7,,Ne,Klassenfahrt
+2,26.09.2025,3,9g,1 - 7,,HL,Klassenfahrt
+2,26.09.2025,3,DaZ-a,2,DaZ,"<span>Bb</span>, Bb",
+2,26.09.2025,3,DaZ-a,4,DaZ,"Bb, Gum",
+2,26.09.2025,3,DaZ-a,5,DaZ,"Jo, Gum",
+2,26.09.2025,8,10a,2,Eng,<span>Hi</span>,
+2,26.09.2025,8,"10a, 10b",4,WPU,<span>Rr</span>,
+2,26.09.2025,8,10a,7,Phy,Ws,
+2,26.09.2025,8,10b,1,Deu,Ca,
+2,26.09.2025,8,10b,2,Deu,Ca,
+2,26.09.2025,8,1a,5,Rel,<span>Zi</span>,
+2,26.09.2025,8,2a,2 - 5,,Ka,Prävention
+2,26.09.2025,8,4b,5,Deu,"An, <span>An</span>",
+2,26.09.2025,8,"7a, 7b, 7c",1,DaZ Auf,Li,
+2,26.09.2025,8,"7a, 7b, 7c",2,WPU,<span>Ri</span>,
+2,26.09.2025,8,7b,6,Nawi,<span>Dr</span>,
+2,26.09.2025,8,7b,7,Sp,Sc,
+2,26.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,<span>Dr</span>,
+2,26.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,HL,
+2,26.09.2025,8,"8a, 8b, 8c, 8f",5,WPU,<span>Ei</span>,
+2,26.09.2025,8,8b,1,Rel,Sn,
+2,26.09.2025,8,8b,2,WK,<span>Bl</span>,
+2,26.09.2025,8,8b,3,Leseband,<span>Vo</span>,
+2,26.09.2025,8,8c,4,Eng,<span>Bä</span>,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Pü,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Re,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Sc,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,Ei,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",5,WPU,HL,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Pü,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Re,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Sc,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,Ei,
+2,26.09.2025,8,"9a, 9b, 9c, 9f",6,WPU,HL,
+2,26.09.2025,8,9f,0 - 7,,Ne,Klassenfahrt
+2,26.09.2025,8,9g,0 - 7,,HL,Klassenfahrt
+2,26.09.2025,8,DaZ-a,2,DaZ,"<span>Gum</span>, Gum",
 1,25.09.2025,0,"Klassen: 10a, 10b, 2a, 2b, 2c, 3a, 5c, 6a, 6b, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
 1,25.09.2025,5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
+1,26.09.2025,0,"Klassen: 10a, 10b, 2a, 2b, 2c, 3a, 5c, 6a, 6b, 6c, 6d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
+1,26.09.2025,5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
