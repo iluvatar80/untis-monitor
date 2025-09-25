@@ -1,22 +1,18 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 4b, 5d, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 4b, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,3,10a,Leseband,Hu,
 3,10a,,,,,,,4,10a,Ma,Hu,
 3,10a,,,,,,,5,10a,VBL,Rr,
 3,10a,,,,,,,6,10a,WK,Rr,
-3,2a,,,,,,,3,2a,Leseband,Ka,Wendepunkt
 3,2a,,,,,,,4,2a,Ma,"Dr, Hm",Wendepunkt
 3,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
 3,2b,,,,,,,2 - 5,2b,,Gro,Prävention
 3,2c,,,,,,,2 - 5,2c,,Lt,Prävention
 3,3a,,,,,,,5,3a,Ma,Fu,
-3,3c,,,,,,,3,3c,Leseband,Hal,
 3,3c,,,,,,,4,3c,Ma,Fu,
 3,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 3,3c,,,,,,,6,3c,KlR,Dr,
 3,4b,,,,,,,4,4b,Eng,Scm,
-3,5d,,,,,,,3,5d,Leseband,Sch,
 3,6a,,,,,,,4 - 5,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6a,,,,,,,4,"6a, 6b, 6c, 6d",Thea,Ti,
 3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
@@ -55,22 +51,18 @@
 3,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Bb, Gum",
 3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
-4,10a,,,,,,,3,10a,Leseband,Hu,
 4,10a,,,,,,,4,10a,Ma,Hu,
 4,10a,,,,,,,5,10a,VBL,Rr,
 4,10a,,,,,,,6,10a,WK,Rr,
-4,2a,,,,,,,3,2a,Leseband,Ka,Wendepunkt
 4,2a,,,,,,,4,2a,Ma,"Dr, Hm",Wendepunkt
 4,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
 4,2b,,,,,,,2 - 5,2b,,Gro,Prävention
 4,2c,,,,,,,2 - 5,2c,,Lt,Prävention
 4,3a,,,,,,,5,3a,Ma,Fu,
-4,3c,,,,,,,3,3c,Leseband,Hal,
 4,3c,,,,,,,4,3c,Ma,Fu,
 4,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 4,3c,,,,,,,6,3c,KlR,Dr,
 4,4b,,,,,,,4,4b,Eng,Scm,
-4,5d,,,,,,,3,5d,Leseband,Sch,
 4,6a,,,,,,,4 - 5,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6a,,,,,,,4,"6a, 6b, 6c, 6d",Thea,Ti,
 4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
@@ -111,7 +103,7 @@
 4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
 5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,10a,,,,,,,2,10a,Eng,Hi,
+8,10a,,,,,,,2,10a,Phy,Ws,
 8,10a,,,,,,,4,"10a, 10b",WPU,Rr,
 8,10a,,,,,,,7,10a,Phy,Ws,
 8,10b,,,,,,,1,10b,Deu,Ca,
@@ -192,7 +184,7 @@
 8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
 8,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-9,10a,,,,,,,2,10a,Eng,Hi,
+9,10a,,,,,,,2,10a,Phy,Ws,
 9,10a,,,,,,,4,"10a, 10b",WPU,Rr,
 9,10a,,,,,,,7,10a,Phy,Ws,
 9,10b,,,,,,,1,10b,Deu,Ca,
@@ -273,24 +265,20 @@
 9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
 9,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 9,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 4b, 5d, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 2a, 2b, 2c, 3a, 3c, 4b, 6a, 6b, 6c, 6d, 7c, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,3,10a,Leseband,Hu,
 3,10a,,,,,,,4,10a,Ma,Hu,
 3,10a,,,,,,,5,10a,VBL,Rr,
 3,10a,,,,,,,6,10a,WK,Rr,
-3,2a,,,,,,,3,2a,Leseband,Ka,Wendepunkt
 3,2a,,,,,,,4,2a,Ma,"Dr, Hm",Wendepunkt
 3,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
 3,2b,,,,,,,2 - 5,2b,,Gro,Prävention
 3,2c,,,,,,,2 - 5,2c,,Lt,Prävention
 3,3a,,,,,,,5,3a,Ma,Fu,
-3,3c,,,,,,,3,3c,Leseband,Hal,
 3,3c,,,,,,,4,3c,Ma,Fu,
 3,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 3,3c,,,,,,,6,3c,KlR,Dr,
 3,4b,,,,,,,4,4b,Eng,Scm,
-3,5d,,,,,,,3,5d,Leseband,Sch,
 3,6a,,,,,,,4 - 5,"6a, 6b, 6c, 6d",Thea,Nn,
 3,6a,,,,,,,4,"6a, 6b, 6c, 6d",Thea,Ti,
 3,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
@@ -329,22 +317,18 @@
 3,9g,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
 3,DaZ-a,,,,,,,4,DaZ-a,DaZ,"Bb, Gum",
 3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
-4,10a,,,,,,,3,10a,Leseband,Hu,
 4,10a,,,,,,,4,10a,Ma,Hu,
 4,10a,,,,,,,5,10a,VBL,Rr,
 4,10a,,,,,,,6,10a,WK,Rr,
-4,2a,,,,,,,3,2a,Leseband,Ka,Wendepunkt
 4,2a,,,,,,,4,2a,Ma,"Dr, Hm",Wendepunkt
 4,2a,,,,,,,5,2a,Deu,Ka,Wendepunkt
 4,2b,,,,,,,2 - 5,2b,,Gro,Prävention
 4,2c,,,,,,,2 - 5,2c,,Lt,Prävention
 4,3a,,,,,,,5,3a,Ma,Fu,
-4,3c,,,,,,,3,3c,Leseband,Hal,
 4,3c,,,,,,,4,3c,Ma,Fu,
 4,3c,,,,,,,5,3c,Sach,"Hr , Wu",
 4,3c,,,,,,,6,3c,KlR,Dr,
 4,4b,,,,,,,4,4b,Eng,Scm,
-4,5d,,,,,,,3,5d,Leseband,Sch,
 4,6a,,,,,,,4 - 5,"6a, 6b, 6c, 6d",Thea,Nn,
 4,6a,,,,,,,4,"6a, 6b, 6c, 6d",Thea,Ti,
 4,6a,,,,,,,5,"6a, 6b, 6c, 6d",Thea,Hu,
@@ -385,7 +369,7 @@
 4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Jo, Gum",
 5,"Klassen: 10a, 10b, 1a, 2a, 4b, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,10a,,,,,,,2,10a,Eng,Hi,
+8,10a,,,,,,,2,10a,Phy,Ws,
 8,10a,,,,,,,4,"10a, 10b",WPU,Rr,
 8,10a,,,,,,,7,10a,Phy,Ws,
 8,10b,,,,,,,1,10b,Deu,Ca,
@@ -466,7 +450,7 @@
 8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
 8,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 8,DaZ-a,,,,,,,2,DaZ-a,DaZ,"Gum , Gum",
-9,10a,,,,,,,2,10a,Eng,Hi,
+9,10a,,,,,,,2,10a,Phy,Ws,
 9,10a,,,,,,,4,"10a, 10b",WPU,Rr,
 9,10a,,,,,,,7,10a,Phy,Ws,
 9,10b,,,,,,,1,10b,Deu,Ca,
