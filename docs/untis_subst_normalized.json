@@ -3,16 +3,6 @@
     "gruppe": 2,
     "datum": "26.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "4",
-    "fach": "WPU",
-    "lehrkraft": "<span>Rr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a",
     "stunde": "7",
     "fach": "Phy",
@@ -27,16 +17,6 @@
     "stunde": "5",
     "fach": "Rel",
     "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "1b",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "Dr, <span>Dr</span>",
     "text": ""
   },
   {
@@ -64,30 +44,10 @@
     "datum": "26.09.2025",
     "quelle_table_index": 3,
     "klasse": "3c",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ge</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3c",
     "stunde": "5",
     "fach": "Sach",
     "lehrkraft": "<span>Kä</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne, 4 Kometen",
-    "stunde": "3 - 4",
-    "fach": "Sach",
-    "lehrkraft": "<span>Ew</span>, <span>Schu</span>",
-    "text": "Frau Schuld"
   },
   {
     "gruppe": 2,
@@ -108,16 +68,6 @@
     "fach": "Deu",
     "lehrkraft": "<span>Ew</span>, <span>Vorw</span>",
     "text": "Vorwig"
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>An</span>",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -177,26 +127,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ei</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8b",
-    "stunde": "4",
-    "fach": "Nawi",
-    "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8c",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Bä</span>",
     "text": ""
   },
   {
@@ -463,16 +393,6 @@
     "gruppe": 2,
     "datum": "27.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "4",
-    "fach": "WPU",
-    "lehrkraft": "<span>Rr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a",
     "stunde": "7",
     "fach": "Phy",
@@ -487,16 +407,6 @@
     "stunde": "5",
     "fach": "Rel",
     "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "1b",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "Dr, <span>Dr</span>",
     "text": ""
   },
   {
@@ -524,30 +434,10 @@
     "datum": "27.09.2025",
     "quelle_table_index": 3,
     "klasse": "3c",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ge</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3c",
     "stunde": "5",
     "fach": "Sach",
     "lehrkraft": "<span>Kä</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne, 4 Kometen",
-    "stunde": "3 - 4",
-    "fach": "Sach",
-    "lehrkraft": "<span>Ew</span>, <span>Schu</span>",
-    "text": "Frau Schuld"
   },
   {
     "gruppe": 2,
@@ -568,16 +458,6 @@
     "fach": "Deu",
     "lehrkraft": "<span>Ew</span>, <span>Vorw</span>",
     "text": "Vorwig"
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>An</span>",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -637,26 +517,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ei</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8b",
-    "stunde": "4",
-    "fach": "Nawi",
-    "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8c",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Bä</span>",
     "text": ""
   },
   {
@@ -923,7 +783,7 @@
     "gruppe": 1,
     "datum": "26.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 1b, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 5d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 1a, 1 Sonnen, 2a, 3c, 4b, 4 Kometen, 5d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -943,7 +803,7 @@
     "gruppe": 1,
     "datum": "27.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 1b, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 5d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 1a, 1 Sonnen, 2a, 3c, 4b, 4 Kometen, 5d, 7b, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
