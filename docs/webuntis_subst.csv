@@ -1,5 +1,5 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 1a, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1a, 1b, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,2,10a,Phy,Ws,
 3,10a,,,,,,,4,"10a, 10b",WPU,Rr,
@@ -8,6 +8,8 @@
 3,10b,,,,,,,2,10b,Deu,Ca,
 3,10b,,,,,,,4,"10a, 10b",WPU,Rr,
 3,1a,,,,,,,5,1a,Rel,Zi,
+3,1b,,,,,,,3,1b,Leseband,"Ad, Ad",
+3,1b,,,,,,,4,1b,Ma,"Dr, Dr",
 3,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Deu,"Bre , Bre",
 3,2a,,,,,,,2 - 5,2a,,Ka,Prävention
 3,3c,,,,,,,4,3c,Ma,Ge,
@@ -19,6 +21,9 @@
 3,4 Kometen,,,,,,,2 - 3,4 Kometen,Leseband Ell,Ew,
 3,4 Kometen,,,,,,,3 - 4,"3 Sterne, 4 Kometen",Sach,"Ew , Schu",Frau Schuld
 3,4 Kometen,,,,,,,5 - 6,4 Kometen,Deu,"Ew , Vorw",Vorwig
+3,5d,,,,,,,3,5d,Leseband,Ei,
+3,5d,,,,,,,4,5d,Eng,An,
+3,5d,,,,,,,5,5d,Ma,"Sr , Sr",
 3,6b,,,,,,,2,6b,Ma,Rr,
 3,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
 3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ri,
@@ -32,7 +37,7 @@
 3,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,HL,
 3,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Ei,
 3,8b,,,,,,,1,8b,Rel,Sn,
-3,8b,,,,,,,2,8b,WK,Bl,
+3,8b,,,,,,,2,8b,WK,Bk,
 3,8b,,,,,,,3,8b,Leseband,Vo,
 3,8b,,,,,,,4,8b,Nawi,Ri,
 3,8b,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Dr,
@@ -98,6 +103,8 @@
 4,10b,,,,,,,2,10b,Deu,Ca,
 4,10b,,,,,,,4,"10a, 10b",WPU,Rr,
 4,1a,,,,,,,5,1a,Rel,Zi,
+4,1b,,,,,,,3,1b,Leseband,"Ad, Ad",
+4,1b,,,,,,,4,1b,Ma,"Dr, Dr",
 4,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Deu,"Bre , Bre",
 4,2a,,,,,,,2 - 5,2a,,Ka,Prävention
 4,3c,,,,,,,4,3c,Ma,Ge,
@@ -109,6 +116,9 @@
 4,4 Kometen,,,,,,,2 - 3,4 Kometen,Leseband Ell,Ew,
 4,4 Kometen,,,,,,,3 - 4,"3 Sterne, 4 Kometen",Sach,"Ew , Schu",Frau Schuld
 4,4 Kometen,,,,,,,5 - 6,4 Kometen,Deu,"Ew , Vorw",Vorwig
+4,5d,,,,,,,3,5d,Leseband,Ei,
+4,5d,,,,,,,4,5d,Eng,An,
+4,5d,,,,,,,5,5d,Ma,"Sr , Sr",
 4,6b,,,,,,,2,6b,Ma,Rr,
 4,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
 4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ri,
@@ -122,7 +132,7 @@
 4,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,HL,
 4,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Ei,
 4,8b,,,,,,,1,8b,Rel,Sn,
-4,8b,,,,,,,2,8b,WK,Bl,
+4,8b,,,,,,,2,8b,WK,Bk,
 4,8b,,,,,,,3,8b,Leseband,Vo,
 4,8b,,,,,,,4,8b,Nawi,Ri,
 4,8b,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Dr,
@@ -251,7 +261,7 @@
 9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 9,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-0,"Klassen: 10a, 10b, 1a, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1a, 1b, 1 Sonnen, 2a, 3c, 3 Sterne, 4b, 4 Kometen, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,2,10a,Phy,Ws,
 3,10a,,,,,,,4,"10a, 10b",WPU,Rr,
@@ -260,6 +270,8 @@
 3,10b,,,,,,,2,10b,Deu,Ca,
 3,10b,,,,,,,4,"10a, 10b",WPU,Rr,
 3,1a,,,,,,,5,1a,Rel,Zi,
+3,1b,,,,,,,3,1b,Leseband,"Ad, Ad",
+3,1b,,,,,,,4,1b,Ma,"Dr, Dr",
 3,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Deu,"Bre , Bre",
 3,2a,,,,,,,2 - 5,2a,,Ka,Prävention
 3,3c,,,,,,,4,3c,Ma,Ge,
@@ -271,6 +283,9 @@
 3,4 Kometen,,,,,,,2 - 3,4 Kometen,Leseband Ell,Ew,
 3,4 Kometen,,,,,,,3 - 4,"3 Sterne, 4 Kometen",Sach,"Ew , Schu",Frau Schuld
 3,4 Kometen,,,,,,,5 - 6,4 Kometen,Deu,"Ew , Vorw",Vorwig
+3,5d,,,,,,,3,5d,Leseband,Ei,
+3,5d,,,,,,,4,5d,Eng,An,
+3,5d,,,,,,,5,5d,Ma,"Sr , Sr",
 3,6b,,,,,,,2,6b,Ma,Rr,
 3,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
 3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ri,
@@ -284,7 +299,7 @@
 3,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,HL,
 3,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Ei,
 3,8b,,,,,,,1,8b,Rel,Sn,
-3,8b,,,,,,,2,8b,WK,Bl,
+3,8b,,,,,,,2,8b,WK,Bk,
 3,8b,,,,,,,3,8b,Leseband,Vo,
 3,8b,,,,,,,4,8b,Nawi,Ri,
 3,8b,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Dr,
@@ -350,6 +365,8 @@
 4,10b,,,,,,,2,10b,Deu,Ca,
 4,10b,,,,,,,4,"10a, 10b",WPU,Rr,
 4,1a,,,,,,,5,1a,Rel,Zi,
+4,1b,,,,,,,3,1b,Leseband,"Ad, Ad",
+4,1b,,,,,,,4,1b,Ma,"Dr, Dr",
 4,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Deu,"Bre , Bre",
 4,2a,,,,,,,2 - 5,2a,,Ka,Prävention
 4,3c,,,,,,,4,3c,Ma,Ge,
@@ -361,6 +378,9 @@
 4,4 Kometen,,,,,,,2 - 3,4 Kometen,Leseband Ell,Ew,
 4,4 Kometen,,,,,,,3 - 4,"3 Sterne, 4 Kometen",Sach,"Ew , Schu",Frau Schuld
 4,4 Kometen,,,,,,,5 - 6,4 Kometen,Deu,"Ew , Vorw",Vorwig
+4,5d,,,,,,,3,5d,Leseband,Ei,
+4,5d,,,,,,,4,5d,Eng,An,
+4,5d,,,,,,,5,5d,Ma,"Sr , Sr",
 4,6b,,,,,,,2,6b,Ma,Rr,
 4,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
 4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ri,
@@ -374,7 +394,7 @@
 4,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,HL,
 4,8a,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Ei,
 4,8b,,,,,,,1,8b,Rel,Sn,
-4,8b,,,,,,,2,8b,WK,Bl,
+4,8b,,,,,,,2,8b,WK,Bk,
 4,8b,,,,,,,3,8b,Leseband,Vo,
 4,8b,,,,,,,4,8b,Nawi,Ri,
 4,8b,,,,,,,5,"8a, 8b, 8c, 8f",WPU,Dr,
