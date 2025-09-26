@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-26T08:50:33",
+    "scraped_at": "2025-09-26T09:18:03",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -160,16 +160,6 @@
         "table_index": 3,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne, 4 Kometen",
         "col_5": "Sach",
@@ -184,16 +174,6 @@
         "col_4": "4b",
         "col_5": "Deu",
         "col_6": "An, An",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
         "col_7": ""
       },
       {
@@ -1062,16 +1042,6 @@
         "table_index": 4,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne, 4 Kometen",
         "col_5": "Sach",
@@ -1086,16 +1056,6 @@
         "col_4": "4b",
         "col_5": "Deu",
         "col_6": "An, An",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
         "col_7": ""
       },
       {
@@ -2684,16 +2644,6 @@
         "table_index": 3,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne, 4 Kometen",
         "col_5": "Sach",
@@ -2708,16 +2658,6 @@
         "col_4": "4b",
         "col_5": "Deu",
         "col_6": "An, An",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
         "col_7": ""
       },
       {
@@ -3586,16 +3526,6 @@
         "table_index": 4,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne, 4 Kometen",
         "col_5": "Sach",
@@ -3610,16 +3540,6 @@
         "col_4": "4b",
         "col_5": "Deu",
         "col_6": "An, An",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne, 4 Kometen",
-        "col_5": "Sach",
-        "col_6": "Hi , Vorw",
         "col_7": ""
       },
       {
@@ -5286,21 +5206,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne, 4 Kometen",
       "col_5": "Sach",
@@ -5320,21 +5225,6 @@
       "col_4": "4b",
       "col_5": "Deu",
       "col_6": "An, An",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
       "col_7": ""
     },
     {
@@ -6636,21 +6526,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne, 4 Kometen",
       "col_5": "Sach",
@@ -6670,21 +6545,6 @@
       "col_4": "4b",
       "col_5": "Deu",
       "col_6": "An, An",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
       "col_7": ""
     },
     {
@@ -9066,21 +8926,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne, 4 Kometen",
       "col_5": "Sach",
@@ -9100,21 +8945,6 @@
       "col_4": "4b",
       "col_5": "Deu",
       "col_6": "An, An",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
       "col_7": ""
     },
     {
@@ -10416,21 +10246,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne, 4 Kometen",
       "col_5": "Sach",
@@ -10450,21 +10265,6 @@
       "col_4": "4b",
       "col_5": "Deu",
       "col_6": "An, An",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne, 4 Kometen",
-      "col_5": "Sach",
-      "col_6": "Hi , Vorw",
       "col_7": ""
     },
     {

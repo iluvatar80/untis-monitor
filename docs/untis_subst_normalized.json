@@ -114,16 +114,6 @@
     "datum": "26.09.2025",
     "quelle_table_index": 3,
     "klasse": "3 Sterne, 4 Kometen",
-    "stunde": "1 - 2",
-    "fach": "Sach",
-    "lehrkraft": "<span>Hi</span>, <span>Vorw</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "26.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne, 4 Kometen",
     "stunde": "3 - 4",
     "fach": "Sach",
     "lehrkraft": "<span>Ew</span>, <span>Schu</span>",
@@ -677,16 +667,6 @@
     "stunde": "5",
     "fach": "Sach",
     "lehrkraft": "<span>Kä</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "27.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne, 4 Kometen",
-    "stunde": "1 - 2",
-    "fach": "Sach",
-    "lehrkraft": "<span>Hi</span>, <span>Vorw</span>",
     "text": ""
   },
   {
