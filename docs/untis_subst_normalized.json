@@ -3,26 +3,6 @@
     "gruppe": 2,
     "datum": "29.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Sc",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "7",
     "fach": "AG Band",
@@ -177,16 +157,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ws</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Ri</span>, <span>Ri</span>",
     "text": ""
   },
   {
@@ -484,10 +454,50 @@
     "datum": "29.09.2025",
     "quelle_table_index": 8,
     "klasse": "9a",
-    "stunde": "1 - 7",
+    "stunde": "1",
     "fach": "",
-    "lehrkraft": "",
-    "text": "Projekttag 07:25 Uhr bis 14:30 Uhe"
+    "lehrkraft": "Lt",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "29.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "2 - 3",
+    "fach": "",
+    "lehrkraft": "Ei",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "29.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "4",
+    "fach": "",
+    "lehrkraft": "Nn",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "29.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "5",
+    "fach": "",
+    "lehrkraft": "Sch",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "29.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "6 - 7",
+    "fach": "",
+    "lehrkraft": "Ei",
+    "text": "Projekttag Ersatz Ls 9a"
   },
   {
     "gruppe": 2,
@@ -623,26 +633,6 @@
     "gruppe": 2,
     "datum": "30.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10a, 10b",
-    "stunde": "2",
-    "fach": "WPU",
-    "lehrkraft": "Sc",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
     "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "7",
     "fach": "AG Band",
@@ -797,16 +787,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ws</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Ri</span>, <span>Ri</span>",
     "text": ""
   },
   {
@@ -1104,10 +1084,50 @@
     "datum": "30.09.2025",
     "quelle_table_index": 8,
     "klasse": "9a",
-    "stunde": "1 - 7",
+    "stunde": "1",
     "fach": "",
-    "lehrkraft": "",
-    "text": "Projekttag 07:25 Uhr bis 14:30 Uhe"
+    "lehrkraft": "Lt",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "2 - 3",
+    "fach": "",
+    "lehrkraft": "Ei",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "4",
+    "fach": "",
+    "lehrkraft": "Nn",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "5",
+    "fach": "",
+    "lehrkraft": "Sch",
+    "text": "Projekttag Ersatz Ls 9a"
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "6 - 7",
+    "fach": "",
+    "lehrkraft": "Ei",
+    "text": "Projekttag Ersatz Ls 9a"
   },
   {
     "gruppe": 2,

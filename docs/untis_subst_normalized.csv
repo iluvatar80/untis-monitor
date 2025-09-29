@@ -1,6 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,29.09.2025,3,"10a, 10b",2,WPU,Vo,
-2,29.09.2025,3,"10a, 10b",2,WPU,Sc,
 2,29.09.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Band,HL,
 2,29.09.2025,3,10b,4,VBL,<span>Rr</span>,
 2,29.09.2025,3,10b,5,Ma,<span>Ri</span>,
@@ -17,7 +15,6 @@
 2,29.09.2025,3,6b,6,Mu,HL,
 2,29.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
 2,29.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Ws</span>,
-2,29.09.2025,3,8f,2,Deu,"<span>Ri</span>, <span>Ri</span>",
 2,29.09.2025,3,8f,4,Ma,"<span>Bä</span>, Bä",
 2,29.09.2025,3,8f,5,Eng,"<span>Rr</span>, Rr",
 2,29.09.2025,3,9a,3,Leseband,<span>Ei</span>,
@@ -47,7 +44,11 @@
 2,29.09.2025,8,8b,5,Ma,<span>---</span>,
 2,29.09.2025,8,8f,1,Eng,"<span>Rr</span>, Rr",
 2,29.09.2025,8,"8f, 9f, 9g",5,Sp,"<span>Ri</span>, Ri",
-2,29.09.2025,8,9a,1 - 7,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+2,29.09.2025,8,9a,1,,Lt,Projekttag Ersatz Ls 9a
+2,29.09.2025,8,9a,2 - 3,,Ei,
+2,29.09.2025,8,9a,4,,Nn,Projekttag Ersatz Ls 9a
+2,29.09.2025,8,9a,5,,Sch,Projekttag Ersatz Ls 9a
+2,29.09.2025,8,9a,6 - 7,,Ei,Projekttag Ersatz Ls 9a
 2,29.09.2025,8,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 2,29.09.2025,8,9b,1 - 7,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 2,29.09.2025,8,9c,1 - 7,,Re,Projekttag 07:25 Uhr bis 14:30 Uhe
@@ -61,8 +62,6 @@
 2,29.09.2025,8,9g,3,Leseband,HL,
 2,29.09.2025,8,9g,4,Eng,HL,
 2,29.09.2025,8,9g,5 - 6,WPU,HL,
-2,30.09.2025,3,"10a, 10b",2,WPU,Vo,
-2,30.09.2025,3,"10a, 10b",2,WPU,Sc,
 2,30.09.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Band,HL,
 2,30.09.2025,3,10b,4,VBL,<span>Rr</span>,
 2,30.09.2025,3,10b,5,Ma,<span>Ri</span>,
@@ -79,7 +78,6 @@
 2,30.09.2025,3,6b,6,Mu,HL,
 2,30.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
 2,30.09.2025,3,"7a, 7b, 7c",5,WPU,<span>Ws</span>,
-2,30.09.2025,3,8f,2,Deu,"<span>Ri</span>, <span>Ri</span>",
 2,30.09.2025,3,8f,4,Ma,"<span>Bä</span>, Bä",
 2,30.09.2025,3,8f,5,Eng,"<span>Rr</span>, Rr",
 2,30.09.2025,3,9a,3,Leseband,<span>Ei</span>,
@@ -109,7 +107,11 @@
 2,30.09.2025,8,8b,5,Ma,<span>---</span>,
 2,30.09.2025,8,8f,1,Eng,"<span>Rr</span>, Rr",
 2,30.09.2025,8,"8f, 9f, 9g",5,Sp,"<span>Ri</span>, Ri",
-2,30.09.2025,8,9a,1 - 7,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+2,30.09.2025,8,9a,1,,Lt,Projekttag Ersatz Ls 9a
+2,30.09.2025,8,9a,2 - 3,,Ei,
+2,30.09.2025,8,9a,4,,Nn,Projekttag Ersatz Ls 9a
+2,30.09.2025,8,9a,5,,Sch,Projekttag Ersatz Ls 9a
+2,30.09.2025,8,9a,6 - 7,,Ei,Projekttag Ersatz Ls 9a
 2,30.09.2025,8,"9a, 9b, 9c",7,Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 2,30.09.2025,8,9b,1 - 7,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 2,30.09.2025,8,9c,1 - 7,,Re,Projekttag 07:25 Uhr bis 14:30 Uhe

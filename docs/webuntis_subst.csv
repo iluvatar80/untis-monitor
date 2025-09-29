@@ -1,11 +1,7 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
 0,"Klassen: 10a, 10b, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,2,"10a, 10b",WPU,Vo,
-3,10a,,,,,,,2,"10a, 10b",WPU,Sc,
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-3,10b,,,,,,,2,"10a, 10b",WPU,Vo,
-3,10b,,,,,,,2,"10a, 10b",WPU,Sc,
 3,10b,,,,,,,4,10b,VBL,Rr,
 3,10b,,,,,,,5,10b,Ma,Ri,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -40,7 +36,6 @@
 3,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-3,8f,,,,,,,2,8f,Deu,"Ri , Ri",
 3,8f,,,,,,,4,8f,Ma,"Bä , Bä",
 3,8f,,,,,,,5,8f,Eng,"Rr , Rr",
 3,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -57,11 +52,7 @@
 3,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,10a,,,,,,,2,"10a, 10b",WPU,Vo,
-4,10a,,,,,,,2,"10a, 10b",WPU,Sc,
 4,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,10b,,,,,,,2,"10a, 10b",WPU,Vo,
-4,10b,,,,,,,2,"10a, 10b",WPU,Sc,
 4,10b,,,,,,,4,10b,VBL,Rr,
 4,10b,,,,,,,5,10b,Ma,Ri,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -96,7 +87,6 @@
 4,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,8f,,,,,,,2,8f,Deu,"Ri , Ri",
 4,8f,,,,,,,4,8f,Ma,"Bä , Bä",
 4,8f,,,,,,,5,8f,Eng,"Rr , Rr",
 4,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -135,7 +125,11 @@
 8,8b,,,,,,,5,8b,Ma,---,
 8,8f,,,,,,,1,8f,Eng,"Rr , Rr",
 8,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-8,9a,,,,,,,1 - 7,9a,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+8,9a,,,,,,,1,9a,,Lt,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,2 - 3,9a,,Ei,
+8,9a,,,,,,,4,9a,,Nn,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,5,9a,,Sch,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,6 - 7,9a,,Ei,Projekttag Ersatz Ls 9a
 8,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 8,9b,,,,,,,1 - 7,9b,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 8,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
@@ -173,7 +167,11 @@
 9,8b,,,,,,,5,8b,Ma,---,
 9,8f,,,,,,,1,8f,Eng,"Rr , Rr",
 9,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-9,9a,,,,,,,1 - 7,9a,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+9,9a,,,,,,,1,9a,,Lt,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,2 - 3,9a,,Ei,
+9,9a,,,,,,,4,9a,,Nn,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,5,9a,,Sch,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,6 - 7,9a,,Ei,Projekttag Ersatz Ls 9a
 9,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 9,9b,,,,,,,1 - 7,9b,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 9,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
@@ -193,11 +191,7 @@
 9,9g,,,,,,,5 - 6,9g,WPU,HL,
 0,"Klassen: 10a, 10b, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-3,10a,,,,,,,2,"10a, 10b",WPU,Vo,
-3,10a,,,,,,,2,"10a, 10b",WPU,Sc,
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-3,10b,,,,,,,2,"10a, 10b",WPU,Vo,
-3,10b,,,,,,,2,"10a, 10b",WPU,Sc,
 3,10b,,,,,,,4,10b,VBL,Rr,
 3,10b,,,,,,,5,10b,Ma,Ri,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -232,7 +226,6 @@
 3,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-3,8f,,,,,,,2,8f,Deu,"Ri , Ri",
 3,8f,,,,,,,4,8f,Ma,"Bä , Bä",
 3,8f,,,,,,,5,8f,Eng,"Rr , Rr",
 3,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -249,11 +242,7 @@
 3,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,9g,,,,,,,0 - 7,9g,,HL,Klassenfahrt
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,10a,,,,,,,2,"10a, 10b",WPU,Vo,
-4,10a,,,,,,,2,"10a, 10b",WPU,Sc,
 4,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,10b,,,,,,,2,"10a, 10b",WPU,Vo,
-4,10b,,,,,,,2,"10a, 10b",WPU,Sc,
 4,10b,,,,,,,4,10b,VBL,Rr,
 4,10b,,,,,,,5,10b,Ma,Ri,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -288,7 +277,6 @@
 4,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
-4,8f,,,,,,,2,8f,Deu,"Ri , Ri",
 4,8f,,,,,,,4,8f,Ma,"Bä , Bä",
 4,8f,,,,,,,5,8f,Eng,"Rr , Rr",
 4,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -327,7 +315,11 @@
 8,8b,,,,,,,5,8b,Ma,---,
 8,8f,,,,,,,1,8f,Eng,"Rr , Rr",
 8,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-8,9a,,,,,,,1 - 7,9a,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+8,9a,,,,,,,1,9a,,Lt,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,2 - 3,9a,,Ei,
+8,9a,,,,,,,4,9a,,Nn,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,5,9a,,Sch,Projekttag Ersatz Ls 9a
+8,9a,,,,,,,6 - 7,9a,,Ei,Projekttag Ersatz Ls 9a
 8,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 8,9b,,,,,,,1 - 7,9b,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 8,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
@@ -365,7 +357,11 @@
 9,8b,,,,,,,5,8b,Ma,---,
 9,8f,,,,,,,1,8f,Eng,"Rr , Rr",
 9,8f,,,,,,,5,"8f, 9f, 9g",Sp,"Ri , Ri",
-9,9a,,,,,,,1 - 7,9a,,,Projekttag 07:25 Uhr bis 14:30 Uhe
+9,9a,,,,,,,1,9a,,Lt,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,2 - 3,9a,,Ei,
+9,9a,,,,,,,4,9a,,Nn,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,5,9a,,Sch,Projekttag Ersatz Ls 9a
+9,9a,,,,,,,6 - 7,9a,,Ei,Projekttag Ersatz Ls 9a
 9,9a,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
 9,9b,,,,,,,1 - 7,9b,,Sn,Projekttag 07:25 Uhr bis 14:30 Uhe
 9,9b,,,,,,,7,"9a, 9b, 9c",Projektarbeit,"Ei, Gro, Ls, Re, Sn",
