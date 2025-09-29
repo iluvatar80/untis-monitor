@@ -36,7 +36,7 @@
     "klasse": "2b",
     "stunde": "4",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sa</span>",
     "text": ""
   },
   {
@@ -66,7 +66,7 @@
     "klasse": "5a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>, Schn",
+    "lehrkraft": "<span>Rom</span>, Schn",
     "text": ""
   },
   {
@@ -96,7 +96,7 @@
     "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -136,7 +136,7 @@
     "klasse": "7a",
     "stunde": "6",
     "fach": "Sp",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Hi",
     "text": ""
   },
   {
@@ -156,7 +156,7 @@
     "klasse": "7c",
     "stunde": "1",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Wu",
+    "lehrkraft": "<span>Wu</span>, Wu",
     "text": ""
   },
   {
@@ -176,7 +176,7 @@
     "klasse": "7c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sch</span>",
     "text": ""
   },
   {
@@ -466,6 +466,16 @@
     "klasse": "5d",
     "stunde": "2",
     "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "29.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "3",
+    "fach": "Leseband",
     "lehrkraft": "<span>---</span>",
     "text": ""
   },
@@ -526,7 +536,7 @@
     "klasse": "2b",
     "stunde": "4",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sa</span>",
     "text": ""
   },
   {
@@ -556,7 +566,7 @@
     "klasse": "5a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>, Schn",
+    "lehrkraft": "<span>Rom</span>, Schn",
     "text": ""
   },
   {
@@ -586,7 +596,7 @@
     "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -626,7 +636,7 @@
     "klasse": "7a",
     "stunde": "6",
     "fach": "Sp",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Hi",
     "text": ""
   },
   {
@@ -646,7 +656,7 @@
     "klasse": "7c",
     "stunde": "1",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Wu",
+    "lehrkraft": "<span>Wu</span>, Wu",
     "text": ""
   },
   {
@@ -666,7 +676,7 @@
     "klasse": "7c",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sch</span>",
     "text": ""
   },
   {
@@ -956,6 +966,16 @@
     "klasse": "5d",
     "stunde": "2",
     "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "3",
+    "fach": "Leseband",
     "lehrkraft": "<span>---</span>",
     "text": ""
   },
