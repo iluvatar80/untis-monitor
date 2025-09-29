@@ -14,29 +14,9 @@
     "datum": "29.09.2025",
     "quelle_table_index": 3,
     "klasse": "10b",
-    "stunde": "4",
-    "fach": "VBL",
-    "lehrkraft": "<span>Rr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10b",
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3b",
-    "stunde": "4",
-    "fach": "Mu",
-    "lehrkraft": "Ge, <span>Ge</span>",
     "text": ""
   },
   {
@@ -47,26 +27,6 @@
     "stunde": "6",
     "fach": "Sach",
     "lehrkraft": "Hb, <span>Hb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "4b",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Sch</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Lu</span>",
     "text": ""
   },
   {
@@ -103,16 +63,6 @@
     "gruppe": 2,
     "datum": "29.09.2025",
     "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "4",
-    "fach": "Sp",
-    "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "6",
     "fach": "Mu",
@@ -137,26 +87,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ws</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a",
-    "stunde": "4",
-    "fach": "",
-    "lehrkraft": "Sr",
-    "text": "Vertretung"
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Bä</span>, Bä",
     "text": ""
   },
   {
@@ -197,16 +127,6 @@
     "stunde": "6",
     "fach": "Deu",
     "lehrkraft": "Ne",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "29.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -624,29 +544,9 @@
     "datum": "30.09.2025",
     "quelle_table_index": 3,
     "klasse": "10b",
-    "stunde": "4",
-    "fach": "VBL",
-    "lehrkraft": "<span>Rr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "10b",
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "3b",
-    "stunde": "4",
-    "fach": "Mu",
-    "lehrkraft": "Ge, <span>Ge</span>",
     "text": ""
   },
   {
@@ -657,26 +557,6 @@
     "stunde": "6",
     "fach": "Sach",
     "lehrkraft": "Hb, <span>Hb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "4b",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Sch</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Lu</span>",
     "text": ""
   },
   {
@@ -713,16 +593,6 @@
     "gruppe": 2,
     "datum": "30.09.2025",
     "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "4",
-    "fach": "Sp",
-    "lehrkraft": "<span>Ri</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "6",
     "fach": "Mu",
@@ -747,26 +617,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Ws</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a",
-    "stunde": "4",
-    "fach": "",
-    "lehrkraft": "Sr",
-    "text": "Vertretung"
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Bä</span>, Bä",
     "text": ""
   },
   {
@@ -807,16 +657,6 @@
     "stunde": "6",
     "fach": "Deu",
     "lehrkraft": "Ne",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -1223,7 +1063,7 @@
     "gruppe": 1,
     "datum": "29.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 10b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1243,7 +1083,7 @@
     "gruppe": 1,
     "datum": "30.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 10b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
