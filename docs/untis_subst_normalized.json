@@ -3,16 +3,6 @@
     "gruppe": 2,
     "datum": "30.09.2025",
     "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "1",
-    "fach": "WiPo",
-    "lehrkraft": "Hu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
     "klasse": "1c",
     "stunde": "5",
     "fach": "Sach",
@@ -183,16 +173,6 @@
     "gruppe": 2,
     "datum": "30.09.2025",
     "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "1",
-    "fach": "Mu",
-    "lehrkraft": "<span>Ad</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "5",
     "fach": "Ma",
@@ -254,16 +234,6 @@
     "datum": "30.09.2025",
     "quelle_table_index": 3,
     "klasse": "7c",
-    "stunde": "1",
-    "fach": "Ma",
-    "lehrkraft": "<span>Wu</span>, Wu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "7c",
     "stunde": "2",
     "fach": "Sp",
     "lehrkraft": "<span>Vo</span>",
@@ -313,31 +283,11 @@
     "gruppe": 2,
     "datum": "30.09.2025",
     "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "1",
-    "fach": "Eng",
-    "lehrkraft": "<span>Rr</span>, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
     "klasse": "8f, 9f, 9g",
     "stunde": "5",
     "fach": "Sp",
     "lehrkraft": "<span>Ri</span>, Ri",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "1",
-    "fach": "",
-    "lehrkraft": "Lt",
-    "text": "Projekttag Ersatz Ls 9a"
   },
   {
     "gruppe": 2,
@@ -457,16 +407,6 @@
     "stunde": "6 - 7",
     "fach": "Deu",
     "lehrkraft": "Ne, Str",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "30.09.2025",
-    "quelle_table_index": 3,
-    "klasse": "9g",
-    "stunde": "1",
-    "fach": "WiPo",
-    "lehrkraft": "Ri",
     "text": ""
   },
   {
@@ -723,16 +663,6 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "1",
-    "fach": "WiPo",
-    "lehrkraft": "Hu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1c",
     "stunde": "5",
     "fach": "Sach",
@@ -903,16 +833,6 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "1",
-    "fach": "Mu",
-    "lehrkraft": "<span>Ad</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "5",
     "fach": "Ma",
@@ -974,16 +894,6 @@
     "datum": "01.10.2025",
     "quelle_table_index": 3,
     "klasse": "7c",
-    "stunde": "1",
-    "fach": "Ma",
-    "lehrkraft": "<span>Wu</span>, Wu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7c",
     "stunde": "2",
     "fach": "Sp",
     "lehrkraft": "<span>Vo</span>",
@@ -1033,31 +943,11 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "1",
-    "fach": "Eng",
-    "lehrkraft": "<span>Rr</span>, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "8f, 9f, 9g",
     "stunde": "5",
     "fach": "Sp",
     "lehrkraft": "<span>Ri</span>, Ri",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "1",
-    "fach": "",
-    "lehrkraft": "Lt",
-    "text": "Projekttag Ersatz Ls 9a"
   },
   {
     "gruppe": 2,
@@ -1177,16 +1067,6 @@
     "stunde": "6 - 7",
     "fach": "Deu",
     "lehrkraft": "Ne, Str",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9g",
-    "stunde": "1",
-    "fach": "WiPo",
-    "lehrkraft": "Ri",
     "text": ""
   },
   {
@@ -1443,7 +1323,7 @@
     "gruppe": 1,
     "datum": "30.09.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 1c, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 1c, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 5a, 5b, 5c, 5d, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1463,7 +1343,7 @@
     "gruppe": 1,
     "datum": "01.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 1c, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 1c, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 5a, 5b, 5c, 5d, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
