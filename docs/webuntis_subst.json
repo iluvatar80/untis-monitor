@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-09-30T13:38:52",
+    "scraped_at": "2025-09-30T14:37:03",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -20,7 +20,7 @@
     "0": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 10b, 2a, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g"
+        "col_1": "Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a"
       }
     ],
     "1": [
@@ -188,12 +188,32 @@
       },
       {
         "table_index": 3,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "Sv",
+        "col_7": "+Frau Schuld"
+      },
+      {
+        "table_index": 3,
         "col_1": "2b",
         "col_2": "",
         "col_3": "5",
         "col_4": "2b",
         "col_5": "Ma",
         "col_6": "Gro, Gro",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Mu",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -695,6 +715,16 @@
         "col_5": "AG Volley",
         "col_6": "---",
         "col_7": "Vtr. ohne Lehrer"
+      },
+      {
+        "table_index": 3,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "Wr , Wr",
+        "col_7": ""
       }
     ],
     "3": [
@@ -850,12 +880,32 @@
       },
       {
         "table_index": 4,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "Sv",
+        "col_7": "+Frau Schuld"
+      },
+      {
+        "table_index": 4,
         "col_1": "2b",
         "col_2": "",
         "col_3": "5",
         "col_4": "2b",
         "col_5": "Ma",
         "col_6": "Gro, Gro",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Mu",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -1357,12 +1407,22 @@
         "col_5": "AG Volley",
         "col_6": "---",
         "col_7": "Vtr. ohne Lehrer"
+      },
+      {
+        "table_index": 4,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "Wr , Wr",
+        "col_7": ""
       }
     ],
     "4": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 2a, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a"
+        "col_1": "Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a"
       }
     ],
     "5": [
@@ -1385,7 +1445,17 @@
         "col_3": "4",
         "col_4": "2a",
         "col_5": "Ma",
-        "col_6": "--- , Dr",
+        "col_6": "Dr, Dr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -1395,7 +1465,7 @@
         "col_3": "3",
         "col_4": "2b",
         "col_5": "Leseband",
-        "col_6": "--- , Gro",
+        "col_6": "Gro, Gro",
         "col_7": ""
       },
       {
@@ -1405,6 +1475,16 @@
         "col_3": "4",
         "col_4": "4b",
         "col_5": "Eng",
+        "col_6": "Rr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "4b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "4b",
+        "col_5": "Mu",
         "col_6": "---",
         "col_7": ""
       },
@@ -1425,7 +1505,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1435,7 +1515,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1445,7 +1525,7 @@
         "col_3": "3",
         "col_4": "5b",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -1455,7 +1535,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1465,7 +1545,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1475,7 +1555,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1485,7 +1565,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1495,7 +1575,7 @@
         "col_3": "2",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -1505,7 +1585,7 @@
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -1515,7 +1595,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1525,7 +1605,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1535,7 +1615,7 @@
         "col_3": "2",
         "col_4": "6b",
         "col_5": "Ma",
-        "col_6": "---",
+        "col_6": "Zi",
         "col_7": ""
       },
       {
@@ -1545,7 +1625,7 @@
         "col_3": "3",
         "col_4": "7a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Pü",
         "col_7": ""
       },
       {
@@ -1565,7 +1645,7 @@
         "col_3": "6",
         "col_4": "7a",
         "col_5": "WK",
-        "col_6": "---",
+        "col_6": "Bk",
         "col_7": ""
       },
       {
@@ -1585,7 +1665,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1595,7 +1675,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1605,7 +1685,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1615,7 +1695,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1625,7 +1705,7 @@
         "col_3": "3",
         "col_4": "9a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Hu",
         "col_7": ""
       },
       {
@@ -1645,7 +1725,27 @@
         "col_3": "6",
         "col_4": "9a",
         "col_5": "Eng",
+        "col_6": "Bl",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
         "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "--- , Gum",
         "col_7": ""
       }
     ],
@@ -1657,7 +1757,17 @@
         "col_3": "4",
         "col_4": "2a",
         "col_5": "Ma",
-        "col_6": "--- , Dr",
+        "col_6": "Dr, Dr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -1667,7 +1777,7 @@
         "col_3": "3",
         "col_4": "2b",
         "col_5": "Leseband",
-        "col_6": "--- , Gro",
+        "col_6": "Gro, Gro",
         "col_7": ""
       },
       {
@@ -1677,6 +1787,16 @@
         "col_3": "4",
         "col_4": "4b",
         "col_5": "Eng",
+        "col_6": "Rr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "4b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "4b",
+        "col_5": "Mu",
         "col_6": "---",
         "col_7": ""
       },
@@ -1697,7 +1817,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1707,7 +1827,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1717,7 +1837,7 @@
         "col_3": "3",
         "col_4": "5b",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -1727,7 +1847,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1737,7 +1857,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1747,7 +1867,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1757,7 +1877,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1767,7 +1887,7 @@
         "col_3": "2",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -1777,7 +1897,7 @@
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -1787,7 +1907,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1797,7 +1917,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -1807,7 +1927,7 @@
         "col_3": "2",
         "col_4": "6b",
         "col_5": "Ma",
-        "col_6": "---",
+        "col_6": "Zi",
         "col_7": ""
       },
       {
@@ -1817,7 +1937,7 @@
         "col_3": "3",
         "col_4": "7a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Pü",
         "col_7": ""
       },
       {
@@ -1837,7 +1957,7 @@
         "col_3": "6",
         "col_4": "7a",
         "col_5": "WK",
-        "col_6": "---",
+        "col_6": "Bk",
         "col_7": ""
       },
       {
@@ -1857,7 +1977,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1867,7 +1987,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1877,7 +1997,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1887,7 +2007,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -1897,7 +2017,7 @@
         "col_3": "3",
         "col_4": "9a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Hu",
         "col_7": ""
       },
       {
@@ -1917,14 +2037,34 @@
         "col_3": "6",
         "col_4": "9a",
         "col_5": "Eng",
+        "col_6": "Bl",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
         "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "--- , Gum",
         "col_7": ""
       }
     ],
     "8": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 10b, 2a, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g"
+        "col_1": "Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a"
       }
     ],
     "9": [
@@ -2092,12 +2232,32 @@
       },
       {
         "table_index": 3,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "Sv",
+        "col_7": "+Frau Schuld"
+      },
+      {
+        "table_index": 3,
         "col_1": "2b",
         "col_2": "",
         "col_3": "5",
         "col_4": "2b",
         "col_5": "Ma",
         "col_6": "Gro, Gro",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Mu",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -2599,6 +2759,16 @@
         "col_5": "AG Volley",
         "col_6": "---",
         "col_7": "Vtr. ohne Lehrer"
+      },
+      {
+        "table_index": 3,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "Wr , Wr",
+        "col_7": ""
       }
     ],
     "11": [
@@ -2754,12 +2924,32 @@
       },
       {
         "table_index": 4,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "Sv",
+        "col_7": "+Frau Schuld"
+      },
+      {
+        "table_index": 4,
         "col_1": "2b",
         "col_2": "",
         "col_3": "5",
         "col_4": "2b",
         "col_5": "Ma",
         "col_6": "Gro, Gro",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Mu",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -3261,12 +3451,22 @@
         "col_5": "AG Volley",
         "col_6": "---",
         "col_7": "Vtr. ohne Lehrer"
+      },
+      {
+        "table_index": 4,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "Wr , Wr",
+        "col_7": ""
       }
     ],
     "12": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 2a, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a"
+        "col_1": "Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a"
       }
     ],
     "13": [
@@ -3289,7 +3489,17 @@
         "col_3": "4",
         "col_4": "2a",
         "col_5": "Ma",
-        "col_6": "--- , Dr",
+        "col_6": "Dr, Dr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -3299,7 +3509,7 @@
         "col_3": "3",
         "col_4": "2b",
         "col_5": "Leseband",
-        "col_6": "--- , Gro",
+        "col_6": "Gro, Gro",
         "col_7": ""
       },
       {
@@ -3309,6 +3519,16 @@
         "col_3": "4",
         "col_4": "4b",
         "col_5": "Eng",
+        "col_6": "Rr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "4b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "4b",
+        "col_5": "Mu",
         "col_6": "---",
         "col_7": ""
       },
@@ -3329,7 +3549,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3339,7 +3559,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3349,7 +3569,7 @@
         "col_3": "3",
         "col_4": "5b",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -3359,7 +3579,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3369,7 +3589,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3379,7 +3599,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3389,7 +3609,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3399,7 +3619,7 @@
         "col_3": "2",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -3409,7 +3629,7 @@
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -3419,7 +3639,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3429,7 +3649,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3439,7 +3659,7 @@
         "col_3": "2",
         "col_4": "6b",
         "col_5": "Ma",
-        "col_6": "---",
+        "col_6": "Zi",
         "col_7": ""
       },
       {
@@ -3449,7 +3669,7 @@
         "col_3": "3",
         "col_4": "7a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Pü",
         "col_7": ""
       },
       {
@@ -3469,7 +3689,7 @@
         "col_3": "6",
         "col_4": "7a",
         "col_5": "WK",
-        "col_6": "---",
+        "col_6": "Bk",
         "col_7": ""
       },
       {
@@ -3489,7 +3709,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3499,7 +3719,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3509,7 +3729,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3519,7 +3739,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3529,7 +3749,7 @@
         "col_3": "3",
         "col_4": "9a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Hu",
         "col_7": ""
       },
       {
@@ -3549,7 +3769,27 @@
         "col_3": "6",
         "col_4": "9a",
         "col_5": "Eng",
+        "col_6": "Bl",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
         "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "--- , Gum",
         "col_7": ""
       }
     ],
@@ -3561,7 +3801,17 @@
         "col_3": "4",
         "col_4": "2a",
         "col_5": "Ma",
-        "col_6": "--- , Dr",
+        "col_6": "Dr, Dr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "2a Monde",
+        "col_2": "",
+        "col_3": "1 - 2",
+        "col_4": "2a Monde",
+        "col_5": "Deu",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -3571,7 +3821,7 @@
         "col_3": "3",
         "col_4": "2b",
         "col_5": "Leseband",
-        "col_6": "--- , Gro",
+        "col_6": "Gro, Gro",
         "col_7": ""
       },
       {
@@ -3581,6 +3831,16 @@
         "col_3": "4",
         "col_4": "4b",
         "col_5": "Eng",
+        "col_6": "Rr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "4b",
+        "col_2": "",
+        "col_3": "6",
+        "col_4": "4b",
+        "col_5": "Mu",
         "col_6": "---",
         "col_7": ""
       },
@@ -3601,7 +3861,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3611,7 +3871,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3621,7 +3881,7 @@
         "col_3": "3",
         "col_4": "5b",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Sch",
         "col_7": ""
       },
       {
@@ -3631,7 +3891,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3641,7 +3901,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3651,7 +3911,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3661,7 +3921,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3671,7 +3931,7 @@
         "col_3": "2",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -3681,7 +3941,7 @@
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -3691,7 +3951,7 @@
         "col_3": "4 - 5",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3701,7 +3961,7 @@
         "col_3": "6",
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
-        "col_6": "--- , Sc, Lu, Wr, Sch",
+        "col_6": "Sc, Lu, Lu , Wr, Sch",
         "col_7": ""
       },
       {
@@ -3711,7 +3971,7 @@
         "col_3": "2",
         "col_4": "6b",
         "col_5": "Ma",
-        "col_6": "---",
+        "col_6": "Zi",
         "col_7": ""
       },
       {
@@ -3721,7 +3981,7 @@
         "col_3": "3",
         "col_4": "7a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Pü",
         "col_7": ""
       },
       {
@@ -3741,7 +4001,7 @@
         "col_3": "6",
         "col_4": "7a",
         "col_5": "WK",
-        "col_6": "---",
+        "col_6": "Bk",
         "col_7": ""
       },
       {
@@ -3761,7 +4021,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3771,7 +4031,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3781,7 +4041,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3791,7 +4051,7 @@
         "col_3": "1",
         "col_4": "8a, 8b, 8c, 8f",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Bl",
         "col_7": ""
       },
       {
@@ -3801,7 +4061,7 @@
         "col_3": "3",
         "col_4": "9a",
         "col_5": "Leseband",
-        "col_6": "---",
+        "col_6": "Hu",
         "col_7": ""
       },
       {
@@ -3821,7 +4081,27 @@
         "col_3": "6",
         "col_4": "9a",
         "col_5": "Eng",
+        "col_6": "Bl",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
         "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "DaZ-a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "DaZ-a",
+        "col_5": "DaZ",
+        "col_6": "--- , Gum",
         "col_7": ""
       }
     ]
@@ -3829,7 +4109,7 @@
   "combined": [
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 10b, 2a, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+      "col_1": "Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -4084,6 +4364,21 @@
     },
     {
       "table_index": 3,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "Sv",
+      "col_7": "+Frau Schuld"
+    },
+    {
+      "table_index": 3,
       "col_1": "2b",
       "col_2": "",
       "Stunde": null,
@@ -4095,6 +4390,21 @@
       "col_4": "2b",
       "col_5": "Ma",
       "col_6": "Gro, Gro",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Mu",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -4846,6 +5156,21 @@
       "col_5": "AG Volley",
       "col_6": "---",
       "col_7": "Vtr. ohne Lehrer"
+    },
+    {
+      "table_index": 3,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "Wr , Wr",
+      "col_7": ""
     },
     {
       "table_index": 4,
@@ -5074,6 +5399,21 @@
     },
     {
       "table_index": 4,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "Sv",
+      "col_7": "+Frau Schuld"
+    },
+    {
+      "table_index": 4,
       "col_1": "2b",
       "col_2": "",
       "Stunde": null,
@@ -5085,6 +5425,21 @@
       "col_4": "2b",
       "col_5": "Ma",
       "col_6": "Gro, Gro",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Mu",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -5838,8 +6193,23 @@
       "col_7": "Vtr. ohne Lehrer"
     },
     {
+      "table_index": 4,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "Wr , Wr",
+      "col_7": ""
+    },
+    {
       "table_index": 5,
-      "col_1": "Klassen: 2a, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a",
+      "col_1": "Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -5879,7 +6249,22 @@
       "col_3": "4",
       "col_4": "2a",
       "col_5": "Ma",
-      "col_6": "--- , Dr",
+      "col_6": "Dr, Dr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -5894,7 +6279,7 @@
       "col_3": "3",
       "col_4": "2b",
       "col_5": "Leseband",
-      "col_6": "--- , Gro",
+      "col_6": "Gro, Gro",
       "col_7": ""
     },
     {
@@ -5909,6 +6294,21 @@
       "col_3": "4",
       "col_4": "4b",
       "col_5": "Eng",
+      "col_6": "Rr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "4b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "4b",
+      "col_5": "Mu",
       "col_6": "---",
       "col_7": ""
     },
@@ -5939,7 +6339,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -5954,7 +6354,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -5969,7 +6369,7 @@
       "col_3": "3",
       "col_4": "5b",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -5984,7 +6384,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -5999,7 +6399,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6014,7 +6414,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6029,7 +6429,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6044,7 +6444,7 @@
       "col_3": "2",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -6059,7 +6459,7 @@
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -6074,7 +6474,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6089,7 +6489,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6104,7 +6504,7 @@
       "col_3": "2",
       "col_4": "6b",
       "col_5": "Ma",
-      "col_6": "---",
+      "col_6": "Zi",
       "col_7": ""
     },
     {
@@ -6119,7 +6519,7 @@
       "col_3": "3",
       "col_4": "7a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Pü",
       "col_7": ""
     },
     {
@@ -6149,7 +6549,7 @@
       "col_3": "6",
       "col_4": "7a",
       "col_5": "WK",
-      "col_6": "---",
+      "col_6": "Bk",
       "col_7": ""
     },
     {
@@ -6179,7 +6579,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6194,7 +6594,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6209,7 +6609,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6224,7 +6624,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6239,7 +6639,7 @@
       "col_3": "3",
       "col_4": "9a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Hu",
       "col_7": ""
     },
     {
@@ -6269,7 +6669,37 @@
       "col_3": "6",
       "col_4": "9a",
       "col_5": "Eng",
+      "col_6": "Bl",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
       "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "--- , Gum",
       "col_7": ""
     },
     {
@@ -6284,7 +6714,22 @@
       "col_3": "4",
       "col_4": "2a",
       "col_5": "Ma",
-      "col_6": "--- , Dr",
+      "col_6": "Dr, Dr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -6299,7 +6744,7 @@
       "col_3": "3",
       "col_4": "2b",
       "col_5": "Leseband",
-      "col_6": "--- , Gro",
+      "col_6": "Gro, Gro",
       "col_7": ""
     },
     {
@@ -6314,6 +6759,21 @@
       "col_3": "4",
       "col_4": "4b",
       "col_5": "Eng",
+      "col_6": "Rr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "4b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "4b",
+      "col_5": "Mu",
       "col_6": "---",
       "col_7": ""
     },
@@ -6344,7 +6804,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6359,7 +6819,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6374,7 +6834,7 @@
       "col_3": "3",
       "col_4": "5b",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -6389,7 +6849,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6404,7 +6864,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6419,7 +6879,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6434,7 +6894,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6449,7 +6909,7 @@
       "col_3": "2",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -6464,7 +6924,7 @@
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -6479,7 +6939,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6494,7 +6954,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -6509,7 +6969,7 @@
       "col_3": "2",
       "col_4": "6b",
       "col_5": "Ma",
-      "col_6": "---",
+      "col_6": "Zi",
       "col_7": ""
     },
     {
@@ -6524,7 +6984,7 @@
       "col_3": "3",
       "col_4": "7a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Pü",
       "col_7": ""
     },
     {
@@ -6554,7 +7014,7 @@
       "col_3": "6",
       "col_4": "7a",
       "col_5": "WK",
-      "col_6": "---",
+      "col_6": "Bk",
       "col_7": ""
     },
     {
@@ -6584,7 +7044,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6599,7 +7059,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6614,7 +7074,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6629,7 +7089,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -6644,7 +7104,7 @@
       "col_3": "3",
       "col_4": "9a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Hu",
       "col_7": ""
     },
     {
@@ -6674,12 +7134,42 @@
       "col_3": "6",
       "col_4": "9a",
       "col_5": "Eng",
+      "col_6": "Bl",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
       "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "--- , Gum",
       "col_7": ""
     },
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 10b, 2a, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",
+      "col_1": "Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -6934,6 +7424,21 @@
     },
     {
       "table_index": 3,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "Sv",
+      "col_7": "+Frau Schuld"
+    },
+    {
+      "table_index": 3,
       "col_1": "2b",
       "col_2": "",
       "Stunde": null,
@@ -6945,6 +7450,21 @@
       "col_4": "2b",
       "col_5": "Ma",
       "col_6": "Gro, Gro",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Mu",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -7696,6 +8216,21 @@
       "col_5": "AG Volley",
       "col_6": "---",
       "col_7": "Vtr. ohne Lehrer"
+    },
+    {
+      "table_index": 3,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "Wr , Wr",
+      "col_7": ""
     },
     {
       "table_index": 4,
@@ -7924,6 +8459,21 @@
     },
     {
       "table_index": 4,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "Sv",
+      "col_7": "+Frau Schuld"
+    },
+    {
+      "table_index": 4,
       "col_1": "2b",
       "col_2": "",
       "Stunde": null,
@@ -7935,6 +8485,21 @@
       "col_4": "2b",
       "col_5": "Ma",
       "col_6": "Gro, Gro",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Mu",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -8688,8 +9253,23 @@
       "col_7": "Vtr. ohne Lehrer"
     },
     {
+      "table_index": 4,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "Wr , Wr",
+      "col_7": ""
+    },
+    {
       "table_index": 5,
-      "col_1": "Klassen: 2a, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a",
+      "col_1": "Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -8729,7 +9309,22 @@
       "col_3": "4",
       "col_4": "2a",
       "col_5": "Ma",
-      "col_6": "--- , Dr",
+      "col_6": "Dr, Dr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -8744,7 +9339,7 @@
       "col_3": "3",
       "col_4": "2b",
       "col_5": "Leseband",
-      "col_6": "--- , Gro",
+      "col_6": "Gro, Gro",
       "col_7": ""
     },
     {
@@ -8759,6 +9354,21 @@
       "col_3": "4",
       "col_4": "4b",
       "col_5": "Eng",
+      "col_6": "Rr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "4b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "4b",
+      "col_5": "Mu",
       "col_6": "---",
       "col_7": ""
     },
@@ -8789,7 +9399,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8804,7 +9414,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8819,7 +9429,7 @@
       "col_3": "3",
       "col_4": "5b",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -8834,7 +9444,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8849,7 +9459,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8864,7 +9474,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8879,7 +9489,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8894,7 +9504,7 @@
       "col_3": "2",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -8909,7 +9519,7 @@
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -8924,7 +9534,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8939,7 +9549,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -8954,7 +9564,7 @@
       "col_3": "2",
       "col_4": "6b",
       "col_5": "Ma",
-      "col_6": "---",
+      "col_6": "Zi",
       "col_7": ""
     },
     {
@@ -8969,7 +9579,7 @@
       "col_3": "3",
       "col_4": "7a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Pü",
       "col_7": ""
     },
     {
@@ -8999,7 +9609,7 @@
       "col_3": "6",
       "col_4": "7a",
       "col_5": "WK",
-      "col_6": "---",
+      "col_6": "Bk",
       "col_7": ""
     },
     {
@@ -9029,7 +9639,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9044,7 +9654,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9059,7 +9669,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9074,7 +9684,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9089,7 +9699,7 @@
       "col_3": "3",
       "col_4": "9a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Hu",
       "col_7": ""
     },
     {
@@ -9119,7 +9729,37 @@
       "col_3": "6",
       "col_4": "9a",
       "col_5": "Eng",
+      "col_6": "Bl",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
       "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "--- , Gum",
       "col_7": ""
     },
     {
@@ -9134,7 +9774,22 @@
       "col_3": "4",
       "col_4": "2a",
       "col_5": "Ma",
-      "col_6": "--- , Dr",
+      "col_6": "Dr, Dr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "2a Monde",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1 - 2",
+      "col_4": "2a Monde",
+      "col_5": "Deu",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -9149,7 +9804,7 @@
       "col_3": "3",
       "col_4": "2b",
       "col_5": "Leseband",
-      "col_6": "--- , Gro",
+      "col_6": "Gro, Gro",
       "col_7": ""
     },
     {
@@ -9164,6 +9819,21 @@
       "col_3": "4",
       "col_4": "4b",
       "col_5": "Eng",
+      "col_6": "Rr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "4b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "6",
+      "col_4": "4b",
+      "col_5": "Mu",
       "col_6": "---",
       "col_7": ""
     },
@@ -9194,7 +9864,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9209,7 +9879,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9224,7 +9894,7 @@
       "col_3": "3",
       "col_4": "5b",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Sch",
       "col_7": ""
     },
     {
@@ -9239,7 +9909,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9254,7 +9924,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9269,7 +9939,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9284,7 +9954,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9299,7 +9969,7 @@
       "col_3": "2",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -9314,7 +9984,7 @@
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -9329,7 +9999,7 @@
       "col_3": "4 - 5",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9344,7 +10014,7 @@
       "col_3": "6",
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
-      "col_6": "--- , Sc, Lu, Wr, Sch",
+      "col_6": "Sc, Lu, Lu , Wr, Sch",
       "col_7": ""
     },
     {
@@ -9359,7 +10029,7 @@
       "col_3": "2",
       "col_4": "6b",
       "col_5": "Ma",
-      "col_6": "---",
+      "col_6": "Zi",
       "col_7": ""
     },
     {
@@ -9374,7 +10044,7 @@
       "col_3": "3",
       "col_4": "7a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Pü",
       "col_7": ""
     },
     {
@@ -9404,7 +10074,7 @@
       "col_3": "6",
       "col_4": "7a",
       "col_5": "WK",
-      "col_6": "---",
+      "col_6": "Bk",
       "col_7": ""
     },
     {
@@ -9434,7 +10104,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9449,7 +10119,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9464,7 +10134,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9479,7 +10149,7 @@
       "col_3": "1",
       "col_4": "8a, 8b, 8c, 8f",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Bl",
       "col_7": ""
     },
     {
@@ -9494,7 +10164,7 @@
       "col_3": "3",
       "col_4": "9a",
       "col_5": "Leseband",
-      "col_6": "---",
+      "col_6": "Hu",
       "col_7": ""
     },
     {
@@ -9524,7 +10194,37 @@
       "col_3": "6",
       "col_4": "9a",
       "col_5": "Eng",
+      "col_6": "Bl",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
       "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "DaZ-a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "DaZ-a",
+      "col_5": "DaZ",
+      "col_6": "--- , Gum",
       "col_7": ""
     }
   ]
