@@ -5,13 +5,12 @@
 2,30.09.2025,3,"10a, 10b",4,WPU,Pr,
 2,30.09.2025,3,"10a, 10b",4,WPU,Ni,
 2,30.09.2025,3,"10a, 10b",4,WPU,Lu,
-2,30.09.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Volley,Pü,Vtr. ohne Lehrer
 2,30.09.2025,3,10b,4 - 7,,Ca,Berufliche Schule
+2,30.09.2025,3,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",7,AG Chor,Jo,
 2,30.09.2025,3,2a,4,Deu,"<span>Ka</span>, Ka",
 2,30.09.2025,3,2a Monde,1 - 2,Deu,<span>Sv</span>,+Frau Schuld
 2,30.09.2025,3,2b,5,Ma,"Gro, <span>Gro</span>",
 2,30.09.2025,3,5a,4,Mu,<span>Sch</span>,
-2,30.09.2025,3,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",7,AG Volley,<span>---</span>,Vtr. ohne Lehrer
 2,30.09.2025,3,5c,3,Leseband,<span>Klü</span>,
 2,30.09.2025,3,5c,5,Eng,"<span>Gr</span>, Gr",
 2,30.09.2025,3,5d,2,Eng,<span>Gum</span>,
@@ -23,6 +22,7 @@
 2,30.09.2025,3,9a,3 - 6,,Pü,Berufliche Schule
 2,30.09.2025,3,9b,2 - 7,,Sn,Berufliche Schule
 2,30.09.2025,3,9c,3 - 7,,Vo,Berufliche Schule
+2,30.09.2025,3,9c,2,Bio,Sn,
 2,30.09.2025,3,DaZ-a,5,DaZ,"<span>Wr</span>, Wr",
 2,30.09.2025,8,2a,4,Ma,"Dr, <span>Dr</span>",
 2,30.09.2025,8,2a Monde,1 - 2,Deu,<span>---</span>,
@@ -52,13 +52,12 @@
 2,01.10.2025,3,"10a, 10b",4,WPU,Pr,
 2,01.10.2025,3,"10a, 10b",4,WPU,Ni,
 2,01.10.2025,3,"10a, 10b",4,WPU,Lu,
-2,01.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Volley,Pü,Vtr. ohne Lehrer
 2,01.10.2025,3,10b,4 - 7,,Ca,Berufliche Schule
+2,01.10.2025,3,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",7,AG Chor,Jo,
 2,01.10.2025,3,2a,4,Deu,"<span>Ka</span>, Ka",
 2,01.10.2025,3,2a Monde,1 - 2,Deu,<span>Sv</span>,+Frau Schuld
 2,01.10.2025,3,2b,5,Ma,"Gro, <span>Gro</span>",
 2,01.10.2025,3,5a,4,Mu,<span>Sch</span>,
-2,01.10.2025,3,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",7,AG Volley,<span>---</span>,Vtr. ohne Lehrer
 2,01.10.2025,3,5c,3,Leseband,<span>Klü</span>,
 2,01.10.2025,3,5c,5,Eng,"<span>Gr</span>, Gr",
 2,01.10.2025,3,5d,2,Eng,<span>Gum</span>,
@@ -70,6 +69,7 @@
 2,01.10.2025,3,9a,3 - 6,,Pü,Berufliche Schule
 2,01.10.2025,3,9b,2 - 7,,Sn,Berufliche Schule
 2,01.10.2025,3,9c,3 - 7,,Vo,Berufliche Schule
+2,01.10.2025,3,9c,2,Bio,Sn,
 2,01.10.2025,3,DaZ-a,5,DaZ,"<span>Wr</span>, Wr",
 2,01.10.2025,8,2a,4,Ma,"Dr, <span>Dr</span>",
 2,01.10.2025,8,2a Monde,1 - 2,Deu,<span>---</span>,
@@ -93,7 +93,7 @@
 2,01.10.2025,8,9a,6,Eng,Bl,
 2,01.10.2025,8,DaZ-a,4,DaZ,<span>---</span>,
 2,01.10.2025,8,DaZ-a,5,DaZ,"<span>---</span>, Gum",
-1,30.09.2025,0,"Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
+1,30.09.2025,0,"Klassen: 10a, 10b, 1b, 2a, 2a Monde, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, DaZ-a",,,,
 1,30.09.2025,5,"Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a",,,,
-1,01.10.2025,0,"Klassen: 10a, 10b, 2a, 2a Monde, 2b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,,
+1,01.10.2025,0,"Klassen: 10a, 10b, 1b, 2a, 2a Monde, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, DaZ-a",,,,
 1,01.10.2025,5,"Klassen: 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, DaZ-a",,,,
