@@ -81,96 +81,132 @@
 8,10a,,,,,,,4,"10a, 10b",WPU,Pr,
 8,10a,,,,,,,4,"10a, 10b",WPU,Ni,
 8,10a,,,,,,,4,"10a, 10b",WPU,Lu,
-8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,10b,,,,,,,4 - 7,10b,,Ca,Berufliche Schule
 8,10b,,,,,,,4,"10a, 10b",WPU,Vo,
 8,10b,,,,,,,4,"10a, 10b",WPU,Sc,
 8,10b,,,,,,,4,"10a, 10b",WPU,Pr,
 8,10b,,,,,,,4,"10a, 10b",WPU,Ni,
 8,10b,,,,,,,4,"10a, 10b",WPU,Lu,
-8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 8,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,5c,,,,,,,3,5c,Leseband,Klü,
 8,5c,,,,,,,5,5c,Eng,"Gr , Gr",
-8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,5d,,,,,,,2,5d,Eng,Gum,
 8,5d,,,,,,,3,5d,Leseband,Hu,
-8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,7b,,,,,,,4,7b,Nawi,Sc,
 8,7b,,,,,,,6,"7b, 7c",Rel,Sn,
-8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,7c,,,,,,,6,"7b, 7c",Rel,Sn,
-8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,8b,,,,,,,5,8b,Nawi,Bk,
-8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,8c,,,,,,,6,8c,Sp,Pü,
-8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9a,,,,,,,3 - 7,9a,,Pü,Berufliche Schule
-8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,9a,,,,,,,3 - 6,9a,,Pü,Berufliche Schule
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
-8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
-8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9g,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 9,10a,,,,,,,4,"10a, 10b",WPU,Vo,
 9,10a,,,,,,,4,"10a, 10b",WPU,Sc,
 9,10a,,,,,,,4,"10a, 10b",WPU,Pr,
 9,10a,,,,,,,4,"10a, 10b",WPU,Ni,
 9,10a,,,,,,,4,"10a, 10b",WPU,Lu,
-9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,10b,,,,,,,4 - 7,10b,,Ca,Berufliche Schule
 9,10b,,,,,,,4,"10a, 10b",WPU,Vo,
 9,10b,,,,,,,4,"10a, 10b",WPU,Sc,
 9,10b,,,,,,,4,"10a, 10b",WPU,Pr,
 9,10b,,,,,,,4,"10a, 10b",WPU,Ni,
 9,10b,,,,,,,4,"10a, 10b",WPU,Lu,
-9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 9,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,5c,,,,,,,3,5c,Leseband,Klü,
 9,5c,,,,,,,5,5c,Eng,"Gr , Gr",
-9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,5d,,,,,,,2,5d,Eng,Gum,
 9,5d,,,,,,,3,5d,Leseband,Hu,
-9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,7b,,,,,,,4,7b,Nawi,Sc,
 9,7b,,,,,,,6,"7b, 7c",Rel,Sn,
-9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,7c,,,,,,,6,"7b, 7c",Rel,Sn,
-9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,8b,,,,,,,5,8b,Nawi,Bk,
-9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,8c,,,,,,,6,8c,Sp,Pü,
-9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9a,,,,,,,3 - 7,9a,,Pü,Berufliche Schule
-9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,9a,,,,,,,3 - 6,9a,,Pü,Berufliche Schule
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
-9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
-9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9g,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 0,"Klassen: 1c, 2a Monde, 2b, 2b Monde, 2c, 5c, 5d, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,1c,,,,,,,5,1c,Sach,Kä,
@@ -253,93 +289,129 @@
 8,10a,,,,,,,4,"10a, 10b",WPU,Pr,
 8,10a,,,,,,,4,"10a, 10b",WPU,Ni,
 8,10a,,,,,,,4,"10a, 10b",WPU,Lu,
-8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,10b,,,,,,,4 - 7,10b,,Ca,Berufliche Schule
 8,10b,,,,,,,4,"10a, 10b",WPU,Vo,
 8,10b,,,,,,,4,"10a, 10b",WPU,Sc,
 8,10b,,,,,,,4,"10a, 10b",WPU,Pr,
 8,10b,,,,,,,4,"10a, 10b",WPU,Ni,
 8,10b,,,,,,,4,"10a, 10b",WPU,Lu,
-8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 8,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,5c,,,,,,,3,5c,Leseband,Klü,
 8,5c,,,,,,,5,5c,Eng,"Gr , Gr",
-8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,5d,,,,,,,2,5d,Eng,Gum,
 8,5d,,,,,,,3,5d,Leseband,Hu,
-8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,5d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,6d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,7b,,,,,,,4,7b,Nawi,Sc,
 8,7b,,,,,,,6,"7b, 7c",Rel,Sn,
-8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,7c,,,,,,,6,"7b, 7c",Rel,Sn,
-8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,7c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,8b,,,,,,,5,8b,Nawi,Bk,
-8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,8c,,,,,,,6,8c,Sp,Pü,
-8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9a,,,,,,,3 - 7,9a,,Pü,Berufliche Schule
-8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,8f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,9a,,,,,,,3 - 6,9a,,Pü,Berufliche Schule
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 8,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
-8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 8,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
-8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+8,9g,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 9,10a,,,,,,,4,"10a, 10b",WPU,Vo,
 9,10a,,,,,,,4,"10a, 10b",WPU,Sc,
 9,10a,,,,,,,4,"10a, 10b",WPU,Pr,
 9,10a,,,,,,,4,"10a, 10b",WPU,Ni,
 9,10a,,,,,,,4,"10a, 10b",WPU,Lu,
-9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,10b,,,,,,,4 - 7,10b,,Ca,Berufliche Schule
 9,10b,,,,,,,4,"10a, 10b",WPU,Vo,
 9,10b,,,,,,,4,"10a, 10b",WPU,Sc,
 9,10b,,,,,,,4,"10a, 10b",WPU,Pr,
 9,10b,,,,,,,4,"10a, 10b",WPU,Ni,
 9,10b,,,,,,,4,"10a, 10b",WPU,Lu,
-9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 9,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,5c,,,,,,,3,5c,Leseband,Klü,
 9,5c,,,,,,,5,5c,Eng,"Gr , Gr",
-9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,5d,,,,,,,2,5d,Eng,Gum,
 9,5d,,,,,,,3,5d,Leseband,Hu,
-9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,5d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,6d,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,7b,,,,,,,4,7b,Nawi,Sc,
 9,7b,,,,,,,6,"7b, 7c",Rel,Sn,
-9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,7c,,,,,,,6,"7b, 7c",Rel,Sn,
-9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,7c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,8b,,,,,,,5,8b,Nawi,Bk,
-9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8b,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,8c,,,,,,,6,8c,Sp,Pü,
-9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9a,,,,,,,3 - 7,9a,,Pü,Berufliche Schule
-9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8c,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,8f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,9a,,,,,,,3 - 6,9a,,Pü,Berufliche Schule
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9a,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
 9,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
-9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
 9,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
-9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
-9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9f,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,Vtr. ohne Lehrer
+9,9g,,,,,,,7,"5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",AG Volley,---,Vtr. ohne Lehrer

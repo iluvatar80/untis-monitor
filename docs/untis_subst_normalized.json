@@ -367,7 +367,7 @@
     "stunde": "7",
     "fach": "AG Volley",
     "lehrkraft": "Pü",
-    "text": ""
+    "text": "Vtr. ohne Lehrer"
   },
   {
     "gruppe": 2,
@@ -398,6 +398,16 @@
     "fach": "Ma",
     "lehrkraft": "Gro, <span>Gro</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "30.09.2025",
+    "quelle_table_index": 8,
+    "klasse": "5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",
+    "stunde": "7",
+    "fach": "AG Volley",
+    "lehrkraft": "<span>---</span>",
+    "text": "Vtr. ohne Lehrer"
   },
   {
     "gruppe": 2,
@@ -484,7 +494,7 @@
     "datum": "30.09.2025",
     "quelle_table_index": 8,
     "klasse": "9a",
-    "stunde": "3 - 7",
+    "stunde": "3 - 6",
     "fach": "",
     "lehrkraft": "Pü",
     "text": "Berufliche Schule"
@@ -877,7 +887,7 @@
     "stunde": "7",
     "fach": "AG Volley",
     "lehrkraft": "Pü",
-    "text": ""
+    "text": "Vtr. ohne Lehrer"
   },
   {
     "gruppe": 2,
@@ -908,6 +918,16 @@
     "fach": "Ma",
     "lehrkraft": "Gro, <span>Gro</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9f, 9g",
+    "stunde": "7",
+    "fach": "AG Volley",
+    "lehrkraft": "<span>---</span>",
+    "text": "Vtr. ohne Lehrer"
   },
   {
     "gruppe": 2,
@@ -994,7 +1014,7 @@
     "datum": "01.10.2025",
     "quelle_table_index": 8,
     "klasse": "9a",
-    "stunde": "3 - 7",
+    "stunde": "3 - 6",
     "fach": "",
     "lehrkraft": "Pü",
     "text": "Berufliche Schule"
