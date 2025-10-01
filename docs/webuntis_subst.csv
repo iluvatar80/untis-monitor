@@ -1,5 +1,5 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1b, 2a, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 3,10a,,,,,,,4,"10a, 10b",WPU,Vo,
@@ -16,22 +16,18 @@
 3,1b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 3,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-3,2c,,,,,,,3,2c,Leseband,Hal,
 3,3a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5a,,,,,,,3,5a,Leseband,Ti,
 3,5a,,,,,,,4,5a,Mu,Sch,
 3,5a,,,,,,,5,5a,Sp,Ne,
 3,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
 3,5a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,5b,,,,,,,4,5b,Deu,"Scm , Scm",
 3,5b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5c,,,,,,,3,5c,Leseband,Klü,
 3,5c,,,,,,,5,5c,Eng,"Gr , Gr",
 3,5c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5d,,,,,,,3,5d,Leseband,Ni,
 3,5d,,,,,,,4,5d,Nawi,Boe,
 3,5d,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,6a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
@@ -52,7 +48,6 @@
 3,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
 3,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
 3,9f,,,,,,,5,9f,Ma,"Str , Str",
-3,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Li , Li",
 4,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 4,10a,,,,,,,4,"10a, 10b",WPU,Vo,
@@ -69,22 +64,18 @@
 4,1b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 4,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-4,2c,,,,,,,3,2c,Leseband,Hal,
 4,3a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5a,,,,,,,3,5a,Leseband,Ti,
 4,5a,,,,,,,4,5a,Mu,Sch,
 4,5a,,,,,,,5,5a,Sp,Ne,
 4,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
 4,5a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,5b,,,,,,,4,5b,Deu,"Scm , Scm",
 4,5b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5c,,,,,,,3,5c,Leseband,Klü,
 4,5c,,,,,,,5,5c,Eng,"Gr , Gr",
 4,5c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5d,,,,,,,3,5d,Leseband,Ni,
 4,5d,,,,,,,4,5d,Nawi,Boe,
 4,5d,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,6a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
@@ -105,17 +96,26 @@
 4,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
 4,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
 4,9f,,,,,,,5,9f,Ma,"Str , Str",
-4,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Li , Li",
-5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
+5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10b,,,,,,,4,10b,Ma,---,
-8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
+8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Sp,Sv,Lauftag
+8,1 Sonnen,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+8,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Sp,Th,Lauftag
 8,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 8,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
+8,2a Monde,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+8,2a Monde,,,,,,,4 - 5,2a Monde,Sp,Sv,Lauftag
 8,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
+8,3 Sterne,,,,,,,1 - 2,3 Sterne,Sp,Ew,Lauftag
+8,3 Sterne,,,,,,,3 - 4,3 Sterne,Deu,Ro,Lauftag
+8,3 Sterne,,,,,,,4 - 5,3 Sterne,Sp,Ro,Lauftag
 8,4b,,,,,,,4,4b,Eng,Rr,
 8,4b,,,,,,,6,4b,Mu,Dr,
+8,4 Kometen,,,,,,,1 - 2,4 Kometen,Sp,Th,Lauftag
+8,4 Kometen,,,,,,,3 - 4,4 Kometen,Sp,Th,Lauftag
+8,4 Kometen,,,,,,,4 - 5,4 Kometen,Sp,Kä,Lauftag
 8,5a,,,,,,,2,5a,Nawi,Rom,Nawi
 8,5a,,,,,,,4 - 5,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
 8,5a,,,,,,,6,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
@@ -146,12 +146,22 @@
 8,DaZ-a,,,,,,,4,DaZ-a,DaZ,Bb,
 8,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Gum , Gum",
 9,10b,,,,,,,4,10b,Ma,---,
-9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
+9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Sp,Sv,Lauftag
+9,1 Sonnen,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+9,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Sp,Th,Lauftag
 9,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 9,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
+9,2a Monde,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+9,2a Monde,,,,,,,4 - 5,2a Monde,Sp,Sv,Lauftag
 9,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
+9,3 Sterne,,,,,,,1 - 2,3 Sterne,Sp,Ew,Lauftag
+9,3 Sterne,,,,,,,3 - 4,3 Sterne,Deu,Ro,Lauftag
+9,3 Sterne,,,,,,,4 - 5,3 Sterne,Sp,Ro,Lauftag
 9,4b,,,,,,,4,4b,Eng,Rr,
 9,4b,,,,,,,6,4b,Mu,Dr,
+9,4 Kometen,,,,,,,1 - 2,4 Kometen,Sp,Th,Lauftag
+9,4 Kometen,,,,,,,3 - 4,4 Kometen,Sp,Th,Lauftag
+9,4 Kometen,,,,,,,4 - 5,4 Kometen,Sp,Kä,Lauftag
 9,5a,,,,,,,2,5a,Nawi,Rom,Nawi
 9,5a,,,,,,,4 - 5,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
 9,5a,,,,,,,6,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
@@ -181,7 +191,7 @@
 9,9f,,,,,,,5 - 6,9f,Ma,"Str , Str",
 9,DaZ-a,,,,,,,4,DaZ-a,DaZ,Bb,
 9,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Gum , Gum",
-0,"Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1b, 2a, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 3,10a,,,,,,,4,"10a, 10b",WPU,Vo,
@@ -198,22 +208,18 @@
 3,1b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 3,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-3,2c,,,,,,,3,2c,Leseband,Hal,
 3,3a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5a,,,,,,,3,5a,Leseband,Ti,
 3,5a,,,,,,,4,5a,Mu,Sch,
 3,5a,,,,,,,5,5a,Sp,Ne,
 3,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
 3,5a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,5b,,,,,,,4,5b,Deu,"Scm , Scm",
 3,5b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5c,,,,,,,3,5c,Leseband,Klü,
 3,5c,,,,,,,5,5c,Eng,"Gr , Gr",
 3,5c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5d,,,,,,,3,5d,Leseband,Ni,
 3,5d,,,,,,,4,5d,Nawi,Boe,
 3,5d,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,6a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
@@ -234,7 +240,6 @@
 3,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
 3,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
 3,9f,,,,,,,5,9f,Ma,"Str , Str",
-3,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 3,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Li , Li",
 4,10a,,,,,,,4 - 7,10a,,Ca,Berufliche Schule
 4,10a,,,,,,,4,"10a, 10b",WPU,Vo,
@@ -251,22 +256,18 @@
 4,1b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,2a,,,,,,,4,2a,Deu,"Ka , Ka",
 4,2b,,,,,,,5,2b,Ma,"Gro, Gro",
-4,2c,,,,,,,3,2c,Leseband,Hal,
 4,3a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5a,,,,,,,3,5a,Leseband,Ti,
 4,5a,,,,,,,4,5a,Mu,Sch,
 4,5a,,,,,,,5,5a,Sp,Ne,
 4,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
 4,5a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,5b,,,,,,,4,5b,Deu,"Scm , Scm",
 4,5b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5c,,,,,,,3,5c,Leseband,Klü,
 4,5c,,,,,,,5,5c,Eng,"Gr , Gr",
 4,5c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5d,,,,,,,3,5d,Leseband,Ni,
 4,5d,,,,,,,4,5d,Nawi,Boe,
 4,5d,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,6a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
@@ -287,17 +288,26 @@
 4,9b,,,,,,,2 - 7,9b,,Sn,Berufliche Schule
 4,9c,,,,,,,3 - 7,9c,,Vo,Berufliche Schule
 4,9f,,,,,,,5,9f,Ma,"Str , Str",
-4,DaZ-a,,,,,,,3,DaZ-a,Leseband,Bb,
 4,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Li , Li",
-5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
+5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10b,,,,,,,4,10b,Ma,---,
-8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
+8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Sp,Sv,Lauftag
+8,1 Sonnen,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+8,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Sp,Th,Lauftag
 8,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 8,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
+8,2a Monde,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+8,2a Monde,,,,,,,4 - 5,2a Monde,Sp,Sv,Lauftag
 8,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
+8,3 Sterne,,,,,,,1 - 2,3 Sterne,Sp,Ew,Lauftag
+8,3 Sterne,,,,,,,3 - 4,3 Sterne,Deu,Ro,Lauftag
+8,3 Sterne,,,,,,,4 - 5,3 Sterne,Sp,Ro,Lauftag
 8,4b,,,,,,,4,4b,Eng,Rr,
 8,4b,,,,,,,6,4b,Mu,Dr,
+8,4 Kometen,,,,,,,1 - 2,4 Kometen,Sp,Th,Lauftag
+8,4 Kometen,,,,,,,3 - 4,4 Kometen,Sp,Th,Lauftag
+8,4 Kometen,,,,,,,4 - 5,4 Kometen,Sp,Kä,Lauftag
 8,5a,,,,,,,2,5a,Nawi,Rom,Nawi
 8,5a,,,,,,,4 - 5,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
 8,5a,,,,,,,6,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
@@ -328,12 +338,22 @@
 8,DaZ-a,,,,,,,4,DaZ-a,DaZ,Bb,
 8,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Gum , Gum",
 9,10b,,,,,,,4,10b,Ma,---,
-9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
+9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Sp,Sv,Lauftag
+9,1 Sonnen,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+9,1 Sonnen,,,,,,,4 - 5,1 Sonnen,Sp,Th,Lauftag
 9,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 9,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
+9,2a Monde,,,,,,,3 - 4,"1 Sonnen, 2a Monde",Sp,Sv,Lauftag
+9,2a Monde,,,,,,,4 - 5,2a Monde,Sp,Sv,Lauftag
 9,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
+9,3 Sterne,,,,,,,1 - 2,3 Sterne,Sp,Ew,Lauftag
+9,3 Sterne,,,,,,,3 - 4,3 Sterne,Deu,Ro,Lauftag
+9,3 Sterne,,,,,,,4 - 5,3 Sterne,Sp,Ro,Lauftag
 9,4b,,,,,,,4,4b,Eng,Rr,
 9,4b,,,,,,,6,4b,Mu,Dr,
+9,4 Kometen,,,,,,,1 - 2,4 Kometen,Sp,Th,Lauftag
+9,4 Kometen,,,,,,,3 - 4,4 Kometen,Sp,Th,Lauftag
+9,4 Kometen,,,,,,,4 - 5,4 Kometen,Sp,Kä,Lauftag
 9,5a,,,,,,,2,5a,Nawi,Rom,Nawi
 9,5a,,,,,,,4 - 5,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",
 9,5a,,,,,,,6,"5a, 5b, 5c, 5d",Thea,"Sc, Lu, Lu , Wr, Sch",

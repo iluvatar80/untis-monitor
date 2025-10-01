@@ -103,26 +103,6 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Hal</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ti</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5a",
     "stunde": "4",
     "fach": "Mu",
@@ -164,29 +144,9 @@
     "datum": "01.10.2025",
     "quelle_table_index": 3,
     "klasse": "5c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Klü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c",
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Gr</span>, Gr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -294,16 +254,6 @@
     "datum": "01.10.2025",
     "quelle_table_index": 3,
     "klasse": "DaZ-a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Bb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
     "lehrkraft": "<span>Li</span>, <span>Li</span>",
@@ -325,9 +275,29 @@
     "quelle_table_index": 8,
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
-    "fach": "Ma",
-    "lehrkraft": "Sv, Bre, <span>Vorw</span>",
-    "text": "+Frau Vorwig"
+    "fach": "Sp",
+    "lehrkraft": "Sv",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen, 2a Monde",
+    "stunde": "3 - 4",
+    "fach": "Sp",
+    "lehrkraft": "<span>Sv</span>",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -353,11 +323,51 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 8,
+    "klasse": "2a Monde",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Sv",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
     "klasse": "2b",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "Gro, <span>Gro</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "1 - 2",
+    "fach": "Sp",
+    "lehrkraft": "Ew",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "3 - 4",
+    "fach": "Deu",
+    "lehrkraft": "Ro",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Ro",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -378,6 +388,36 @@
     "fach": "Mu",
     "lehrkraft": "<span>Dr</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "1 - 2",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "3 - 4",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Kä",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -653,26 +693,6 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Hal</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ti</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5a",
     "stunde": "4",
     "fach": "Mu",
@@ -714,29 +734,9 @@
     "datum": "02.10.2025",
     "quelle_table_index": 3,
     "klasse": "5c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Klü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c",
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Gr</span>, Gr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -844,16 +844,6 @@
     "datum": "02.10.2025",
     "quelle_table_index": 3,
     "klasse": "DaZ-a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Bb</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
     "lehrkraft": "<span>Li</span>, <span>Li</span>",
@@ -875,9 +865,29 @@
     "quelle_table_index": 8,
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
-    "fach": "Ma",
-    "lehrkraft": "Sv, Bre, <span>Vorw</span>",
-    "text": "+Frau Vorwig"
+    "fach": "Sp",
+    "lehrkraft": "Sv",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen, 2a Monde",
+    "stunde": "3 - 4",
+    "fach": "Sp",
+    "lehrkraft": "<span>Sv</span>",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "1 Sonnen",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -903,11 +913,51 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 8,
+    "klasse": "2a Monde",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Sv",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
     "klasse": "2b",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "Gro, <span>Gro</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "1 - 2",
+    "fach": "Sp",
+    "lehrkraft": "Ew",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "3 - 4",
+    "fach": "Deu",
+    "lehrkraft": "Ro",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "3 Sterne",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Ro",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -928,6 +978,36 @@
     "fach": "Mu",
     "lehrkraft": "<span>Dr</span>",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "1 - 2",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "3 - 4",
+    "fach": "Sp",
+    "lehrkraft": "Th",
+    "text": "Lauftag"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "4 Kometen",
+    "stunde": "4 - 5",
+    "fach": "Sp",
+    "lehrkraft": "Kä",
+    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -1103,7 +1183,7 @@
     "gruppe": 1,
     "datum": "01.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1113,7 +1193,7 @@
     "gruppe": 1,
     "datum": "01.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
+    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1123,7 +1203,7 @@
     "gruppe": 1,
     "datum": "02.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1133,7 +1213,7 @@
     "gruppe": 1,
     "datum": "02.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
+    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
