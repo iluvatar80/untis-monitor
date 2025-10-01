@@ -73,16 +73,6 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "2",
-    "fach": "Ma",
-    "lehrkraft": "<span>Dw</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",
     "stunde": "7",
     "fach": "AG Chor",
@@ -107,16 +97,6 @@
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "Gro, <span>Gro</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2b Monde",
-    "stunde": "2 - 3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ew</span>",
     "text": ""
   },
   {
@@ -204,16 +184,6 @@
     "datum": "01.10.2025",
     "quelle_table_index": 3,
     "klasse": "5d",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Gum</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ni</span>",
@@ -257,16 +227,6 @@
     "stunde": "6",
     "fach": "Rel",
     "lehrkraft": "Sn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Li</span>",
     "text": ""
   },
   {
@@ -323,30 +283,10 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "2",
-    "fach": "Bio",
-    "lehrkraft": "Sn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9f",
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "<span>Str</span>, Str",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "<span>Bb</span>, Bb",
     "text": ""
   },
   {
@@ -683,16 +623,6 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "2",
-    "fach": "Ma",
-    "lehrkraft": "<span>Dw</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",
     "stunde": "7",
     "fach": "AG Chor",
@@ -717,16 +647,6 @@
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "Gro, <span>Gro</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2b Monde",
-    "stunde": "2 - 3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ew</span>",
     "text": ""
   },
   {
@@ -814,16 +734,6 @@
     "datum": "02.10.2025",
     "quelle_table_index": 3,
     "klasse": "5d",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Gum</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ni</span>",
@@ -867,16 +777,6 @@
     "stunde": "6",
     "fach": "Rel",
     "lehrkraft": "Sn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Li</span>",
     "text": ""
   },
   {
@@ -933,30 +833,10 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "2",
-    "fach": "Bio",
-    "lehrkraft": "Sn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9f",
     "stunde": "5",
     "fach": "Ma",
     "lehrkraft": "<span>Str</span>, Str",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "DaZ-a",
-    "stunde": "2",
-    "fach": "DaZ",
-    "lehrkraft": "<span>Bb</span>, Bb",
     "text": ""
   },
   {
@@ -1223,7 +1103,7 @@
     "gruppe": 1,
     "datum": "01.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2b Monde, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1243,7 +1123,7 @@
     "gruppe": 1,
     "datum": "02.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2b Monde, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
+    "klasse": "Klassen: 10a, 10b, 1b, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8b, 8c, 9a, 9b, 9c, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
