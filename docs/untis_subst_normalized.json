@@ -454,9 +454,59 @@
     "datum": "01.10.2025",
     "quelle_table_index": 8,
     "klasse": "5c",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Ws",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5c",
     "stunde": "6",
     "fach": "Ku",
     "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6a",
+    "stunde": "5",
+    "fach": "Deu",
+    "lehrkraft": "<span>---</span>, Nn",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6a",
+    "stunde": "6",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Bä",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6c",
+    "stunde": "5",
+    "fach": "Deu",
+    "lehrkraft": "<span>---</span>, Gum",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6c",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>, Ti",
     "text": ""
   },
   {
@@ -984,9 +1034,59 @@
     "datum": "02.10.2025",
     "quelle_table_index": 8,
     "klasse": "5c",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Ws",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5c",
     "stunde": "6",
     "fach": "Ku",
     "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6a",
+    "stunde": "5",
+    "fach": "Deu",
+    "lehrkraft": "<span>---</span>, Nn",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6a",
+    "stunde": "6",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Bä",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6c",
+    "stunde": "5",
+    "fach": "Deu",
+    "lehrkraft": "<span>---</span>, Gum",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "6c",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>, Ti",
     "text": ""
   },
   {
