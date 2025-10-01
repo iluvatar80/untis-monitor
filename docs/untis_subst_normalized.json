@@ -154,19 +154,9 @@
     "datum": "01.10.2025",
     "quelle_table_index": 3,
     "klasse": "5a",
-    "stunde": "1",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ca</span>, Schn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>Blu</span>",
+    "lehrkraft": "<span>Ti</span>",
     "text": ""
   },
   {
@@ -416,7 +406,7 @@
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
     "fach": "Ma",
-    "lehrkraft": "Sv, <span>Vorw</span>",
+    "lehrkraft": "Sv, Bre, <span>Vorw</span>",
     "text": "+Frau Vorwig"
   },
   {
@@ -794,19 +784,9 @@
     "datum": "02.10.2025",
     "quelle_table_index": 3,
     "klasse": "5a",
-    "stunde": "1",
-    "fach": "Ma",
-    "lehrkraft": "<span>Ca</span>, Schn",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5a",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>Blu</span>",
+    "lehrkraft": "<span>Ti</span>",
     "text": ""
   },
   {
@@ -1056,7 +1036,7 @@
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
     "fach": "Ma",
-    "lehrkraft": "Sv, <span>Vorw</span>",
+    "lehrkraft": "Sv, Bre, <span>Vorw</span>",
     "text": "+Frau Vorwig"
   },
   {

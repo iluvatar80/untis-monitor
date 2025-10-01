@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-01T07:40:46",
+    "scraped_at": "2025-10-01T08:32:20",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -280,20 +280,10 @@
         "table_index": 3,
         "col_1": "5a",
         "col_2": "",
-        "col_3": "1",
-        "col_4": "5a",
-        "col_5": "Ma",
-        "col_6": "Ca , Schn",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5a",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5a",
         "col_5": "Leseband",
-        "col_6": "Blu",
+        "col_6": "Ti",
         "col_7": ""
       },
       {
@@ -902,20 +892,10 @@
         "table_index": 4,
         "col_1": "5a",
         "col_2": "",
-        "col_3": "1",
-        "col_4": "5a",
-        "col_5": "Ma",
-        "col_6": "Ca , Schn",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5a",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5a",
         "col_5": "Leseband",
-        "col_6": "Blu",
+        "col_6": "Ti",
         "col_7": ""
       },
       {
@@ -1315,7 +1295,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Vorw",
+        "col_6": "Sv, Bre, Vorw",
         "col_7": "+Frau Vorwig"
       },
       {
@@ -1677,7 +1657,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Vorw",
+        "col_6": "Sv, Bre, Vorw",
         "col_7": "+Frau Vorwig"
       },
       {
@@ -2284,20 +2264,10 @@
         "table_index": 3,
         "col_1": "5a",
         "col_2": "",
-        "col_3": "1",
-        "col_4": "5a",
-        "col_5": "Ma",
-        "col_6": "Ca , Schn",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5a",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5a",
         "col_5": "Leseband",
-        "col_6": "Blu",
+        "col_6": "Ti",
         "col_7": ""
       },
       {
@@ -2906,20 +2876,10 @@
         "table_index": 4,
         "col_1": "5a",
         "col_2": "",
-        "col_3": "1",
-        "col_4": "5a",
-        "col_5": "Ma",
-        "col_6": "Ca , Schn",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5a",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5a",
         "col_5": "Leseband",
-        "col_6": "Blu",
+        "col_6": "Ti",
         "col_7": ""
       },
       {
@@ -3319,7 +3279,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Vorw",
+        "col_6": "Sv, Bre, Vorw",
         "col_7": "+Frau Vorwig"
       },
       {
@@ -3681,7 +3641,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Vorw",
+        "col_6": "Sv, Bre, Vorw",
         "col_7": "+Frau Vorwig"
       },
       {
@@ -4426,25 +4386,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "5a",
-      "col_5": "Ma",
-      "col_6": "Ca , Schn",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5a",
       "col_5": "Leseband",
-      "col_6": "Blu",
+      "col_6": "Ti",
       "col_7": ""
     },
     {
@@ -5356,25 +5301,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "5a",
-      "col_5": "Ma",
-      "col_6": "Ca , Schn",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5a",
       "col_5": "Leseband",
-      "col_6": "Blu",
+      "col_6": "Ti",
       "col_7": ""
     },
     {
@@ -5974,7 +5904,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Vorw",
+      "col_6": "Sv, Bre, Vorw",
       "col_7": "+Frau Vorwig"
     },
     {
@@ -6514,7 +6444,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Vorw",
+      "col_6": "Sv, Bre, Vorw",
       "col_7": "+Frau Vorwig"
     },
     {
@@ -7426,25 +7356,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "5a",
-      "col_5": "Ma",
-      "col_6": "Ca , Schn",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5a",
       "col_5": "Leseband",
-      "col_6": "Blu",
+      "col_6": "Ti",
       "col_7": ""
     },
     {
@@ -8356,25 +8271,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "5a",
-      "col_5": "Ma",
-      "col_6": "Ca , Schn",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5a",
       "col_5": "Leseband",
-      "col_6": "Blu",
+      "col_6": "Ti",
       "col_7": ""
     },
     {
@@ -8974,7 +8874,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Vorw",
+      "col_6": "Sv, Bre, Vorw",
       "col_7": "+Frau Vorwig"
     },
     {
@@ -9514,7 +9414,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Vorw",
+      "col_6": "Sv, Bre, Vorw",
       "col_7": "+Frau Vorwig"
     },
     {

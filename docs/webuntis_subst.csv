@@ -25,8 +25,7 @@
 3,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5a,,,,,,,1,5a,Ma,"Ca , Schn",
-3,5a,,,,,,,3,5a,Leseband,Blu,
+3,5a,,,,,,,3,5a,Leseband,Ti,
 3,5a,,,,,,,4,5a,Mu,Sch,
 3,5a,,,,,,,5,5a,Sp,Ne,
 3,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
@@ -87,8 +86,7 @@
 4,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5a,,,,,,,1,5a,Ma,"Ca , Schn",
-4,5a,,,,,,,3,5a,Leseband,Blu,
+4,5a,,,,,,,3,5a,Leseband,Ti,
 4,5a,,,,,,,4,5a,Mu,Sch,
 4,5a,,,,,,,5,5a,Sp,Ne,
 4,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
@@ -128,7 +126,7 @@
 5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10b,,,,,,,4,10b,Ma,---,
-8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Vorw",+Frau Vorwig
+8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
 8,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 8,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 8,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
@@ -164,7 +162,7 @@
 8,DaZ-a,,,,,,,4,DaZ-a,DaZ,Bb,
 8,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Gum , Gum",
 9,10b,,,,,,,4,10b,Ma,---,
-9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Vorw",+Frau Vorwig
+9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
 9,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 9,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 9,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
@@ -225,8 +223,7 @@
 3,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 3,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-3,5a,,,,,,,1,5a,Ma,"Ca , Schn",
-3,5a,,,,,,,3,5a,Leseband,Blu,
+3,5a,,,,,,,3,5a,Leseband,Ti,
 3,5a,,,,,,,4,5a,Mu,Sch,
 3,5a,,,,,,,5,5a,Sp,Ne,
 3,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
@@ -287,8 +284,7 @@
 4,3b,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,3c,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
 4,4a,,,,,,,7,"1b, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c",AG Chor,Jo,
-4,5a,,,,,,,1,5a,Ma,"Ca , Schn",
-4,5a,,,,,,,3,5a,Leseband,Blu,
+4,5a,,,,,,,3,5a,Leseband,Ti,
 4,5a,,,,,,,4,5a,Mu,Sch,
 4,5a,,,,,,,5,5a,Sp,Ne,
 4,5a,,,,,,,6,5a,Eng,"--- , Klü",Vtr. ohne Lehrer
@@ -328,7 +324,7 @@
 5,"Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10b,,,,,,,4,10b,Ma,---,
-8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Vorw",+Frau Vorwig
+8,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
 8,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 8,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 8,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
@@ -364,7 +360,7 @@
 8,DaZ-a,,,,,,,4,DaZ-a,DaZ,Bb,
 8,DaZ-a,,,,,,,5,DaZ-a,DaZ,"Gum , Gum",
 9,10b,,,,,,,4,10b,Ma,---,
-9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Vorw",+Frau Vorwig
+9,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Vorw",+Frau Vorwig
 9,2a,,,,,,,4,2a,Ma,"Dr, Dr",
 9,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 9,2b,,,,,,,3,2b,Leseband,"Gro, Gro",
