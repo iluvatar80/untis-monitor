@@ -413,6 +413,16 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 8,
+    "klasse": "1 Sonnen",
+    "stunde": "1 - 2",
+    "fach": "Ma",
+    "lehrkraft": "Sv, <span>Vorw</span>",
+    "text": "+Frau Vorwig"
+  },
+  {
+    "gruppe": 2,
+    "datum": "01.10.2025",
+    "quelle_table_index": 8,
     "klasse": "2a",
     "stunde": "4",
     "fach": "Ma",
@@ -426,7 +436,7 @@
     "klasse": "2a Monde",
     "stunde": "1 - 2",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sv</span>",
     "text": ""
   },
   {
@@ -456,7 +466,7 @@
     "klasse": "4b",
     "stunde": "6",
     "fach": "Mu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Dr</span>",
     "text": ""
   },
   {
@@ -523,16 +533,6 @@
     "gruppe": 2,
     "datum": "01.10.2025",
     "quelle_table_index": 8,
-    "klasse": "6b",
-    "stunde": "2",
-    "fach": "Ma",
-    "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 8,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -546,7 +546,7 @@
     "klasse": "7a",
     "stunde": "5",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>, We",
+    "lehrkraft": "<span>We</span>, We",
     "text": ""
   },
   {
@@ -566,7 +566,7 @@
     "klasse": "7c",
     "stunde": "5",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Vo</span>",
     "text": ""
   },
   {
@@ -586,7 +586,7 @@
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Ka</span>",
     "text": ""
   },
   {
@@ -596,27 +596,7 @@
     "klasse": "9a",
     "stunde": "1",
     "fach": "WiPo",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "9a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "01.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "9a",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Hu",
     "text": ""
   },
   {
@@ -636,7 +616,7 @@
     "klasse": "9f",
     "stunde": "5 - 6",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Str",
+    "lehrkraft": "<span>Str</span>, Str",
     "text": ""
   },
   {
@@ -646,7 +626,7 @@
     "klasse": "DaZ-a",
     "stunde": "4",
     "fach": "DaZ",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -656,7 +636,7 @@
     "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
-    "lehrkraft": "<span>---</span>, Gum",
+    "lehrkraft": "<span>Gum</span>, Gum",
     "text": ""
   },
   {
@@ -1073,6 +1053,16 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 8,
+    "klasse": "1 Sonnen",
+    "stunde": "1 - 2",
+    "fach": "Ma",
+    "lehrkraft": "Sv, <span>Vorw</span>",
+    "text": "+Frau Vorwig"
+  },
+  {
+    "gruppe": 2,
+    "datum": "02.10.2025",
+    "quelle_table_index": 8,
     "klasse": "2a",
     "stunde": "4",
     "fach": "Ma",
@@ -1086,7 +1076,7 @@
     "klasse": "2a Monde",
     "stunde": "1 - 2",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Sv</span>",
     "text": ""
   },
   {
@@ -1116,7 +1106,7 @@
     "klasse": "4b",
     "stunde": "6",
     "fach": "Mu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Dr</span>",
     "text": ""
   },
   {
@@ -1183,16 +1173,6 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 8,
-    "klasse": "6b",
-    "stunde": "2",
-    "fach": "Ma",
-    "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 8,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -1206,7 +1186,7 @@
     "klasse": "7a",
     "stunde": "5",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>, We",
+    "lehrkraft": "<span>We</span>, We",
     "text": ""
   },
   {
@@ -1226,7 +1206,7 @@
     "klasse": "7c",
     "stunde": "5",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Vo</span>",
     "text": ""
   },
   {
@@ -1246,7 +1226,7 @@
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Ka</span>",
     "text": ""
   },
   {
@@ -1256,27 +1236,7 @@
     "klasse": "9a",
     "stunde": "1",
     "fach": "WiPo",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "9a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "9a",
-    "stunde": "4",
-    "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Hu",
     "text": ""
   },
   {
@@ -1296,7 +1256,7 @@
     "klasse": "9f",
     "stunde": "5 - 6",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Str",
+    "lehrkraft": "<span>Str</span>, Str",
     "text": ""
   },
   {
@@ -1306,7 +1266,7 @@
     "klasse": "DaZ-a",
     "stunde": "4",
     "fach": "DaZ",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -1316,7 +1276,7 @@
     "klasse": "DaZ-a",
     "stunde": "5",
     "fach": "DaZ",
-    "lehrkraft": "<span>---</span>, Gum",
+    "lehrkraft": "<span>Gum</span>, Gum",
     "text": ""
   },
   {
@@ -1333,7 +1293,7 @@
     "gruppe": 1,
     "datum": "01.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
+    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1353,7 +1313,7 @@
     "gruppe": 1,
     "datum": "02.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
+    "klasse": "Klassen: 10b, 1 Sonnen, 2a, 2a Monde, 2b, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8a, 8b, 8c, 8f, 9a, 9f, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
