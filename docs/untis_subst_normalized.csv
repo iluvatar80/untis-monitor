@@ -1,46 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,02.10.2025,3,1 Sonnen,4 - 5,Sp,Th,Lauftag
-2,02.10.2025,3,2a Monde,4 - 5,Sp,Sv,Lauftag
-2,02.10.2025,3,3b,6,Ma,"Zi, <span>Zi</span>",
-2,02.10.2025,3,3c,5,Sach,"Hb, <span>Bon</span>, Bon",
-2,02.10.2025,3,3 Sterne,4 - 5,Sp,Ro,Lauftag
-2,02.10.2025,3,4b,6,Mu,<span>Dr</span>,
-2,02.10.2025,3,4 Kometen,4 - 5,Sp,Kä,Lauftag
-2,02.10.2025,3,"5a, 5b, 5c, 5d",5,Thea,"Sc, Lu, <span>Lu</span>, <span>Sa</span>, Sch",
-2,02.10.2025,3,"5a, 5b, 5c, 5d",6,Thea,"<span>Ro</span>, Sc, Lu, <span>Lu</span>, Sch",
-2,02.10.2025,3,"6a, 6b, 6c, 6d",5,Thea,<span>Wx</span>,
-2,02.10.2025,3,"6a, 6b, 6c, 6d",6,Thea,<span>Wx</span>,
-2,02.10.2025,3,7a,5,Deu,"<span>We</span>, We",
-2,02.10.2025,3,7a,6,WK,Bk,
-2,02.10.2025,3,7c,5,Eng,<span>Vo</span>,
-2,02.10.2025,3,9a,6,Eng,Bl,
-2,02.10.2025,3,9f,5 - 6,Ma,"Hu, Str",
-2,02.10.2025,3,9g,5 - 6,WPU,"<span>---</span>, HL",Vtr. ohne Lehrer
-2,02.10.2025,3,DaZ-a,5,DaZ,"<span>Gum</span>, Gum",
-2,02.10.2025,8,"10a, 10b",2,WPU,<span>---</span>,
-2,02.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Global,Bk,
-2,02.10.2025,8,1a,2,Deu,<span>---</span>,
-2,02.10.2025,8,1a,3,Leseband,<span>---</span>,
-2,02.10.2025,8,1a,4,Ku,<span>Zi</span>,
-2,02.10.2025,8,4a,2 - 6,,Sa,Workshop Kunst
-2,02.10.2025,8,5b,1,Nawi,Blu,
-2,02.10.2025,8,5b,2,KlR,<span>---</span>,
-2,02.10.2025,8,5b,3,Leseband,<span>---</span>,
-2,02.10.2025,8,5b,4,Eng,<span>---</span>,
-2,02.10.2025,8,5c,4,Ma,"<span>---</span>, Ws",
-2,02.10.2025,8,5c,5,KlR,<span>---</span>,
-2,02.10.2025,8,5c,6,Ku,<span>---</span>,
-2,02.10.2025,8,6a,5,Deu,"<span>---</span>, Nn",
-2,02.10.2025,8,6a,6,Ma,"<span>---</span>, Bä",
-2,02.10.2025,8,6c,5,Deu,"<span>---</span>, Gum",
-2,02.10.2025,8,6c,6,Eng,"<span>---</span>, Ti",
-2,02.10.2025,8,7a,1,KlR,Bk,
-2,02.10.2025,8,7a,2,WK,<span>---</span>,
-2,02.10.2025,8,7a,3,Leseband,<span>---</span>,
-2,02.10.2025,8,8b,5,Deu,<span>---</span>,
-2,02.10.2025,8,8c,4,Deu,"<span>Wu</span>, Wu",
-2,02.10.2025,8,9a,4,Deu,<span>Re</span>,
-2,02.10.2025,8,9b,4,Ma,<span>---</span>,
 2,03.10.2025,3,1 Sonnen,4 - 5,Sp,Th,Lauftag
 2,03.10.2025,3,2a Monde,4 - 5,Sp,Sv,Lauftag
 2,03.10.2025,3,3b,6,Ma,"Zi, <span>Zi</span>",
@@ -83,7 +41,5 @@
 2,03.10.2025,8,8c,4,Deu,"<span>Wu</span>, Wu",
 2,03.10.2025,8,9a,4,Deu,<span>Re</span>,
 2,03.10.2025,8,9b,4,Ma,<span>---</span>,
-1,02.10.2025,0,"Klassen: 1 Sonnen, 2a Monde, 3b, 3c, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 9a, 9f, 9g, DaZ-a",,,,
-1,02.10.2025,5,"Klassen: 10a, 10b, 1a, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
 1,03.10.2025,0,"Klassen: 1 Sonnen, 2a Monde, 3b, 3c, 3 Sterne, 4b, 4 Kometen, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 9a, 9f, 9g, DaZ-a",,,,
 1,03.10.2025,5,"Klassen: 10a, 10b, 1a, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
