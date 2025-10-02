@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-02T08:49:44",
+    "scraped_at": "2025-10-02T09:16:58",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -50,16 +50,6 @@
         "table_index": 3,
         "col_1": "1 Sonnen",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "1 Sonnen",
-        "col_5": "Sp",
-        "col_6": "Sv",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 3,
-        "col_1": "1 Sonnen",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "1 Sonnen, 2a Monde",
         "col_5": "Sp",
@@ -84,16 +74,6 @@
         "col_4": "2a",
         "col_5": "Ma",
         "col_6": "Dr, Dr",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "2a Monde",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "2a Monde",
-        "col_5": "Deu",
-        "col_6": "Sv",
         "col_7": ""
       },
       {
@@ -160,16 +140,6 @@
         "table_index": 3,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne",
-        "col_5": "Sp",
-        "col_6": "Ew",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 3,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne",
         "col_5": "Deu",
@@ -205,16 +175,6 @@
         "col_5": "Mu",
         "col_6": "Dr",
         "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "4 Kometen",
-        "col_5": "Sp",
-        "col_6": "Th",
-        "col_7": "Lauftag"
       },
       {
         "table_index": 3,
@@ -722,16 +682,6 @@
         "table_index": 4,
         "col_1": "1 Sonnen",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "1 Sonnen",
-        "col_5": "Sp",
-        "col_6": "Sv",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 4,
-        "col_1": "1 Sonnen",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "1 Sonnen, 2a Monde",
         "col_5": "Sp",
@@ -756,16 +706,6 @@
         "col_4": "2a",
         "col_5": "Ma",
         "col_6": "Dr, Dr",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "2a Monde",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "2a Monde",
-        "col_5": "Deu",
-        "col_6": "Sv",
         "col_7": ""
       },
       {
@@ -832,16 +772,6 @@
         "table_index": 4,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne",
-        "col_5": "Sp",
-        "col_6": "Ew",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 4,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne",
         "col_5": "Deu",
@@ -877,16 +807,6 @@
         "col_5": "Mu",
         "col_6": "Dr",
         "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "4 Kometen",
-        "col_5": "Sp",
-        "col_6": "Th",
-        "col_7": "Lauftag"
       },
       {
         "table_index": 4,
@@ -2294,16 +2214,6 @@
         "table_index": 3,
         "col_1": "1 Sonnen",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "1 Sonnen",
-        "col_5": "Sp",
-        "col_6": "Sv",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 3,
-        "col_1": "1 Sonnen",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "1 Sonnen, 2a Monde",
         "col_5": "Sp",
@@ -2328,16 +2238,6 @@
         "col_4": "2a",
         "col_5": "Ma",
         "col_6": "Dr, Dr",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "2a Monde",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "2a Monde",
-        "col_5": "Deu",
-        "col_6": "Sv",
         "col_7": ""
       },
       {
@@ -2404,16 +2304,6 @@
         "table_index": 3,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne",
-        "col_5": "Sp",
-        "col_6": "Ew",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 3,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne",
         "col_5": "Deu",
@@ -2449,16 +2339,6 @@
         "col_5": "Mu",
         "col_6": "Dr",
         "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "4 Kometen",
-        "col_5": "Sp",
-        "col_6": "Th",
-        "col_7": "Lauftag"
       },
       {
         "table_index": 3,
@@ -2966,16 +2846,6 @@
         "table_index": 4,
         "col_1": "1 Sonnen",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "1 Sonnen",
-        "col_5": "Sp",
-        "col_6": "Sv",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 4,
-        "col_1": "1 Sonnen",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "1 Sonnen, 2a Monde",
         "col_5": "Sp",
@@ -3000,16 +2870,6 @@
         "col_4": "2a",
         "col_5": "Ma",
         "col_6": "Dr, Dr",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "2a Monde",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "2a Monde",
-        "col_5": "Deu",
-        "col_6": "Sv",
         "col_7": ""
       },
       {
@@ -3076,16 +2936,6 @@
         "table_index": 4,
         "col_1": "3 Sterne",
         "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "3 Sterne",
-        "col_5": "Sp",
-        "col_6": "Ew",
-        "col_7": "Lauftag"
-      },
-      {
-        "table_index": 4,
-        "col_1": "3 Sterne",
-        "col_2": "",
         "col_3": "3 - 4",
         "col_4": "3 Sterne",
         "col_5": "Deu",
@@ -3121,16 +2971,6 @@
         "col_5": "Mu",
         "col_6": "Dr",
         "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "4 Kometen",
-        "col_2": "",
-        "col_3": "1 - 2",
-        "col_4": "4 Kometen",
-        "col_5": "Sp",
-        "col_6": "Th",
-        "col_7": "Lauftag"
       },
       {
         "table_index": 4,
@@ -4561,21 +4401,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "1 Sonnen",
-      "col_5": "Sp",
-      "col_6": "Sv",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 3,
-      "col_1": "1 Sonnen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "1 Sonnen, 2a Monde",
       "col_5": "Sp",
@@ -4610,21 +4435,6 @@
       "col_4": "2a",
       "col_5": "Ma",
       "col_6": "Dr, Dr",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "2a Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "2a Monde",
-      "col_5": "Deu",
-      "col_6": "Sv",
       "col_7": ""
     },
     {
@@ -4726,21 +4536,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne",
-      "col_5": "Sp",
-      "col_6": "Ew",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 3,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne",
       "col_5": "Deu",
@@ -4791,21 +4586,6 @@
       "col_5": "Mu",
       "col_6": "Dr",
       "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "4 Kometen",
-      "col_5": "Sp",
-      "col_6": "Th",
-      "col_7": "Lauftag"
     },
     {
       "table_index": 3,
@@ -5566,21 +5346,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "1 Sonnen",
-      "col_5": "Sp",
-      "col_6": "Sv",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 4,
-      "col_1": "1 Sonnen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "1 Sonnen, 2a Monde",
       "col_5": "Sp",
@@ -5615,21 +5380,6 @@
       "col_4": "2a",
       "col_5": "Ma",
       "col_6": "Dr, Dr",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "2a Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "2a Monde",
-      "col_5": "Deu",
-      "col_6": "Sv",
       "col_7": ""
     },
     {
@@ -5731,21 +5481,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne",
-      "col_5": "Sp",
-      "col_6": "Ew",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 4,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne",
       "col_5": "Deu",
@@ -5796,21 +5531,6 @@
       "col_5": "Mu",
       "col_6": "Dr",
       "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "4 Kometen",
-      "col_5": "Sp",
-      "col_6": "Th",
-      "col_7": "Lauftag"
     },
     {
       "table_index": 4,
@@ -7921,21 +7641,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "1 Sonnen",
-      "col_5": "Sp",
-      "col_6": "Sv",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 3,
-      "col_1": "1 Sonnen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "1 Sonnen, 2a Monde",
       "col_5": "Sp",
@@ -7970,21 +7675,6 @@
       "col_4": "2a",
       "col_5": "Ma",
       "col_6": "Dr, Dr",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "2a Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "2a Monde",
-      "col_5": "Deu",
-      "col_6": "Sv",
       "col_7": ""
     },
     {
@@ -8086,21 +7776,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne",
-      "col_5": "Sp",
-      "col_6": "Ew",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 3,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne",
       "col_5": "Deu",
@@ -8151,21 +7826,6 @@
       "col_5": "Mu",
       "col_6": "Dr",
       "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "4 Kometen",
-      "col_5": "Sp",
-      "col_6": "Th",
-      "col_7": "Lauftag"
     },
     {
       "table_index": 3,
@@ -8926,21 +8586,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "1 Sonnen",
-      "col_5": "Sp",
-      "col_6": "Sv",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 4,
-      "col_1": "1 Sonnen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "1 Sonnen, 2a Monde",
       "col_5": "Sp",
@@ -8975,21 +8620,6 @@
       "col_4": "2a",
       "col_5": "Ma",
       "col_6": "Dr, Dr",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "2a Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "2a Monde",
-      "col_5": "Deu",
-      "col_6": "Sv",
       "col_7": ""
     },
     {
@@ -9091,21 +8721,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "3 Sterne",
-      "col_5": "Sp",
-      "col_6": "Ew",
-      "col_7": "Lauftag"
-    },
-    {
-      "table_index": 4,
-      "col_1": "3 Sterne",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3 - 4",
       "col_4": "3 Sterne",
       "col_5": "Deu",
@@ -9156,21 +8771,6 @@
       "col_5": "Mu",
       "col_6": "Dr",
       "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "4 Kometen",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 2",
-      "col_4": "4 Kometen",
-      "col_5": "Sp",
-      "col_6": "Th",
-      "col_7": "Lauftag"
     },
     {
       "table_index": 4,

@@ -13,16 +13,6 @@
     "gruppe": 2,
     "datum": "02.10.2025",
     "quelle_table_index": 3,
-    "klasse": "1 Sonnen",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Sv",
-    "text": "Lauftag"
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1 Sonnen, 2a Monde",
     "stunde": "3 - 4",
     "fach": "Sp",
@@ -47,16 +37,6 @@
     "stunde": "4",
     "fach": "Ma",
     "lehrkraft": "Dr, <span>Dr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2a Monde",
-    "stunde": "1 - 2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Sv</span>",
     "text": ""
   },
   {
@@ -114,16 +94,6 @@
     "datum": "02.10.2025",
     "quelle_table_index": 3,
     "klasse": "3 Sterne",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Ew",
-    "text": "Lauftag"
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne",
     "stunde": "3 - 4",
     "fach": "Deu",
     "lehrkraft": "Ro",
@@ -158,16 +128,6 @@
     "fach": "Mu",
     "lehrkraft": "<span>Dr</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "02.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "4 Kometen",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Th",
-    "text": "Lauftag"
   },
   {
     "gruppe": 2,
@@ -683,16 +643,6 @@
     "gruppe": 2,
     "datum": "03.10.2025",
     "quelle_table_index": 3,
-    "klasse": "1 Sonnen",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Sv",
-    "text": "Lauftag"
-  },
-  {
-    "gruppe": 2,
-    "datum": "03.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1 Sonnen, 2a Monde",
     "stunde": "3 - 4",
     "fach": "Sp",
@@ -717,16 +667,6 @@
     "stunde": "4",
     "fach": "Ma",
     "lehrkraft": "Dr, <span>Dr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "03.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2a Monde",
-    "stunde": "1 - 2",
-    "fach": "Deu",
-    "lehrkraft": "<span>Sv</span>",
     "text": ""
   },
   {
@@ -784,16 +724,6 @@
     "datum": "03.10.2025",
     "quelle_table_index": 3,
     "klasse": "3 Sterne",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Ew",
-    "text": "Lauftag"
-  },
-  {
-    "gruppe": 2,
-    "datum": "03.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3 Sterne",
     "stunde": "3 - 4",
     "fach": "Deu",
     "lehrkraft": "Ro",
@@ -828,16 +758,6 @@
     "fach": "Mu",
     "lehrkraft": "<span>Dr</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "03.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "4 Kometen",
-    "stunde": "1 - 2",
-    "fach": "Sp",
-    "lehrkraft": "Th",
-    "text": "Lauftag"
   },
   {
     "gruppe": 2,
