@@ -24,39 +24,9 @@
     "datum": "06.10.2025",
     "quelle_table_index": 3,
     "klasse": "5c",
-    "stunde": "5",
-    "fach": "KlR",
-    "lehrkraft": "<span>Ws</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5c",
     "stunde": "6",
     "fach": "Ku",
     "lehrkraft": "Sa",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "5",
-    "fach": "Eng",
-    "lehrkraft": "<span>Wr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6a",
-    "stunde": "5",
-    "fach": "Deu",
-    "lehrkraft": "Nn, <span>Nn</span>",
     "text": ""
   },
   {
@@ -74,39 +44,9 @@
     "datum": "06.10.2025",
     "quelle_table_index": 3,
     "klasse": "6c",
-    "stunde": "5",
-    "fach": "Deu",
-    "lehrkraft": "Gum, <span>Gum</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
     "stunde": "6",
     "fach": "Eng",
     "lehrkraft": "Ti, <span>Ti</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
-    "stunde": "5",
-    "fach": "WPU",
-    "lehrkraft": "<span>Pü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8b",
-    "stunde": "5",
-    "fach": "Deu",
-    "lehrkraft": "<span>Dw</span>",
     "text": ""
   },
   {
@@ -117,26 +57,6 @@
     "stunde": "6",
     "fach": "Eng",
     "lehrkraft": "Li",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "5",
-    "fach": "Phy",
-    "lehrkraft": "<span>Ni</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9g",
-    "stunde": "5",
-    "fach": "Ma",
-    "lehrkraft": "Bä",
     "text": ""
   },
   {
