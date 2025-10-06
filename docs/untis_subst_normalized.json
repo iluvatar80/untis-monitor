@@ -74,16 +74,6 @@
     "datum": "06.10.2025",
     "quelle_table_index": 3,
     "klasse": "5b",
-    "stunde": "1",
-    "fach": "Nawi",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
     "stunde": "2",
     "fach": "KlR",
     "lehrkraft": "<span>Boe</span>",
@@ -224,16 +214,6 @@
     "datum": "06.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a",
-    "stunde": "1",
-    "fach": "KlR",
-    "lehrkraft": "Bk",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
     "stunde": "2",
     "fach": "WK",
     "lehrkraft": "<span>Nn</span>",
@@ -267,16 +247,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Wr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "06.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7c",
-    "stunde": "1",
-    "fach": "Eng",
-    "lehrkraft": "<span>Wu</span>, Wu",
     "text": ""
   },
   {
@@ -594,16 +564,6 @@
     "datum": "07.10.2025",
     "quelle_table_index": 3,
     "klasse": "5b",
-    "stunde": "1",
-    "fach": "Nawi",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "07.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
     "stunde": "2",
     "fach": "KlR",
     "lehrkraft": "<span>Boe</span>",
@@ -744,16 +704,6 @@
     "datum": "07.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a",
-    "stunde": "1",
-    "fach": "KlR",
-    "lehrkraft": "Bk",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "07.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
     "stunde": "2",
     "fach": "WK",
     "lehrkraft": "<span>Nn</span>",
@@ -787,16 +737,6 @@
     "stunde": "5",
     "fach": "WPU",
     "lehrkraft": "<span>Wr</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "07.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7c",
-    "stunde": "1",
-    "fach": "Eng",
-    "lehrkraft": "<span>Wu</span>, Wu",
     "text": ""
   },
   {
