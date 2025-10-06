@@ -406,7 +406,7 @@
     "klasse": "6d",
     "stunde": "1",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Ei",
     "text": ""
   },
   {
@@ -416,7 +416,7 @@
     "klasse": "7a",
     "stunde": "1",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Blu",
     "text": ""
   },
   {
@@ -486,7 +486,7 @@
     "klasse": "8b",
     "stunde": "6",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Bk",
     "text": ""
   },
   {
@@ -926,7 +926,7 @@
     "klasse": "6d",
     "stunde": "1",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Ei",
     "text": ""
   },
   {
@@ -936,7 +936,7 @@
     "klasse": "7a",
     "stunde": "1",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Blu",
     "text": ""
   },
   {
@@ -1006,7 +1006,7 @@
     "klasse": "8b",
     "stunde": "6",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Bk",
     "text": ""
   },
   {
