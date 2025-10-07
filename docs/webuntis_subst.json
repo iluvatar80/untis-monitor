@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-07T09:18:17",
+    "scraped_at": "2025-10-07T09:39:59",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -20,7 +20,7 @@
     "0": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, Hallig"
       }
     ],
     "1": [
@@ -180,16 +180,6 @@
         "table_index": 3,
         "col_1": "5d",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "WK",
-        "col_6": "Bb, Ma",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5d",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
@@ -264,16 +254,6 @@
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
         "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "7a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7a",
-        "col_5": "Nawi",
-        "col_6": "Ls",
         "col_7": ""
       },
       {
@@ -410,16 +390,6 @@
         "table_index": 3,
         "col_1": "8b",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8b",
-        "col_5": "Eng",
-        "col_6": "Hb",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
         "col_3": "3",
         "col_4": "8b",
         "col_5": "Leseband",
@@ -460,16 +430,6 @@
         "table_index": 3,
         "col_1": "9a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "9a",
-        "col_5": "Eng",
-        "col_6": "Wr",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "9a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "9a",
         "col_5": "WK",
@@ -485,16 +445,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9b",
-        "col_5": "Sp",
-        "col_6": "Hi",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -535,26 +485,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9g",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9g",
-        "col_5": "Deu",
-        "col_6": "Ri, Bon , Bon",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Gum , Gum",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -722,16 +652,6 @@
         "table_index": 4,
         "col_1": "5d",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "WK",
-        "col_6": "Bb, Ma",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5d",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
@@ -806,16 +726,6 @@
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
         "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "7a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7a",
-        "col_5": "Nawi",
-        "col_6": "Ls",
         "col_7": ""
       },
       {
@@ -952,16 +862,6 @@
         "table_index": 4,
         "col_1": "8b",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8b",
-        "col_5": "Eng",
-        "col_6": "Hb",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
         "col_3": "3",
         "col_4": "8b",
         "col_5": "Leseband",
@@ -1002,16 +902,6 @@
         "table_index": 4,
         "col_1": "9a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "9a",
-        "col_5": "Eng",
-        "col_6": "Wr",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "9a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "9a",
         "col_5": "WK",
@@ -1027,16 +917,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9b",
-        "col_5": "Sp",
-        "col_6": "Hi",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -1077,26 +957,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9g",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9g",
-        "col_5": "Deu",
-        "col_6": "Ri, Bon , Bon",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Gum , Gum",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -1464,7 +1324,7 @@
     "8": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, Hallig"
       }
     ],
     "9": [
@@ -1624,16 +1484,6 @@
         "table_index": 3,
         "col_1": "5d",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "WK",
-        "col_6": "Bb, Ma",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5d",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
@@ -1708,16 +1558,6 @@
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
         "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "7a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7a",
-        "col_5": "Nawi",
-        "col_6": "Ls",
         "col_7": ""
       },
       {
@@ -1854,16 +1694,6 @@
         "table_index": 3,
         "col_1": "8b",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8b",
-        "col_5": "Eng",
-        "col_6": "Hb",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
         "col_3": "3",
         "col_4": "8b",
         "col_5": "Leseband",
@@ -1904,16 +1734,6 @@
         "table_index": 3,
         "col_1": "9a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "9a",
-        "col_5": "Eng",
-        "col_6": "Wr",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "9a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "9a",
         "col_5": "WK",
@@ -1929,16 +1749,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9b",
-        "col_5": "Sp",
-        "col_6": "Hi",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -1979,26 +1789,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9g",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9g",
-        "col_5": "Deu",
-        "col_6": "Ri, Bon , Bon",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Gum , Gum",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -2166,16 +1956,6 @@
         "table_index": 4,
         "col_1": "5d",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "WK",
-        "col_6": "Bb, Ma",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5d",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5d",
         "col_5": "Leseband",
@@ -2250,16 +2030,6 @@
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
         "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "7a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7a",
-        "col_5": "Nawi",
-        "col_6": "Ls",
         "col_7": ""
       },
       {
@@ -2396,16 +2166,6 @@
         "table_index": 4,
         "col_1": "8b",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8b",
-        "col_5": "Eng",
-        "col_6": "Hb",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
         "col_3": "3",
         "col_4": "8b",
         "col_5": "Leseband",
@@ -2446,16 +2206,6 @@
         "table_index": 4,
         "col_1": "9a",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "9a",
-        "col_5": "Eng",
-        "col_6": "Wr",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "9a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "9a",
         "col_5": "WK",
@@ -2471,16 +2221,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9b",
-        "col_5": "Sp",
-        "col_6": "Hi",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -2521,26 +2261,6 @@
         "col_5": "Projektarbeit",
         "col_6": "--- , Gro, Ls, Re, Sn",
         "col_7": "Vtr. ohne Lehrer"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9g",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "9g",
-        "col_5": "Deu",
-        "col_6": "Ri, Bon , Bon",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "DaZ-a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "DaZ-a",
-        "col_5": "DaZ",
-        "col_6": "Gum , Gum",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -2909,7 +2629,7 @@
   "combined": [
     {
       "table_index": 0,
-      "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -3156,21 +2876,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "WK",
-      "col_6": "Bb, Ma",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
@@ -3280,21 +2985,6 @@
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
       "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "7a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7a",
-      "col_5": "Nawi",
-      "col_6": "Ls",
       "col_7": ""
     },
     {
@@ -3501,21 +3191,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8b",
-      "col_5": "Eng",
-      "col_6": "Hb",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "8b",
       "col_5": "Leseband",
@@ -3576,21 +3251,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9a",
-      "col_5": "Eng",
-      "col_6": "Wr",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "9a",
       "col_5": "WK",
@@ -3611,21 +3271,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9b",
-      "col_5": "Sp",
-      "col_6": "Hi",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -3686,36 +3331,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9g",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9g",
-      "col_5": "Deu",
-      "col_6": "Ri, Bon , Bon",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Gum , Gum",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -3966,21 +3581,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "WK",
-      "col_6": "Bb, Ma",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
@@ -4090,21 +3690,6 @@
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
       "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "7a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7a",
-      "col_5": "Nawi",
-      "col_6": "Ls",
       "col_7": ""
     },
     {
@@ -4311,21 +3896,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8b",
-      "col_5": "Eng",
-      "col_6": "Hb",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "8b",
       "col_5": "Leseband",
@@ -4386,21 +3956,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9a",
-      "col_5": "Eng",
-      "col_6": "Wr",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "9a",
       "col_5": "WK",
@@ -4421,21 +3976,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9b",
-      "col_5": "Sp",
-      "col_6": "Hi",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -4496,36 +4036,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9g",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9g",
-      "col_5": "Deu",
-      "col_6": "Ri, Bon , Bon",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Gum , Gum",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -5069,7 +4579,7 @@
     },
     {
       "table_index": 0,
-      "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10b, 1a, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 9a, 9b, 9c, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -5316,21 +4826,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "WK",
-      "col_6": "Bb, Ma",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
@@ -5440,21 +4935,6 @@
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
       "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "7a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7a",
-      "col_5": "Nawi",
-      "col_6": "Ls",
       "col_7": ""
     },
     {
@@ -5661,21 +5141,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8b",
-      "col_5": "Eng",
-      "col_6": "Hb",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "8b",
       "col_5": "Leseband",
@@ -5736,21 +5201,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9a",
-      "col_5": "Eng",
-      "col_6": "Wr",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "9a",
       "col_5": "WK",
@@ -5771,21 +5221,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9b",
-      "col_5": "Sp",
-      "col_6": "Hi",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -5846,36 +5281,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9g",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9g",
-      "col_5": "Deu",
-      "col_6": "Ri, Bon , Bon",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Gum , Gum",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -6126,21 +5531,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "WK",
-      "col_6": "Bb, Ma",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5d",
       "col_5": "Leseband",
@@ -6250,21 +5640,6 @@
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
       "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "7a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7a",
-      "col_5": "Nawi",
-      "col_6": "Ls",
       "col_7": ""
     },
     {
@@ -6471,21 +5846,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8b",
-      "col_5": "Eng",
-      "col_6": "Hb",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "8b",
       "col_5": "Leseband",
@@ -6546,21 +5906,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9a",
-      "col_5": "Eng",
-      "col_6": "Wr",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "9a",
       "col_5": "WK",
@@ -6581,21 +5926,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9b",
-      "col_5": "Sp",
-      "col_6": "Hi",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -6656,36 +5986,6 @@
       "col_5": "Projektarbeit",
       "col_6": "--- , Gro, Ls, Re, Sn",
       "col_7": "Vtr. ohne Lehrer"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9g",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "9g",
-      "col_5": "Deu",
-      "col_6": "Ri, Bon , Bon",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "DaZ-a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "DaZ-a",
-      "col_5": "DaZ",
-      "col_6": "Gum , Gum",
-      "col_7": ""
     },
     {
       "table_index": 4,
