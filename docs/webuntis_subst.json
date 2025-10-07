@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-07T06:43:47",
+    "scraped_at": "2025-10-07T07:19:00",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -90,10 +90,40 @@
         "table_index": 3,
         "col_1": "5a",
         "col_2": "",
+        "col_3": "3",
+        "col_4": "5a",
+        "col_5": "Leseband",
+        "col_6": "Sc, Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Deu",
+        "col_6": "Sch, Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "5a",
+        "col_5": "Ma",
+        "col_6": "Hu, Hu",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -123,7 +153,7 @@
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -143,7 +173,7 @@
         "col_3": "6",
         "col_4": "5c",
         "col_5": "Eng",
-        "col_6": "--- , Ca",
+        "col_6": "Ca, Ca",
         "col_7": ""
       },
       {
@@ -173,7 +203,7 @@
         "col_3": "5",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -193,7 +223,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -203,7 +233,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -233,7 +263,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -253,7 +283,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -303,7 +333,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -333,7 +363,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -373,7 +403,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -633,7 +663,7 @@
         "col_3": "4 - 5",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -643,7 +673,7 @@
         "col_3": "6",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       }
     ],
@@ -702,10 +732,40 @@
         "table_index": 4,
         "col_1": "5a",
         "col_2": "",
+        "col_3": "3",
+        "col_4": "5a",
+        "col_5": "Leseband",
+        "col_6": "Sc, Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Deu",
+        "col_6": "Sch, Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "5a",
+        "col_5": "Ma",
+        "col_6": "Hu, Hu",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -735,7 +795,7 @@
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -755,7 +815,7 @@
         "col_3": "6",
         "col_4": "5c",
         "col_5": "Eng",
-        "col_6": "--- , Ca",
+        "col_6": "Ca, Ca",
         "col_7": ""
       },
       {
@@ -785,7 +845,7 @@
         "col_3": "5",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -805,7 +865,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -815,7 +875,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -845,7 +905,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -865,7 +925,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -915,7 +975,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -945,7 +1005,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -985,7 +1045,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -1245,7 +1305,7 @@
         "col_3": "4 - 5",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -1255,7 +1315,7 @@
         "col_3": "6",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       }
     ],
@@ -1674,10 +1734,40 @@
         "table_index": 3,
         "col_1": "5a",
         "col_2": "",
+        "col_3": "3",
+        "col_4": "5a",
+        "col_5": "Leseband",
+        "col_6": "Sc, Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Deu",
+        "col_6": "Sch, Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "5a",
+        "col_5": "Ma",
+        "col_6": "Hu, Hu",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
+        "col_1": "5a",
+        "col_2": "",
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -1707,7 +1797,7 @@
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -1727,7 +1817,7 @@
         "col_3": "6",
         "col_4": "5c",
         "col_5": "Eng",
-        "col_6": "--- , Ca",
+        "col_6": "Ca, Ca",
         "col_7": ""
       },
       {
@@ -1757,7 +1847,7 @@
         "col_3": "5",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -1777,7 +1867,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -1787,7 +1877,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -1817,7 +1907,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -1837,7 +1927,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -1887,7 +1977,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -1917,7 +2007,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -1957,7 +2047,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -2217,7 +2307,7 @@
         "col_3": "4 - 5",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -2227,7 +2317,7 @@
         "col_3": "6",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       }
     ],
@@ -2286,10 +2376,40 @@
         "table_index": 4,
         "col_1": "5a",
         "col_2": "",
+        "col_3": "3",
+        "col_4": "5a",
+        "col_5": "Leseband",
+        "col_6": "Sc, Sc",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "5a",
+        "col_5": "Deu",
+        "col_6": "Sch, Sch",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "5a",
+        "col_5": "Ma",
+        "col_6": "Hu, Hu",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
+        "col_1": "5a",
+        "col_2": "",
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -2319,7 +2439,7 @@
         "col_3": "6",
         "col_4": "5a, 5b",
         "col_5": "Schw",
-        "col_6": "---",
+        "col_6": "Vo",
         "col_7": ""
       },
       {
@@ -2339,7 +2459,7 @@
         "col_3": "6",
         "col_4": "5c",
         "col_5": "Eng",
-        "col_6": "--- , Ca",
+        "col_6": "Ca, Ca",
         "col_7": ""
       },
       {
@@ -2369,7 +2489,7 @@
         "col_3": "5",
         "col_4": "5d",
         "col_5": "Ma",
-        "col_6": "--- , Sr",
+        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -2389,7 +2509,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -2399,7 +2519,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -2429,7 +2549,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -2449,7 +2569,7 @@
         "col_3": "6",
         "col_4": "6a, 6b, 6c, 6d",
         "col_5": "DaZ Auf",
-        "col_6": "---",
+        "col_6": "Li",
         "col_7": ""
       },
       {
@@ -2499,7 +2619,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -2529,7 +2649,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -2569,7 +2689,7 @@
         "col_3": "5",
         "col_4": "7a, 7b, 7c",
         "col_5": "WPU",
-        "col_6": "---",
+        "col_6": "Klü",
         "col_7": ""
       },
       {
@@ -2829,7 +2949,7 @@
         "col_3": "4 - 5",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -2839,7 +2959,7 @@
         "col_3": "6",
         "col_4": "Hallig",
         "col_5": "Hallig",
-        "col_6": "---",
+        "col_6": "Boe",
         "col_7": ""
       }
     ],
@@ -3301,10 +3421,55 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "5a",
+      "col_5": "Leseband",
+      "col_6": "Sc, Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Deu",
+      "col_6": "Sch, Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "5a",
+      "col_5": "Ma",
+      "col_6": "Hu, Hu",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -3349,7 +3514,7 @@
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -3379,7 +3544,7 @@
       "col_3": "6",
       "col_4": "5c",
       "col_5": "Eng",
-      "col_6": "--- , Ca",
+      "col_6": "Ca, Ca",
       "col_7": ""
     },
     {
@@ -3424,7 +3589,7 @@
       "col_3": "5",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -3454,7 +3619,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -3469,7 +3634,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -3514,7 +3679,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -3544,7 +3709,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -3619,7 +3784,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -3664,7 +3829,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -3724,7 +3889,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -4114,7 +4279,7 @@
       "col_3": "4 - 5",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -4129,7 +4294,7 @@
       "col_3": "6",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -4216,10 +4381,55 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "5a",
+      "col_5": "Leseband",
+      "col_6": "Sc, Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Deu",
+      "col_6": "Sch, Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "5a",
+      "col_5": "Ma",
+      "col_6": "Hu, Hu",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -4264,7 +4474,7 @@
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -4294,7 +4504,7 @@
       "col_3": "6",
       "col_4": "5c",
       "col_5": "Eng",
-      "col_6": "--- , Ca",
+      "col_6": "Ca, Ca",
       "col_7": ""
     },
     {
@@ -4339,7 +4549,7 @@
       "col_3": "5",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -4369,7 +4579,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -4384,7 +4594,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -4429,7 +4639,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -4459,7 +4669,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -4534,7 +4744,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -4579,7 +4789,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -4639,7 +4849,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -5029,7 +5239,7 @@
       "col_3": "4 - 5",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -5044,7 +5254,7 @@
       "col_3": "6",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -5671,10 +5881,55 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "5a",
+      "col_5": "Leseband",
+      "col_6": "Sc, Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Deu",
+      "col_6": "Sch, Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "5a",
+      "col_5": "Ma",
+      "col_6": "Hu, Hu",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -5719,7 +5974,7 @@
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -5749,7 +6004,7 @@
       "col_3": "6",
       "col_4": "5c",
       "col_5": "Eng",
-      "col_6": "--- , Ca",
+      "col_6": "Ca, Ca",
       "col_7": ""
     },
     {
@@ -5794,7 +6049,7 @@
       "col_3": "5",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -5824,7 +6079,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -5839,7 +6094,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -5884,7 +6139,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -5914,7 +6169,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -5989,7 +6244,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -6034,7 +6289,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -6094,7 +6349,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -6484,7 +6739,7 @@
       "col_3": "4 - 5",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -6499,7 +6754,7 @@
       "col_3": "6",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -6586,10 +6841,55 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "5a",
+      "col_5": "Leseband",
+      "col_6": "Sc, Sc",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "5a",
+      "col_5": "Deu",
+      "col_6": "Sch, Sch",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "5a",
+      "col_5": "Ma",
+      "col_6": "Hu, Hu",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
+      "col_1": "5a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -6634,7 +6934,7 @@
       "col_3": "6",
       "col_4": "5a, 5b",
       "col_5": "Schw",
-      "col_6": "---",
+      "col_6": "Vo",
       "col_7": ""
     },
     {
@@ -6664,7 +6964,7 @@
       "col_3": "6",
       "col_4": "5c",
       "col_5": "Eng",
-      "col_6": "--- , Ca",
+      "col_6": "Ca, Ca",
       "col_7": ""
     },
     {
@@ -6709,7 +7009,7 @@
       "col_3": "5",
       "col_4": "5d",
       "col_5": "Ma",
-      "col_6": "--- , Sr",
+      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -6739,7 +7039,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -6754,7 +7054,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -6799,7 +7099,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -6829,7 +7129,7 @@
       "col_3": "6",
       "col_4": "6a, 6b, 6c, 6d",
       "col_5": "DaZ Auf",
-      "col_6": "---",
+      "col_6": "Li",
       "col_7": ""
     },
     {
@@ -6904,7 +7204,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -6949,7 +7249,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -7009,7 +7309,7 @@
       "col_3": "5",
       "col_4": "7a, 7b, 7c",
       "col_5": "WPU",
-      "col_6": "---",
+      "col_6": "Klü",
       "col_7": ""
     },
     {
@@ -7399,7 +7699,7 @@
       "col_3": "4 - 5",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -7414,7 +7714,7 @@
       "col_3": "6",
       "col_4": "Hallig",
       "col_5": "Hallig",
-      "col_6": "---",
+      "col_6": "Boe",
       "col_7": ""
     },
     {
