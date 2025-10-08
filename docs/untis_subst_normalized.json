@@ -13,76 +13,6 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5b",
-    "stunde": "6",
-    "fach": "Nawi",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "6",
-    "fach": "WK",
-    "lehrkraft": "<span>Bb</span>, Bb",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "6",
-    "fach": "Ku",
-    "lehrkraft": "Ti",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "5 - 6",
-    "fach": "Eng",
-    "lehrkraft": "Gr, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "6",
-    "fach": "Eng",
-    "lehrkraft": "Bl",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9b",
-    "stunde": "6",
-    "fach": "Deu",
-    "lehrkraft": "<span>Lt</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "6",
-    "fach": "Sp",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 8,
     "klasse": "10b",
     "stunde": "1",
     "fach": "Ku",
@@ -92,7 +22,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "2b",
     "stunde": "3",
     "fach": "Leseband",
@@ -102,7 +32,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "3a",
     "stunde": "5",
     "fach": "Ma",
@@ -112,7 +42,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "4b",
     "stunde": "4",
     "fach": "Eng",
@@ -122,7 +52,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5a, 5b, 5c, 5d",
     "stunde": "4 - 5",
     "fach": "Thea",
@@ -132,7 +62,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5a, 5b, 5c, 5d",
     "stunde": "6",
     "fach": "Thea",
@@ -142,7 +72,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "3",
     "fach": "Leseband",
@@ -152,7 +82,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5c",
     "stunde": "3",
     "fach": "Leseband",
@@ -162,7 +92,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "2",
     "fach": "Ma",
@@ -172,7 +102,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
@@ -182,7 +112,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "1",
     "fach": "DaZ Auf",
@@ -192,7 +122,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "4 - 5",
     "fach": "Thea",
@@ -202,7 +132,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "6",
     "fach": "Thea",
@@ -212,7 +142,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "2",
     "fach": "Ma",
@@ -222,7 +152,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -232,7 +162,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "5",
     "fach": "Deu",
@@ -242,7 +172,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "6",
     "fach": "WK",
@@ -252,7 +182,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7b",
     "stunde": "2",
     "fach": "Nawi",
@@ -262,7 +192,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7c",
     "stunde": "2",
     "fach": "IT",
@@ -272,7 +202,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7c",
     "stunde": "5",
     "fach": "Eng",
@@ -282,7 +212,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "1",
     "fach": "DaZ Auf",
@@ -292,7 +222,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "2",
     "fach": "WPU",
@@ -302,7 +232,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "3",
     "fach": "Leseband",
@@ -312,7 +242,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "4",
     "fach": "Nawi",
@@ -322,7 +252,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "5",
     "fach": "WK",
@@ -332,7 +262,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8c",
     "stunde": "4",
     "fach": "Eng",
@@ -342,7 +272,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
@@ -352,7 +282,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "3",
     "fach": "Leseband",
@@ -362,7 +292,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "4",
     "fach": "Ma",
@@ -372,7 +302,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "6",
     "fach": "Eng",
@@ -382,7 +312,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "3",
     "fach": "Leseband",
@@ -392,7 +322,7 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "5",
     "fach": "Rel",
@@ -402,10 +332,110 @@
   {
     "gruppe": 2,
     "datum": "08.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "6",
     "fach": "WK",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5b",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "4",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Sr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "4",
+    "fach": "Nawi",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "5",
+    "fach": "IT",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "Blu",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b",
+    "stunde": "5",
+    "fach": "KlR",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9b",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "4 - 5",
+    "fach": "Hallig",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "6",
+    "fach": "Hallig",
     "lehrkraft": "<span>---</span>",
     "text": ""
   },
@@ -423,76 +453,6 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5b",
-    "stunde": "6",
-    "fach": "Nawi",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "6",
-    "fach": "WK",
-    "lehrkraft": "<span>Bb</span>, Bb",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "6",
-    "fach": "Ku",
-    "lehrkraft": "Ti",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
-    "stunde": "5 - 6",
-    "fach": "Eng",
-    "lehrkraft": "Gr, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "6",
-    "fach": "Eng",
-    "lehrkraft": "Bl",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9b",
-    "stunde": "6",
-    "fach": "Deu",
-    "lehrkraft": "<span>Lt</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
-    "stunde": "6",
-    "fach": "Sp",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 8,
     "klasse": "10b",
     "stunde": "1",
     "fach": "Ku",
@@ -502,7 +462,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "2b",
     "stunde": "3",
     "fach": "Leseband",
@@ -512,7 +472,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "3a",
     "stunde": "5",
     "fach": "Ma",
@@ -522,7 +482,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "4b",
     "stunde": "4",
     "fach": "Eng",
@@ -532,7 +492,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5a, 5b, 5c, 5d",
     "stunde": "4 - 5",
     "fach": "Thea",
@@ -542,7 +502,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5a, 5b, 5c, 5d",
     "stunde": "6",
     "fach": "Thea",
@@ -552,7 +512,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "3",
     "fach": "Leseband",
@@ -562,7 +522,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5c",
     "stunde": "3",
     "fach": "Leseband",
@@ -572,7 +532,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "2",
     "fach": "Ma",
@@ -582,7 +542,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "3",
     "fach": "Leseband",
@@ -592,7 +552,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "1",
     "fach": "DaZ Auf",
@@ -602,7 +562,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "4 - 5",
     "fach": "Thea",
@@ -612,7 +572,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6a, 6b, 6c, 6d",
     "stunde": "6",
     "fach": "Thea",
@@ -622,7 +582,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "2",
     "fach": "Ma",
@@ -632,7 +592,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -642,7 +602,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "5",
     "fach": "Deu",
@@ -652,7 +612,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "6",
     "fach": "WK",
@@ -662,7 +622,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7b",
     "stunde": "2",
     "fach": "Nawi",
@@ -672,7 +632,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7c",
     "stunde": "2",
     "fach": "IT",
@@ -682,7 +642,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "7c",
     "stunde": "5",
     "fach": "Eng",
@@ -692,7 +652,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "1",
     "fach": "DaZ Auf",
@@ -702,7 +662,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "2",
     "fach": "WPU",
@@ -712,7 +672,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "3",
     "fach": "Leseband",
@@ -722,7 +682,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "4",
     "fach": "Nawi",
@@ -732,7 +692,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8b",
     "stunde": "5",
     "fach": "WK",
@@ -742,7 +702,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "8c",
     "stunde": "4",
     "fach": "Eng",
@@ -752,7 +712,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
@@ -762,7 +722,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "3",
     "fach": "Leseband",
@@ -772,7 +732,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "4",
     "fach": "Ma",
@@ -782,7 +742,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "6",
     "fach": "Eng",
@@ -792,7 +752,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "3",
     "fach": "Leseband",
@@ -802,7 +762,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "5",
     "fach": "Rel",
@@ -812,7 +772,7 @@
   {
     "gruppe": 2,
     "datum": "09.10.2025",
-    "quelle_table_index": 8,
+    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "6",
     "fach": "WK",
@@ -820,10 +780,110 @@
     "text": ""
   },
   {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5b",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "4",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "5d",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Sr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "4",
+    "fach": "Nawi",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "5",
+    "fach": "IT",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "6",
+    "fach": "Eng",
+    "lehrkraft": "Blu",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b",
+    "stunde": "5",
+    "fach": "KlR",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9b",
+    "stunde": "2",
+    "fach": "Eng",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "4 - 5",
+    "fach": "Hallig",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "Hallig",
+    "stunde": "6",
+    "fach": "Hallig",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
     "gruppe": 1,
     "datum": "08.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 5b, 5d, 6c, 8f, 9a, 9b, 9c",
+    "klasse": "Klassen: 10b, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -833,7 +893,7 @@
     "gruppe": 1,
     "datum": "08.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",
+    "klasse": "Klassen: 5b, 5d, 7a, 7b, 9b, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -843,7 +903,7 @@
     "gruppe": 1,
     "datum": "09.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 5b, 5d, 6c, 8f, 9a, 9b, 9c",
+    "klasse": "Klassen: 10b, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -853,7 +913,7 @@
     "gruppe": 1,
     "datum": "09.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10b, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",
+    "klasse": "Klassen: 5b, 5d, 7a, 7b, 9b, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
