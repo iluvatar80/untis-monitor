@@ -23,26 +23,6 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "Sc, Schn",
-    "text": "nachholen"
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Klü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "6",
     "fach": "Nawi",
@@ -53,10 +33,10 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ni</span>",
+    "klasse": "5c",
+    "stunde": "5",
+    "fach": "Eng",
+    "lehrkraft": "Ca, <span>Ca</span>",
     "text": ""
   },
   {
@@ -94,16 +74,6 @@
     "datum": "08.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Kt</span>, Kt",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
     "stunde": "4",
     "fach": "Eng",
     "lehrkraft": "<span>We</span>",
@@ -114,19 +84,9 @@
     "datum": "08.10.2025",
     "quelle_table_index": 3,
     "klasse": "8f",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>HL</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
     "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Gr</span>",
+    "fach": "WK",
+    "lehrkraft": "<span>Hu</span>",
     "text": ""
   },
   {
@@ -194,29 +154,9 @@
     "datum": "08.10.2025",
     "quelle_table_index": 3,
     "klasse": "9c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Pü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
     "stunde": "6",
     "fach": "Sp",
     "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9f",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Str</span>",
     "text": ""
   },
   {
@@ -373,6 +313,16 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 8,
+    "klasse": "6b",
+    "stunde": "2",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -436,7 +386,7 @@
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "1",
     "fach": "DaZ Auf",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Bl",
     "text": ""
   },
   {
@@ -496,6 +446,26 @@
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "08.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "4",
+    "fach": "Ma",
     "lehrkraft": "<span>---</span>",
     "text": ""
   },
@@ -563,26 +533,6 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "Sc, Schn",
-    "text": "nachholen"
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Klü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "6",
     "fach": "Nawi",
@@ -593,10 +543,10 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ni</span>",
+    "klasse": "5c",
+    "stunde": "5",
+    "fach": "Eng",
+    "lehrkraft": "Ca, <span>Ca</span>",
     "text": ""
   },
   {
@@ -634,16 +584,6 @@
     "datum": "09.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Kt</span>, Kt",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
     "stunde": "4",
     "fach": "Eng",
     "lehrkraft": "<span>We</span>",
@@ -654,19 +594,9 @@
     "datum": "09.10.2025",
     "quelle_table_index": 3,
     "klasse": "8f",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>HL</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8f",
     "stunde": "4",
-    "fach": "Eng",
-    "lehrkraft": "<span>Gr</span>",
+    "fach": "WK",
+    "lehrkraft": "<span>Hu</span>",
     "text": ""
   },
   {
@@ -734,29 +664,9 @@
     "datum": "09.10.2025",
     "quelle_table_index": 3,
     "klasse": "9c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Pü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9c",
     "stunde": "6",
     "fach": "Sp",
     "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9f",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Str</span>",
     "text": ""
   },
   {
@@ -913,6 +823,16 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 8,
+    "klasse": "6b",
+    "stunde": "2",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
     "klasse": "7a",
     "stunde": "3",
     "fach": "Leseband",
@@ -976,7 +896,7 @@
     "klasse": "8a, 8b, 8c, 8f",
     "stunde": "1",
     "fach": "DaZ Auf",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Bl",
     "text": ""
   },
   {
@@ -1044,6 +964,26 @@
     "datum": "09.10.2025",
     "quelle_table_index": 8,
     "klasse": "9a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "09.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "9a",
     "stunde": "6",
     "fach": "Eng",
     "lehrkraft": "<span>---</span>",
@@ -1083,7 +1023,7 @@
     "gruppe": 1,
     "datum": "08.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 5a, 5b, 5d, 6c, 7a, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 10b, 5b, 5c, 5d, 6c, 7a, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1103,7 +1043,7 @@
     "gruppe": 1,
     "datum": "09.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 5a, 5b, 5d, 6c, 7a, 8f, 9a, 9b, 9c, 9f, 9g",
+    "klasse": "Klassen: 10a, 10b, 5b, 5c, 5d, 6c, 7a, 8f, 9a, 9b, 9c, 9f, 9g",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
