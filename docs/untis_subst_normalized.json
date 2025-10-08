@@ -13,16 +13,6 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "5",
-    "fach": "WiPo",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "6",
     "fach": "Nawi",
@@ -33,30 +23,10 @@
     "gruppe": 2,
     "datum": "08.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5c",
-    "stunde": "5",
-    "fach": "Eng",
-    "lehrkraft": "Ca, <span>Ca</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "6",
     "fach": "WK",
     "lehrkraft": "<span>Bb</span>, Bb",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "5",
-    "fach": "WK",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -77,16 +47,6 @@
     "stunde": "5 - 6",
     "fach": "Eng",
     "lehrkraft": "Gr, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "5",
-    "fach": "Deu",
-    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -117,16 +77,6 @@
     "stunde": "6",
     "fach": "Sp",
     "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "08.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9g",
-    "stunde": "5",
-    "fach": "VBL",
-    "lehrkraft": "Rr",
     "text": ""
   },
   {
@@ -473,16 +423,6 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "5",
-    "fach": "WiPo",
-    "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5b",
     "stunde": "6",
     "fach": "Nawi",
@@ -493,30 +433,10 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "5c",
-    "stunde": "5",
-    "fach": "Eng",
-    "lehrkraft": "Ca, <span>Ca</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
     "klasse": "5d",
     "stunde": "6",
     "fach": "WK",
     "lehrkraft": "<span>Bb</span>, Bb",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "6c",
-    "stunde": "5",
-    "fach": "WK",
-    "lehrkraft": "<span>Ni</span>",
     "text": ""
   },
   {
@@ -537,16 +457,6 @@
     "stunde": "5 - 6",
     "fach": "Eng",
     "lehrkraft": "Gr, Rr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9a",
-    "stunde": "5",
-    "fach": "Deu",
-    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -577,16 +487,6 @@
     "stunde": "6",
     "fach": "Sp",
     "lehrkraft": "Vo",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9g",
-    "stunde": "5",
-    "fach": "VBL",
-    "lehrkraft": "Rr",
     "text": ""
   },
   {
@@ -923,7 +823,7 @@
     "gruppe": 1,
     "datum": "08.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10b, 5b, 5c, 5d, 6c, 8f, 9a, 9b, 9c, 9g",
+    "klasse": "Klassen: 5b, 5d, 6c, 8f, 9a, 9b, 9c",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -943,7 +843,7 @@
     "gruppe": 1,
     "datum": "09.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10b, 5b, 5c, 5d, 6c, 8f, 9a, 9b, 9c, 9g",
+    "klasse": "Klassen: 5b, 5d, 6c, 8f, 9a, 9b, 9c",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
