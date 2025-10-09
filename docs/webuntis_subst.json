@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-09T09:19:36",
+    "scraped_at": "2025-10-09T09:39:54",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -20,7 +20,7 @@
     "0": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a"
+        "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a"
       }
     ],
     "1": [
@@ -190,16 +190,6 @@
         "table_index": 3,
         "col_1": "5c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5c",
-        "col_5": "Deu",
-        "col_6": "Nn , Nn",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5c",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5c",
         "col_5": "Leseband",
@@ -224,16 +214,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Wr, Gum , Sch , Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -268,16 +248,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "6b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "6b",
-        "col_5": "Ma",
-        "col_6": "Ri",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "7a",
         "col_2": "",
         "col_3": "3",
@@ -308,52 +278,12 @@
       },
       {
         "table_index": 3,
-        "col_1": "7b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7b",
-        "col_5": "Nawi",
-        "col_6": "Ka",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "7c",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7c",
-        "col_5": "IT",
-        "col_6": "Ca",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "7c",
         "col_2": "",
         "col_3": "5",
         "col_4": "7c",
         "col_5": "Eng",
         "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -390,30 +320,10 @@
         "table_index": 3,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
         "col_3": "4",
         "col_4": "8c",
         "col_5": "Eng",
         "col_6": "We",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -672,16 +582,6 @@
         "table_index": 4,
         "col_1": "5c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5c",
-        "col_5": "Deu",
-        "col_6": "Nn , Nn",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5c",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5c",
         "col_5": "Leseband",
@@ -706,16 +606,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Wr, Gum , Sch , Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -750,16 +640,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "6b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "6b",
-        "col_5": "Ma",
-        "col_6": "Ri",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "7a",
         "col_2": "",
         "col_3": "3",
@@ -790,52 +670,12 @@
       },
       {
         "table_index": 4,
-        "col_1": "7b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7b",
-        "col_5": "Nawi",
-        "col_6": "Ka",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "7c",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7c",
-        "col_5": "IT",
-        "col_6": "Ca",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "7c",
         "col_2": "",
         "col_3": "5",
         "col_4": "7c",
         "col_5": "Eng",
         "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -872,30 +712,10 @@
         "table_index": 4,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
         "col_3": "4",
         "col_4": "8c",
         "col_5": "Eng",
         "col_6": "We",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -1344,7 +1164,7 @@
     "8": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a"
+        "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a"
       }
     ],
     "9": [
@@ -1514,16 +1334,6 @@
         "table_index": 3,
         "col_1": "5c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5c",
-        "col_5": "Deu",
-        "col_6": "Nn , Nn",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5c",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5c",
         "col_5": "Leseband",
@@ -1548,16 +1358,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Wr, Gum , Sch , Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -1592,16 +1392,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "6b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "6b",
-        "col_5": "Ma",
-        "col_6": "Ri",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "7a",
         "col_2": "",
         "col_3": "3",
@@ -1632,52 +1422,12 @@
       },
       {
         "table_index": 3,
-        "col_1": "7b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7b",
-        "col_5": "Nawi",
-        "col_6": "Ka",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "7c",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7c",
-        "col_5": "IT",
-        "col_6": "Ca",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "7c",
         "col_2": "",
         "col_3": "5",
         "col_4": "7c",
         "col_5": "Eng",
         "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -1714,30 +1464,10 @@
         "table_index": 3,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
         "col_3": "4",
         "col_4": "8c",
         "col_5": "Eng",
         "col_6": "We",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -1996,16 +1726,6 @@
         "table_index": 4,
         "col_1": "5c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "5c",
-        "col_5": "Deu",
-        "col_6": "Nn , Nn",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5c",
-        "col_2": "",
         "col_3": "3",
         "col_4": "5c",
         "col_5": "Leseband",
@@ -2030,16 +1750,6 @@
         "col_4": "5a, 5b, 5c, 5d",
         "col_5": "Thea",
         "col_6": "Sc, Wr, Gum , Sch , Sch",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "5d",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "5d",
-        "col_5": "Ma",
-        "col_6": "Sr , Sr",
         "col_7": ""
       },
       {
@@ -2074,16 +1784,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "6b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "6b",
-        "col_5": "Ma",
-        "col_6": "Ri",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "7a",
         "col_2": "",
         "col_3": "3",
@@ -2114,52 +1814,12 @@
       },
       {
         "table_index": 4,
-        "col_1": "7b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7b",
-        "col_5": "Nawi",
-        "col_6": "Ka",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "7c",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "7c",
-        "col_5": "IT",
-        "col_6": "Ca",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "7c",
         "col_2": "",
         "col_3": "5",
         "col_4": "7c",
         "col_5": "Eng",
         "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -2196,30 +1856,10 @@
         "table_index": 4,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
         "col_3": "4",
         "col_4": "8c",
         "col_5": "Eng",
         "col_6": "We",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "2",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "WPU",
-        "col_6": "Boe",
         "col_7": ""
       },
       {
@@ -2669,7 +2309,7 @@
   "combined": [
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
+      "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -2931,21 +2571,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5c",
-      "col_5": "Deu",
-      "col_6": "Nn , Nn",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5c",
       "col_5": "Leseband",
@@ -2980,21 +2605,6 @@
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
       "col_6": "Sc, Wr, Gum , Sch , Sch",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -3044,21 +2654,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "6b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "6b",
-      "col_5": "Ma",
-      "col_6": "Ri",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "7a",
       "col_2": "",
       "Stunde": null,
@@ -3104,36 +2699,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "7b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7b",
-      "col_5": "Nawi",
-      "col_6": "Ka",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "7c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7c",
-      "col_5": "IT",
-      "col_6": "Ca",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "7c",
       "col_2": "",
       "Stunde": null,
@@ -3145,36 +2710,6 @@
       "col_4": "7c",
       "col_5": "Eng",
       "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -3231,40 +2766,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "8c",
       "col_5": "Eng",
       "col_6": "We",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -3651,21 +3156,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5c",
-      "col_5": "Deu",
-      "col_6": "Nn , Nn",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5c",
       "col_5": "Leseband",
@@ -3700,21 +3190,6 @@
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
       "col_6": "Sc, Wr, Gum , Sch , Sch",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -3764,21 +3239,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "6b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "6b",
-      "col_5": "Ma",
-      "col_6": "Ri",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "7a",
       "col_2": "",
       "Stunde": null,
@@ -3824,36 +3284,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "7b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7b",
-      "col_5": "Nawi",
-      "col_6": "Ka",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "7c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7c",
-      "col_5": "IT",
-      "col_6": "Ca",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "7c",
       "col_2": "",
       "Stunde": null,
@@ -3865,36 +3295,6 @@
       "col_4": "7c",
       "col_5": "Eng",
       "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -3951,40 +3351,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "8c",
       "col_5": "Eng",
       "col_6": "We",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -4649,7 +4019,7 @@
     },
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
+      "col_1": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 7a, 7c, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -4911,21 +4281,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5c",
-      "col_5": "Deu",
-      "col_6": "Nn , Nn",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5c",
       "col_5": "Leseband",
@@ -4960,21 +4315,6 @@
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
       "col_6": "Sc, Wr, Gum , Sch , Sch",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -5024,21 +4364,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "6b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "6b",
-      "col_5": "Ma",
-      "col_6": "Ri",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "7a",
       "col_2": "",
       "Stunde": null,
@@ -5084,36 +4409,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "7b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7b",
-      "col_5": "Nawi",
-      "col_6": "Ka",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "7c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7c",
-      "col_5": "IT",
-      "col_6": "Ca",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "7c",
       "col_2": "",
       "Stunde": null,
@@ -5125,36 +4420,6 @@
       "col_4": "7c",
       "col_5": "Eng",
       "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -5211,40 +4476,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "8c",
       "col_5": "Eng",
       "col_6": "We",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -5631,21 +4866,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5c",
-      "col_5": "Deu",
-      "col_6": "Nn , Nn",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "3",
       "col_4": "5c",
       "col_5": "Leseband",
@@ -5680,21 +4900,6 @@
       "col_4": "5a, 5b, 5c, 5d",
       "col_5": "Thea",
       "col_6": "Sc, Wr, Gum , Sch , Sch",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "5d",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "5d",
-      "col_5": "Ma",
-      "col_6": "Sr , Sr",
       "col_7": ""
     },
     {
@@ -5744,21 +4949,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "6b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "6b",
-      "col_5": "Ma",
-      "col_6": "Ri",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "7a",
       "col_2": "",
       "Stunde": null,
@@ -5804,36 +4994,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "7b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7b",
-      "col_5": "Nawi",
-      "col_6": "Ka",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "7c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "7c",
-      "col_5": "IT",
-      "col_6": "Ca",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "7c",
       "col_2": "",
       "Stunde": null,
@@ -5845,36 +5005,6 @@
       "col_4": "7c",
       "col_5": "Eng",
       "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
@@ -5931,40 +5061,10 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "8c",
       "col_5": "Eng",
       "col_6": "We",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "WPU",
-      "col_6": "Boe",
       "col_7": ""
     },
     {
