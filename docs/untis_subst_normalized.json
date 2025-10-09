@@ -33,20 +33,10 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "1",
-    "fach": "Ku",
-    "lehrkraft": "Gro",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1a",
     "stunde": "4",
     "fach": "Ma",
-    "lehrkraft": "<span>An</span>, Lü, <span>Kat</span>",
+    "lehrkraft": "Lü, <span>Kat</span>, <span>Sa</span>",
     "text": "+Kat"
   },
   {
@@ -183,16 +173,6 @@
     "gruppe": 2,
     "datum": "09.10.2025",
     "quelle_table_index": 3,
-    "klasse": "6a, 6b, 6c, 6d",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Li",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "2",
     "fach": "Ma",
@@ -257,16 +237,6 @@
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Vo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "09.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a, 8b, 8c, 8f",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Bl",
     "text": ""
   },
   {
@@ -426,8 +396,8 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "KlR",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
+    "lehrkraft": "<span>Pü</span>",
+    "text": "Aufgaben stellen"
   },
   {
     "gruppe": 2,
@@ -476,7 +446,7 @@
     "klasse": "5d",
     "stunde": "5",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Sr",
+    "lehrkraft": "<span>Sr</span>, Sr",
     "text": ""
   },
   {
@@ -516,7 +486,7 @@
     "klasse": "7a",
     "stunde": "5",
     "fach": "IT",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Blu",
     "text": ""
   },
   {
@@ -613,20 +583,10 @@
     "gruppe": 2,
     "datum": "10.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10b",
-    "stunde": "1",
-    "fach": "Ku",
-    "lehrkraft": "Gro",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
     "klasse": "1a",
     "stunde": "4",
     "fach": "Ma",
-    "lehrkraft": "<span>An</span>, Lü, <span>Kat</span>",
+    "lehrkraft": "Lü, <span>Kat</span>, <span>Sa</span>",
     "text": "+Kat"
   },
   {
@@ -763,16 +723,6 @@
     "gruppe": 2,
     "datum": "10.10.2025",
     "quelle_table_index": 3,
-    "klasse": "6a, 6b, 6c, 6d",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Li",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
     "klasse": "6b",
     "stunde": "2",
     "fach": "Ma",
@@ -837,16 +787,6 @@
     "stunde": "5",
     "fach": "Eng",
     "lehrkraft": "<span>Vo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "8a, 8b, 8c, 8f",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Bl",
     "text": ""
   },
   {
@@ -1006,8 +946,8 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "KlR",
-    "lehrkraft": "<span>---</span>",
-    "text": ""
+    "lehrkraft": "<span>Pü</span>",
+    "text": "Aufgaben stellen"
   },
   {
     "gruppe": 2,
@@ -1056,7 +996,7 @@
     "klasse": "5d",
     "stunde": "5",
     "fach": "Ma",
-    "lehrkraft": "<span>---</span>, Sr",
+    "lehrkraft": "<span>Sr</span>, Sr",
     "text": ""
   },
   {
@@ -1096,7 +1036,7 @@
     "klasse": "7a",
     "stunde": "5",
     "fach": "IT",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "Blu",
     "text": ""
   },
   {
@@ -1163,7 +1103,7 @@
     "gruppe": 1,
     "datum": "09.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
+    "klasse": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1183,7 +1123,7 @@
     "gruppe": 1,
     "datum": "10.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
+    "klasse": "Klassen: 10a, 1a, 2b, 3a, 3b, 4a, 4b, 5a, 5b, 5c, 5d, 6b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9g, DaZ-a",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
