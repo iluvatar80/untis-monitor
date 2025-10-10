@@ -3,36 +3,6 @@
     "gruppe": 2,
     "datum": "10.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "5",
-    "fach": "KlR",
-    "lehrkraft": "<span>Pü</span>",
-    "text": "Aufgaben stellen"
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "5",
-    "fach": "Ma",
-    "lehrkraft": "<span>Sr</span>, Sr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
-    "stunde": "5",
-    "fach": "IT",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "6",
     "fach": "Eng",
@@ -43,30 +13,10 @@
     "gruppe": 2,
     "datum": "10.10.2025",
     "quelle_table_index": 3,
-    "klasse": "7b",
-    "stunde": "5",
-    "fach": "KlR",
-    "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "6",
     "fach": "WPU",
     "lehrkraft": "Re",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "Hallig",
-    "stunde": "5",
-    "fach": "Hallig",
-    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
@@ -193,36 +143,6 @@
     "gruppe": 2,
     "datum": "11.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10a",
-    "stunde": "5",
-    "fach": "KlR",
-    "lehrkraft": "<span>Pü</span>",
-    "text": "Aufgaben stellen"
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5d",
-    "stunde": "5",
-    "fach": "Ma",
-    "lehrkraft": "<span>Sr</span>, Sr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a",
-    "stunde": "5",
-    "fach": "IT",
-    "lehrkraft": "Blu",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
     "klasse": "7a",
     "stunde": "6",
     "fach": "Eng",
@@ -233,30 +153,10 @@
     "gruppe": 2,
     "datum": "11.10.2025",
     "quelle_table_index": 3,
-    "klasse": "7b",
-    "stunde": "5",
-    "fach": "KlR",
-    "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "6",
     "fach": "WPU",
     "lehrkraft": "Re",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "Hallig",
-    "stunde": "5",
-    "fach": "Hallig",
-    "lehrkraft": "<span>Boe</span>",
     "text": ""
   },
   {
@@ -383,7 +283,7 @@
     "gruppe": 1,
     "datum": "10.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 5d, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",
+    "klasse": "Klassen: 7a, 9a, 9b, 9c, 9f, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -403,7 +303,7 @@
     "gruppe": 1,
     "datum": "11.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 5d, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",
+    "klasse": "Klassen: 7a, 9a, 9b, 9c, 9f, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
