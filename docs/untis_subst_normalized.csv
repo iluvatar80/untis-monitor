@@ -1,14 +1,11 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,10.10.2025,3,10a,5,KlR,<span>Pü</span>,Aufgaben stellen
-2,10.10.2025,3,5d,4,Eng,<span>Ws</span>,
 2,10.10.2025,3,5d,5,Ma,"<span>Sr</span>, Sr",
-2,10.10.2025,3,6a,4,Rel,<span>Bb</span>,SuS bitte aufteilen
-2,10.10.2025,3,7a,4,Nawi,<span>Hu</span>,
 2,10.10.2025,3,7a,5,IT,Blu,
 2,10.10.2025,3,7a,6,Eng,Blu,
 2,10.10.2025,3,7b,5,KlR,<span>Zi</span>,
 2,10.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Re,
-2,10.10.2025,3,Hallig,4 - 5,Hallig,<span>Boe</span>,
+2,10.10.2025,3,Hallig,5,Hallig,<span>Boe</span>,
 2,10.10.2025,3,Hallig,6,Hallig,<span>Boe</span>,
 2,10.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,10.10.2025,8,"10a, 10b, 1a, 1b, 1c, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Schach,<span>---</span>,
@@ -22,15 +19,12 @@
 2,10.10.2025,8,Hallig,4 - 5,Hallig,Sn,
 2,10.10.2025,8,Hallig,6,Hallig,Sn,
 2,11.10.2025,3,10a,5,KlR,<span>Pü</span>,Aufgaben stellen
-2,11.10.2025,3,5d,4,Eng,<span>Ws</span>,
 2,11.10.2025,3,5d,5,Ma,"<span>Sr</span>, Sr",
-2,11.10.2025,3,6a,4,Rel,<span>Bb</span>,SuS bitte aufteilen
-2,11.10.2025,3,7a,4,Nawi,<span>Hu</span>,
 2,11.10.2025,3,7a,5,IT,Blu,
 2,11.10.2025,3,7a,6,Eng,Blu,
 2,11.10.2025,3,7b,5,KlR,<span>Zi</span>,
 2,11.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Re,
-2,11.10.2025,3,Hallig,4 - 5,Hallig,<span>Boe</span>,
+2,11.10.2025,3,Hallig,5,Hallig,<span>Boe</span>,
 2,11.10.2025,3,Hallig,6,Hallig,<span>Boe</span>,
 2,11.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,11.10.2025,8,"10a, 10b, 1a, 1b, 1c, 2a, 2b, 2c, 3a, 3b, 3c, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Schach,<span>---</span>,
@@ -43,7 +37,7 @@
 2,11.10.2025,8,4b,4,Eng,<span>---</span>,
 2,11.10.2025,8,Hallig,4 - 5,Hallig,Sn,
 2,11.10.2025,8,Hallig,6,Hallig,Sn,
-1,10.10.2025,0,"Klassen: 10a, 5d, 6a, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",,,,
+1,10.10.2025,0,"Klassen: 10a, 5d, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",,,,
 1,10.10.2025,5,"Klassen: 10a, 10b, 1a, 1b, 1c, 2a, 2b, 2b Monde, 2c, 3a, 3b, 3c, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
-1,11.10.2025,0,"Klassen: 10a, 5d, 6a, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",,,,
+1,11.10.2025,0,"Klassen: 10a, 5d, 7a, 7b, 9a, 9b, 9c, 9f, Hallig",,,,
 1,11.10.2025,5,"Klassen: 10a, 10b, 1a, 1b, 1c, 2a, 2b, 2b Monde, 2c, 3a, 3b, 3c, 4a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
