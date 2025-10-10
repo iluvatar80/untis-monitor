@@ -14,16 +14,6 @@
     "datum": "10.10.2025",
     "quelle_table_index": 3,
     "klasse": "5b",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Hi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ei</span>",
@@ -117,16 +107,6 @@
     "stunde": "5",
     "fach": "KlR",
     "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "10.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9b",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -274,16 +254,6 @@
     "datum": "11.10.2025",
     "quelle_table_index": 3,
     "klasse": "5b",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Hi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "5b",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ei</span>",
@@ -377,16 +347,6 @@
     "stunde": "5",
     "fach": "KlR",
     "lehrkraft": "<span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "11.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "9b",
-    "stunde": "2",
-    "fach": "Eng",
-    "lehrkraft": "<span>Bb</span>",
     "text": ""
   },
   {
@@ -523,7 +483,7 @@
     "gruppe": 1,
     "datum": "10.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 9b, Hallig",
+    "klasse": "Klassen: 10a, 5b, 5d, 6a, 7a, 7b, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -543,7 +503,7 @@
     "gruppe": 1,
     "datum": "11.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 9b, Hallig",
+    "klasse": "Klassen: 10a, 5b, 5d, 6a, 7a, 7b, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
