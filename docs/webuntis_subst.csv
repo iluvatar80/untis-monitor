@@ -1,5 +1,5 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 8c, 9b, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 9b, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,5,10a,KlR,Pü,Aufgaben stellen
 3,5b,,,,,,,2,5b,Eng,Hi,
@@ -13,7 +13,6 @@
 3,7a,,,,,,,5,7a,IT,Blu,
 3,7a,,,,,,,6,7a,Eng,Blu,
 3,7b,,,,,,,5,7b,KlR,Zi,
-3,8c,,,,,,,1,8c,Rel,Rr,
 3,9b,,,,,,,2,9b,Eng,Bb,
 3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
 3,Hallig,,,,,,,6,Hallig,Hallig,Boe,
@@ -29,7 +28,6 @@
 4,7a,,,,,,,5,7a,IT,Blu,
 4,7a,,,,,,,6,7a,Eng,Blu,
 4,7b,,,,,,,5,7b,KlR,Zi,
-4,8c,,,,,,,1,8c,Rel,Rr,
 4,9b,,,,,,,2,9b,Eng,Bb,
 4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
 4,Hallig,,,,,,,6,Hallig,Hallig,Boe,
@@ -165,7 +163,7 @@
 9,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Sn,
 9,Hallig,,,,,,,6,Hallig,Hallig,Sn,
-0,"Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 8c, 9b, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 5b, 5d, 6a, 7a, 7b, 9b, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,5,10a,KlR,Pü,Aufgaben stellen
 3,5b,,,,,,,2,5b,Eng,Hi,
@@ -179,7 +177,6 @@
 3,7a,,,,,,,5,7a,IT,Blu,
 3,7a,,,,,,,6,7a,Eng,Blu,
 3,7b,,,,,,,5,7b,KlR,Zi,
-3,8c,,,,,,,1,8c,Rel,Rr,
 3,9b,,,,,,,2,9b,Eng,Bb,
 3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
 3,Hallig,,,,,,,6,Hallig,Hallig,Boe,
@@ -195,7 +192,6 @@
 4,7a,,,,,,,5,7a,IT,Blu,
 4,7a,,,,,,,6,7a,Eng,Blu,
 4,7b,,,,,,,5,7b,KlR,Zi,
-4,8c,,,,,,,1,8c,Rel,Rr,
 4,9b,,,,,,,2,9b,Eng,Bb,
 4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Boe,
 4,Hallig,,,,,,,6,Hallig,Hallig,Boe,
