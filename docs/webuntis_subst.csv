@@ -1,5 +1,5 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 1a, 1c, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -13,9 +13,6 @@
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,1a,,,,,,,5,1a,Sp,Ge,
-3,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
-3,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 3,5a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -65,20 +62,11 @@
 3,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,7a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,7b,,,,,,,5,7b,,Ni,Vorhabenwoche Vertretung
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7b,,,,,,,6,7b,Ma,Scm,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -86,10 +74,6 @@
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,7c,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
@@ -107,7 +91,6 @@
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 3,8c,,,,,,,6,8c,WK,Wei,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -150,7 +133,6 @@
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,Hallig,,,,,,,5,Hallig,Hallig,Sn,
 3,Hallig,,,,,,,6,Hallig,Hallig,Sn,
 4,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -164,9 +146,6 @@
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,1a,,,,,,,5,1a,Sp,Ge,
-4,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
-4,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 4,5a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -216,20 +195,11 @@
 4,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,7a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,7b,,,,,,,5,7b,,Ni,Vorhabenwoche Vertretung
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7b,,,,,,,6,7b,Ma,Scm,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -237,10 +207,6 @@
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,7c,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
@@ -258,7 +224,6 @@
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 4,8c,,,,,,,6,8c,WK,Wei,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -301,7 +266,6 @@
 4,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,Hallig,,,,,,,5,Hallig,Hallig,Sn,
 4,Hallig,,,,,,,6,Hallig,Hallig,Sn,
 5,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
@@ -427,7 +391,7 @@
 9,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Ti,
 9,Hallig,,,,,,,6,Hallig,Hallig,Ti,
-0,"Klassen: 10a, 10b, 1a, 1c, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -441,9 +405,6 @@
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,1a,,,,,,,5,1a,Sp,Ge,
-3,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
-3,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 3,5a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -493,20 +454,11 @@
 3,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,7a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,7b,,,,,,,5,7b,,Ni,Vorhabenwoche Vertretung
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7b,,,,,,,6,7b,Ma,Scm,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -514,10 +466,6 @@
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,7c,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-3,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 3,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
@@ -535,7 +483,6 @@
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-3,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 3,8c,,,,,,,6,8c,WK,Wei,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -578,7 +525,6 @@
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,Hallig,,,,,,,5,Hallig,Hallig,Sn,
 3,Hallig,,,,,,,6,Hallig,Hallig,Sn,
 4,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -592,9 +538,6 @@
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,1a,,,,,,,5,1a,Sp,Ge,
-4,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
-4,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 4,5a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -644,20 +587,11 @@
 4,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,7a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7a,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,7b,,,,,,,5,7b,,Ni,Vorhabenwoche Vertretung
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7b,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7b,,,,,,,6,7b,Ma,Scm,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -665,10 +599,6 @@
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,7c,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ni,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Sc,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Vo,
-4,7c,,,,,,,5,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
 4,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
@@ -686,7 +616,6 @@
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
-4,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 4,8c,,,,,,,6,8c,WK,Wei,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Garten,Wx,
@@ -729,7 +658,6 @@
 4,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,Hallig,,,,,,,5,Hallig,Hallig,Sn,
 4,Hallig,,,,,,,6,Hallig,Hallig,Sn,
 5,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
