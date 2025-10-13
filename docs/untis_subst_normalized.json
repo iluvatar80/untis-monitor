@@ -216,7 +216,7 @@
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
     "fach": "Ma",
-    "lehrkraft": "Sv, <span>Sv</span>, <span>Schu</span>, <span>Vorw</span>",
+    "lehrkraft": "Sv, Bre, <span>Schu</span>, <span>Vorw</span>",
     "text": ""
   },
   {
@@ -237,16 +237,6 @@
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Hal</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "13.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "2b Monde",
-    "stunde": "2 - 3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ew</span>",
     "text": ""
   },
   {
@@ -606,7 +596,7 @@
     "klasse": "1 Sonnen",
     "stunde": "1 - 2",
     "fach": "Ma",
-    "lehrkraft": "Sv, <span>Sv</span>, <span>Schu</span>, <span>Vorw</span>",
+    "lehrkraft": "Sv, Bre, <span>Schu</span>, <span>Vorw</span>",
     "text": ""
   },
   {
@@ -627,16 +617,6 @@
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Hal</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "14.10.2025",
-    "quelle_table_index": 8,
-    "klasse": "2b Monde",
-    "stunde": "2 - 3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ew</span>",
     "text": ""
   },
   {
@@ -793,7 +773,7 @@
     "gruppe": 1,
     "datum": "13.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -813,7 +793,7 @@
     "gruppe": 1,
     "datum": "14.10.2025",
     "quelle_table_index": 5,
-    "klasse": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

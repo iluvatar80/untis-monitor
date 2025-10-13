@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-13T12:46:13",
+    "scraped_at": "2025-10-13T13:15:09",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -1082,7 +1082,7 @@
     "4": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
       }
     ],
     "5": [
@@ -1165,7 +1165,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Sv , Schu , Vorw",
+        "col_6": "Sv, Bre, Schu , Vorw",
         "col_7": ""
       },
       {
@@ -1186,16 +1186,6 @@
         "col_4": "2b",
         "col_5": "Leseband",
         "col_6": "Hal",
-        "col_7": ""
-      },
-      {
-        "table_index": 8,
-        "col_1": "2b Monde",
-        "col_2": "",
-        "col_3": "2 - 3",
-        "col_4": "2b Monde",
-        "col_5": "Leseband",
-        "col_6": "Ew",
         "col_7": ""
       },
       {
@@ -1897,7 +1887,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Sv , Schu , Vorw",
+        "col_6": "Sv, Bre, Schu , Vorw",
         "col_7": ""
       },
       {
@@ -1918,16 +1908,6 @@
         "col_4": "2b",
         "col_5": "Leseband",
         "col_6": "Hal",
-        "col_7": ""
-      },
-      {
-        "table_index": 9,
-        "col_1": "2b Monde",
-        "col_2": "",
-        "col_3": "2 - 3",
-        "col_4": "2b Monde",
-        "col_5": "Leseband",
-        "col_6": "Ew",
         "col_7": ""
       },
       {
@@ -3626,7 +3606,7 @@
     "12": [
       {
         "table_index": 5,
-        "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
       }
     ],
     "13": [
@@ -3709,7 +3689,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Sv , Schu , Vorw",
+        "col_6": "Sv, Bre, Schu , Vorw",
         "col_7": ""
       },
       {
@@ -3730,16 +3710,6 @@
         "col_4": "2b",
         "col_5": "Leseband",
         "col_6": "Hal",
-        "col_7": ""
-      },
-      {
-        "table_index": 8,
-        "col_1": "2b Monde",
-        "col_2": "",
-        "col_3": "2 - 3",
-        "col_4": "2b Monde",
-        "col_5": "Leseband",
-        "col_6": "Ew",
         "col_7": ""
       },
       {
@@ -4441,7 +4411,7 @@
         "col_3": "1 - 2",
         "col_4": "1 Sonnen",
         "col_5": "Ma",
-        "col_6": "Sv, Sv , Schu , Vorw",
+        "col_6": "Sv, Bre, Schu , Vorw",
         "col_7": ""
       },
       {
@@ -4462,16 +4432,6 @@
         "col_4": "2b",
         "col_5": "Leseband",
         "col_6": "Hal",
-        "col_7": ""
-      },
-      {
-        "table_index": 9,
-        "col_1": "2b Monde",
-        "col_2": "",
-        "col_3": "2 - 3",
-        "col_4": "2b Monde",
-        "col_5": "Leseband",
-        "col_6": "Ew",
         "col_7": ""
       },
       {
@@ -6699,7 +6659,7 @@
     },
     {
       "table_index": 5,
-      "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -6829,7 +6789,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Sv , Schu , Vorw",
+      "col_6": "Sv, Bre, Schu , Vorw",
       "col_7": ""
     },
     {
@@ -6860,21 +6820,6 @@
       "col_4": "2b",
       "col_5": "Leseband",
       "col_6": "Hal",
-      "col_7": ""
-    },
-    {
-      "table_index": 8,
-      "col_1": "2b Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2 - 3",
-      "col_4": "2b Monde",
-      "col_5": "Leseband",
-      "col_6": "Ew",
       "col_7": ""
     },
     {
@@ -7924,7 +7869,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Sv , Schu , Vorw",
+      "col_6": "Sv, Bre, Schu , Vorw",
       "col_7": ""
     },
     {
@@ -7955,21 +7900,6 @@
       "col_4": "2b",
       "col_5": "Leseband",
       "col_6": "Hal",
-      "col_7": ""
-    },
-    {
-      "table_index": 9,
-      "col_1": "2b Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2 - 3",
-      "col_4": "2b Monde",
-      "col_5": "Leseband",
-      "col_6": "Ew",
       "col_7": ""
     },
     {
@@ -10509,7 +10439,7 @@
     },
     {
       "table_index": 5,
-      "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2b Monde, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -10639,7 +10569,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Sv , Schu , Vorw",
+      "col_6": "Sv, Bre, Schu , Vorw",
       "col_7": ""
     },
     {
@@ -10670,21 +10600,6 @@
       "col_4": "2b",
       "col_5": "Leseband",
       "col_6": "Hal",
-      "col_7": ""
-    },
-    {
-      "table_index": 8,
-      "col_1": "2b Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2 - 3",
-      "col_4": "2b Monde",
-      "col_5": "Leseband",
-      "col_6": "Ew",
       "col_7": ""
     },
     {
@@ -11734,7 +11649,7 @@
       "col_3": "1 - 2",
       "col_4": "1 Sonnen",
       "col_5": "Ma",
-      "col_6": "Sv, Sv , Schu , Vorw",
+      "col_6": "Sv, Bre, Schu , Vorw",
       "col_7": ""
     },
     {
@@ -11765,21 +11680,6 @@
       "col_4": "2b",
       "col_5": "Leseband",
       "col_6": "Hal",
-      "col_7": ""
-    },
-    {
-      "table_index": 9,
-      "col_1": "2b Monde",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "2 - 3",
-      "col_4": "2b Monde",
-      "col_5": "Leseband",
-      "col_6": "Ew",
       "col_7": ""
     },
     {
