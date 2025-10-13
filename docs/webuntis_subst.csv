@@ -16,7 +16,6 @@
 3,1a,,,,,,,5,1a,Sp,Ge,
 3,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
 3,2b,,,,,,,4,2b,Sp,Hr,
-3,3b,,,,,,,3,3b,Leseband,Kat,
 3,3b,,,,,,,4,3b,Mu,"Ge, Ge",
 3,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 3,4b,,,,,,,4,4b,Eng,Hb,
@@ -112,7 +111,6 @@
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
-3,8c,,,,,,,1 - 3,8c,,Pr,Vorhabenwoche Vertretung
 3,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 3,8c,,,,,,,6,8c,WK,Wei,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -173,7 +171,6 @@
 4,1a,,,,,,,5,1a,Sp,Ge,
 4,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
 4,2b,,,,,,,4,2b,Sp,Hr,
-4,3b,,,,,,,3,3b,Leseband,Kat,
 4,3b,,,,,,,4,3b,Mu,"Ge, Ge",
 4,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 4,4b,,,,,,,4,4b,Eng,Hb,
@@ -269,7 +266,6 @@
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
-4,8c,,,,,,,1 - 3,8c,,Pr,Vorhabenwoche Vertretung
 4,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 4,8c,,,,,,,6,8c,WK,Wei,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -456,7 +452,6 @@
 3,1a,,,,,,,5,1a,Sp,Ge,
 3,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
 3,2b,,,,,,,4,2b,Sp,Hr,
-3,3b,,,,,,,3,3b,Leseband,Kat,
 3,3b,,,,,,,4,3b,Mu,"Ge, Ge",
 3,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 3,4b,,,,,,,4,4b,Eng,Hb,
@@ -552,7 +547,6 @@
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 3,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
-3,8c,,,,,,,1 - 3,8c,,Pr,Vorhabenwoche Vertretung
 3,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 3,8c,,,,,,,6,8c,WK,Wei,
 3,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,
@@ -613,7 +607,6 @@
 4,1a,,,,,,,5,1a,Sp,Ge,
 4,1c,,,,,,,5,1c,Sp,"Dr , Kat",+Kat
 4,2b,,,,,,,4,2b,Sp,Hr,
-4,3b,,,,,,,3,3b,Leseband,Kat,
 4,3b,,,,,,,4,3b,Mu,"Ge, Ge",
 4,3b,,,,,,,5,3b,Ma,"Zi, Zi",
 4,4b,,,,,,,4,4b,Eng,Hb,
@@ -709,7 +702,6 @@
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Schulkleidung,Rom,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
 4,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",AG Event,Wei,
-4,8c,,,,,,,1 - 3,8c,,Pr,Vorhabenwoche Vertretung
 4,8c,,,,,,,3 - 5,8c,,Rom,Vorhabenwoche Vertretung
 4,8c,,,,,,,6,8c,WK,Wei,
 4,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Band,HL,

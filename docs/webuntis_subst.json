@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-13T09:39:26",
+    "scraped_at": "2025-10-13T10:27:16",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -184,16 +184,6 @@
         "col_4": "2b",
         "col_5": "Sp",
         "col_6": "Hr",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3b",
-        "col_2": "",
-        "col_3": "3",
-        "col_4": "3b",
-        "col_5": "Leseband",
-        "col_6": "Kat",
         "col_7": ""
       },
       {
@@ -1145,16 +1135,6 @@
         "col_5": "AG Event",
         "col_6": "Wei",
         "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1 - 3",
-        "col_4": "8c",
-        "col_5": "",
-        "col_6": "Pr",
-        "col_7": "Vorhabenwoche Vertretung"
       },
       {
         "table_index": 3,
@@ -1762,16 +1742,6 @@
         "table_index": 4,
         "col_1": "3b",
         "col_2": "",
-        "col_3": "3",
-        "col_4": "3b",
-        "col_5": "Leseband",
-        "col_6": "Kat",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3b",
-        "col_2": "",
         "col_3": "4",
         "col_4": "3b",
         "col_5": "Mu",
@@ -2717,16 +2687,6 @@
         "col_5": "AG Event",
         "col_6": "Wei",
         "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1 - 3",
-        "col_4": "8c",
-        "col_5": "",
-        "col_6": "Pr",
-        "col_7": "Vorhabenwoche Vertretung"
       },
       {
         "table_index": 4,
@@ -4594,16 +4554,6 @@
         "table_index": 3,
         "col_1": "3b",
         "col_2": "",
-        "col_3": "3",
-        "col_4": "3b",
-        "col_5": "Leseband",
-        "col_6": "Kat",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3b",
-        "col_2": "",
         "col_3": "4",
         "col_4": "3b",
         "col_5": "Mu",
@@ -5549,16 +5499,6 @@
         "col_5": "AG Event",
         "col_6": "Wei",
         "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1 - 3",
-        "col_4": "8c",
-        "col_5": "",
-        "col_6": "Pr",
-        "col_7": "Vorhabenwoche Vertretung"
       },
       {
         "table_index": 3,
@@ -6166,16 +6106,6 @@
         "table_index": 4,
         "col_1": "3b",
         "col_2": "",
-        "col_3": "3",
-        "col_4": "3b",
-        "col_5": "Leseband",
-        "col_6": "Kat",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3b",
-        "col_2": "",
         "col_3": "4",
         "col_4": "3b",
         "col_5": "Mu",
@@ -7121,16 +7051,6 @@
         "col_5": "AG Event",
         "col_6": "Wei",
         "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1 - 3",
-        "col_4": "8c",
-        "col_5": "",
-        "col_6": "Pr",
-        "col_7": "Vorhabenwoche Vertretung"
       },
       {
         "table_index": 4,
@@ -9091,21 +9011,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "3b",
-      "col_5": "Leseband",
-      "col_6": "Kat",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "3b",
       "col_5": "Mu",
@@ -10521,21 +10426,6 @@
       "col_5": "AG Event",
       "col_6": "Wei",
       "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 3",
-      "col_4": "8c",
-      "col_5": "",
-      "col_6": "Pr",
-      "col_7": "Vorhabenwoche Vertretung"
     },
     {
       "table_index": 3,
@@ -11446,21 +11336,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "3b",
-      "col_5": "Leseband",
-      "col_6": "Kat",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "3b",
       "col_5": "Mu",
@@ -12876,21 +12751,6 @@
       "col_5": "AG Event",
       "col_6": "Wei",
       "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 3",
-      "col_4": "8c",
-      "col_5": "",
-      "col_6": "Pr",
-      "col_7": "Vorhabenwoche Vertretung"
     },
     {
       "table_index": 4,
@@ -15691,21 +15551,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "3b",
-      "col_5": "Leseband",
-      "col_6": "Kat",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "3b",
       "col_5": "Mu",
@@ -17121,21 +16966,6 @@
       "col_5": "AG Event",
       "col_6": "Wei",
       "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 3",
-      "col_4": "8c",
-      "col_5": "",
-      "col_6": "Pr",
-      "col_7": "Vorhabenwoche Vertretung"
     },
     {
       "table_index": 3,
@@ -18046,21 +17876,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "3b",
-      "col_5": "Leseband",
-      "col_6": "Kat",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "4",
       "col_4": "3b",
       "col_5": "Mu",
@@ -19476,21 +19291,6 @@
       "col_5": "AG Event",
       "col_6": "Wei",
       "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1 - 3",
-      "col_4": "8c",
-      "col_5": "",
-      "col_6": "Pr",
-      "col_7": "Vorhabenwoche Vertretung"
     },
     {
       "table_index": 4,
