@@ -1,15 +1,25 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,13.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,13.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,13.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",7,AG Event,Wei,
 2,13.10.2025,3,1a,5,Sp,<span>Ge</span>,
 2,13.10.2025,3,1c,5,Sp,"<span>Dr</span>, <span>Kat</span>",+Kat
 2,13.10.2025,3,2b,4,Sp,<span>Hr</span>,
-2,13.10.2025,3,2b Monde,4 - 5,Ku,<span>Th</span>,
 2,13.10.2025,3,3b,3,Leseband,<span>Hal</span>,
 2,13.10.2025,3,3b,4,Mu,"Ge, <span>Ge</span>",
+2,13.10.2025,3,3b,5,Ma,"Zi, <span>Zi</span>",
 2,13.10.2025,3,4b,4,Eng,<span>Hb</span>,
+2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Ni,
+2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Sc,
+2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Vo,
+2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Ei,
+2,13.10.2025,3,7b,2 - 4,,Rr,Vorhabenwoche Vertretung
+2,13.10.2025,3,7b,5,,Ni,Vorhabenwoche Vertretung
+2,13.10.2025,3,8c,1 - 3,,Pr,Vorhabenwoche Vertretung
+2,13.10.2025,3,8c,3 - 5,,Rom,Vorhabenwoche Vertretung
+2,13.10.2025,3,8c,6,WK,Wei,
 2,13.10.2025,3,Hallig,4 - 5,Hallig,Sn,
 2,13.10.2025,3,Hallig,6,Hallig,Sn,
-2,13.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,13.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,13.10.2025,8,1c,4,Sp,<span>Sa</span>,
 2,13.10.2025,8,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Jo</span>,
 2,13.10.2025,8,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
@@ -17,19 +27,43 @@
 2,13.10.2025,8,2c,5,Rel,<span>Kä</span>,
 2,13.10.2025,8,3c,5,Rel,<span>Zi</span>,
 2,13.10.2025,8,4b,5,Sp,<span>Fu</span>,
+2,13.10.2025,8,"7a, 7b, 7c",5,WPU,<span>---</span>,
+2,13.10.2025,8,"7a, 7b, 7c",7,DaZ Auf,<span>---</span>,
+2,13.10.2025,8,7b,1,Ma,"<span>---</span>, Mee",
+2,13.10.2025,8,7b,2,IT,<span>---</span>,
+2,13.10.2025,8,7b,3,Leseband,<span>---</span>,
+2,13.10.2025,8,7b,4,Sp,<span>---</span>,
+2,13.10.2025,8,7b,6,WK,<span>---</span>,
+2,13.10.2025,8,"8a, 8b, 8c, 8f",1,DaZ Auf,<span>---</span>,
+2,13.10.2025,8,8c,2,Deu,<span>---</span>,
+2,13.10.2025,8,8c,3,Leseband,<span>---</span>,
+2,13.10.2025,8,8c,4,Ma,<span>---</span>,
+2,13.10.2025,8,8c,5,Eng,"<span>---</span>, Wu",
+2,13.10.2025,8,8c,6,Nawi,"<span>---</span>, Ad",
+2,13.10.2025,8,8c,7,Sp,<span>---</span>,
 2,13.10.2025,8,Hallig,4 - 5,Hallig,Ti,
 2,13.10.2025,8,Hallig,6,Hallig,Ti,
-2,14.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,14.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,14.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f",7,AG Event,Wei,
 2,14.10.2025,3,1a,5,Sp,<span>Ge</span>,
 2,14.10.2025,3,1c,5,Sp,"<span>Dr</span>, <span>Kat</span>",+Kat
 2,14.10.2025,3,2b,4,Sp,<span>Hr</span>,
-2,14.10.2025,3,2b Monde,4 - 5,Ku,<span>Th</span>,
 2,14.10.2025,3,3b,3,Leseband,<span>Hal</span>,
 2,14.10.2025,3,3b,4,Mu,"Ge, <span>Ge</span>",
+2,14.10.2025,3,3b,5,Ma,"Zi, <span>Zi</span>",
 2,14.10.2025,3,4b,4,Eng,<span>Hb</span>,
+2,14.10.2025,3,"7a, 7b, 7c",5,WPU,Ni,
+2,14.10.2025,3,"7a, 7b, 7c",5,WPU,Sc,
+2,14.10.2025,3,"7a, 7b, 7c",5,WPU,Vo,
+2,14.10.2025,3,"7a, 7b, 7c",5,WPU,Ei,
+2,14.10.2025,3,7b,2 - 4,,Rr,Vorhabenwoche Vertretung
+2,14.10.2025,3,7b,5,,Ni,Vorhabenwoche Vertretung
+2,14.10.2025,3,8c,1 - 3,,Pr,Vorhabenwoche Vertretung
+2,14.10.2025,3,8c,3 - 5,,Rom,Vorhabenwoche Vertretung
+2,14.10.2025,3,8c,6,WK,Wei,
 2,14.10.2025,3,Hallig,4 - 5,Hallig,Sn,
 2,14.10.2025,3,Hallig,6,Hallig,Sn,
-2,14.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,14.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,14.10.2025,8,1c,4,Sp,<span>Sa</span>,
 2,14.10.2025,8,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Jo</span>,
 2,14.10.2025,8,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
@@ -37,9 +71,23 @@
 2,14.10.2025,8,2c,5,Rel,<span>Kä</span>,
 2,14.10.2025,8,3c,5,Rel,<span>Zi</span>,
 2,14.10.2025,8,4b,5,Sp,<span>Fu</span>,
+2,14.10.2025,8,"7a, 7b, 7c",5,WPU,<span>---</span>,
+2,14.10.2025,8,"7a, 7b, 7c",7,DaZ Auf,<span>---</span>,
+2,14.10.2025,8,7b,1,Ma,"<span>---</span>, Mee",
+2,14.10.2025,8,7b,2,IT,<span>---</span>,
+2,14.10.2025,8,7b,3,Leseband,<span>---</span>,
+2,14.10.2025,8,7b,4,Sp,<span>---</span>,
+2,14.10.2025,8,7b,6,WK,<span>---</span>,
+2,14.10.2025,8,"8a, 8b, 8c, 8f",1,DaZ Auf,<span>---</span>,
+2,14.10.2025,8,8c,2,Deu,<span>---</span>,
+2,14.10.2025,8,8c,3,Leseband,<span>---</span>,
+2,14.10.2025,8,8c,4,Ma,<span>---</span>,
+2,14.10.2025,8,8c,5,Eng,"<span>---</span>, Wu",
+2,14.10.2025,8,8c,6,Nawi,"<span>---</span>, Ad",
+2,14.10.2025,8,8c,7,Sp,<span>---</span>,
 2,14.10.2025,8,Hallig,4 - 5,Hallig,Ti,
 2,14.10.2025,8,Hallig,6,Hallig,Ti,
-1,13.10.2025,0,"Klassen: 10a, 10b, 1a, 1c, 2b, 2b Monde, 3b, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,13.10.2025,0,"Klassen: 10a, 10b, 1a, 1c, 2b, 3b, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,13.10.2025,5,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
-1,14.10.2025,0,"Klassen: 10a, 10b, 1a, 1c, 2b, 2b Monde, 3b, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,14.10.2025,0,"Klassen: 10a, 10b, 1a, 1c, 2b, 3b, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,14.10.2025,5,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
