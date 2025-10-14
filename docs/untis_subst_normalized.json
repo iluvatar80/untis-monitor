@@ -63,7 +63,7 @@
     "gruppe": 2,
     "datum": "14.10.2025",
     "quelle_table_index": 8,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -208,6 +208,46 @@
     "fach": "",
     "lehrkraft": "Jo",
     "text": "Vorhabenwoche 3.Klasse"
+  },
+  {
+    "gruppe": 2,
+    "datum": "14.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "6",
+    "fach": "Phi",
+    "lehrkraft": "Wei",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "14.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "7",
+    "fach": "LRS",
+    "lehrkraft": "Sch",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "14.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Vo",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+  },
+  {
+    "gruppe": 2,
+    "datum": "14.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b, 7c",
+    "stunde": "6",
+    "fach": "Rel",
+    "lehrkraft": "Sn",
+    "text": ""
   },
   {
     "gruppe": 2,
@@ -323,7 +363,7 @@
     "gruppe": 2,
     "datum": "15.10.2025",
     "quelle_table_index": 8,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -468,6 +508,46 @@
     "fach": "",
     "lehrkraft": "Jo",
     "text": "Vorhabenwoche 3.Klasse"
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "6",
+    "fach": "Phi",
+    "lehrkraft": "Wei",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a, 7b, 7c",
+    "stunde": "7",
+    "fach": "LRS",
+    "lehrkraft": "Sch",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Vo",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7b, 7c",
+    "stunde": "6",
+    "fach": "Rel",
+    "lehrkraft": "Sn",
+    "text": ""
   },
   {
     "gruppe": 2,
