@@ -161,13 +161,16 @@
 4,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Ei,
 4,Hallig,,,,,,,6,Hallig,Hallig,Ei,
-5,"Klassen: 10a, 10b, 1a, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+5,"Klassen: 10a, 10b, 1a, 2b, 3a, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,1a,,,,,,,5,1a,Sp,Sa,
 8,2b,,,,,,,2,2b,Sp,Gro,
 8,3a,,,,,,,1 - 7,3a,,Hr,
+8,3b,,,,,,,3,3b,Leseband,"Zm, Zm",
+8,3b,,,,,,,6,3b,Ma,"Zi, Zi",
+8,3c,,,,,,,5,3c,Sach,"Hb, Hb , Bon",
 8,4b,,,,,,,4,4b,Eng,Jo,
 8,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -220,6 +223,9 @@
 9,1a,,,,,,,5,1a,Sp,Sa,
 9,2b,,,,,,,2,2b,Sp,Gro,
 9,3a,,,,,,,1 - 7,3a,,Hr,
+9,3b,,,,,,,3,3b,Leseband,"Zm, Zm",
+9,3b,,,,,,,6,3b,Ma,"Zi, Zi",
+9,3c,,,,,,,5,3c,Sach,"Hb, Hb , Bon",
 9,4b,,,,,,,4,4b,Eng,Jo,
 9,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 9,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -429,13 +435,16 @@
 4,DaZ-a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Ei,
 4,Hallig,,,,,,,6,Hallig,Hallig,Ei,
-5,"Klassen: 10a, 10b, 1a, 2b, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+5,"Klassen: 10a, 10b, 1a, 2b, 3a, 3b, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 8,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,1a,,,,,,,5,1a,Sp,Sa,
 8,2b,,,,,,,2,2b,Sp,Gro,
 8,3a,,,,,,,1 - 7,3a,,Hr,
+8,3b,,,,,,,3,3b,Leseband,"Zm, Zm",
+8,3b,,,,,,,6,3b,Ma,"Zi, Zi",
+8,3c,,,,,,,5,3c,Sach,"Hb, Hb , Bon",
 8,4b,,,,,,,4,4b,Eng,Jo,
 8,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 8,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -488,6 +497,9 @@
 9,1a,,,,,,,5,1a,Sp,Sa,
 9,2b,,,,,,,2,2b,Sp,Gro,
 9,3a,,,,,,,1 - 7,3a,,Hr,
+9,3b,,,,,,,3,3b,Leseband,"Zm, Zm",
+9,3b,,,,,,,6,3b,Ma,"Zi, Zi",
+9,3c,,,,,,,5,3c,Sach,"Hb, Hb , Bon",
 9,4b,,,,,,,4,4b,Eng,Jo,
 9,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 9,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
