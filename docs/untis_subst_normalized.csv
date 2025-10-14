@@ -1,42 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,13.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,13.10.2025,3,1c,4,Sp,<span>Sa</span>,
-2,13.10.2025,3,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Jo</span>,
-2,13.10.2025,3,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
-2,13.10.2025,3,2b Monde,3 - 4,Ma,"Ew, <span>Ew</span>",
-2,13.10.2025,3,2c,5,Rel,<span>Kä</span>,
-2,13.10.2025,3,3c,5,Rel,<span>Zi</span>,
-2,13.10.2025,3,4b,5,Sp,<span>Fu</span>,
-2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Ni,
-2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Sc,
-2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Vo,
-2,13.10.2025,3,"7a, 7b, 7c",5,WPU,Ei,
-2,13.10.2025,3,"7a, 7b, 7c",7,DaZ Auf,Li,
-2,13.10.2025,3,7b,1 - 7,,Ni,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,13.10.2025,3,"8a, 8b, 8c, 8f",1,DaZ Auf,Li,
-2,13.10.2025,3,8c,1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,13.10.2025,3,Hallig,4 - 5,Hallig,Ti,
-2,13.10.2025,3,Hallig,6,Hallig,Ti,
-2,13.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,13.10.2025,8,"10a, 10b, 9a, 9b, 9c",1,DaZ Auf,Li,
-2,13.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Volley,Pü,
-2,13.10.2025,8,1 Sonnen,1 - 2,Ma,"Sv, Bre, <span>Schu</span>, <span>Vorw</span>",
-2,13.10.2025,8,2a Monde,1 - 2,Deu,<span>Sv</span>,
-2,13.10.2025,8,2b,3,Leseband,<span>Hal</span>,
-2,13.10.2025,8,2c,3,Leseband,<span>Fu</span>,
-2,13.10.2025,8,3a,2 - 3,,Gro,Vorhabenwoche 3.Klasse
-2,13.10.2025,8,3a,4,,Zm,Vorhabenwoche 3.Klasse
-2,13.10.2025,8,"3a, 3b, 3c",2 - 4,Sp,Hi,
-2,13.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Sr,
-2,13.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Lt,
-2,13.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Ri,
-2,13.10.2025,8,3b,2 - 4,,Lt,Vorhabenwoche 3.Klasse
-2,13.10.2025,8,3c,2 - 4,,Jo,Vorhabenwoche 3.Klasse
-2,13.10.2025,8,9a,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,13.10.2025,8,9b,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,13.10.2025,8,9c,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,13.10.2025,8,Hallig,4 - 5,Hallig,Ei,
-2,13.10.2025,8,Hallig,6,Hallig,Ei,
 2,14.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,14.10.2025,3,1c,4,Sp,<span>Sa</span>,
 2,14.10.2025,3,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Jo</span>,
@@ -75,7 +37,45 @@
 2,14.10.2025,8,9c,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
 2,14.10.2025,8,Hallig,4 - 5,Hallig,Ei,
 2,14.10.2025,8,Hallig,6,Hallig,Ei,
-1,13.10.2025,0,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
-1,13.10.2025,5,"Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+2,15.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,15.10.2025,3,1c,4,Sp,<span>Sa</span>,
+2,15.10.2025,3,"1 Sonnen, 2a Monde",1 - 2,Rel,<span>Jo</span>,
+2,15.10.2025,3,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
+2,15.10.2025,3,2b Monde,3 - 4,Ma,"Ew, <span>Ew</span>",
+2,15.10.2025,3,2c,5,Rel,<span>Kä</span>,
+2,15.10.2025,3,3c,5,Rel,<span>Zi</span>,
+2,15.10.2025,3,4b,5,Sp,<span>Fu</span>,
+2,15.10.2025,3,"7a, 7b, 7c",5,WPU,Ni,
+2,15.10.2025,3,"7a, 7b, 7c",5,WPU,Sc,
+2,15.10.2025,3,"7a, 7b, 7c",5,WPU,Vo,
+2,15.10.2025,3,"7a, 7b, 7c",5,WPU,Ei,
+2,15.10.2025,3,"7a, 7b, 7c",7,DaZ Auf,Li,
+2,15.10.2025,3,7b,1 - 7,,Ni,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,15.10.2025,3,"8a, 8b, 8c, 8f",1,DaZ Auf,Li,
+2,15.10.2025,3,8c,1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,15.10.2025,3,Hallig,4 - 5,Hallig,Ti,
+2,15.10.2025,3,Hallig,6,Hallig,Ti,
+2,15.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",1 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,15.10.2025,8,"10a, 10b, 9a, 9b, 9c",1,DaZ Auf,Li,
+2,15.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Volley,Pü,
+2,15.10.2025,8,1 Sonnen,1 - 2,Ma,"Sv, Bre, <span>Schu</span>, <span>Vorw</span>",
+2,15.10.2025,8,2a Monde,1 - 2,Deu,<span>Sv</span>,
+2,15.10.2025,8,2b,3,Leseband,<span>Hal</span>,
+2,15.10.2025,8,2c,3,Leseband,<span>Fu</span>,
+2,15.10.2025,8,3a,2 - 3,,Gro,Vorhabenwoche 3.Klasse
+2,15.10.2025,8,3a,4,,Zm,Vorhabenwoche 3.Klasse
+2,15.10.2025,8,"3a, 3b, 3c",2 - 4,Sp,Hi,
+2,15.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Sr,
+2,15.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Lt,
+2,15.10.2025,8,"3a, 3b, 3c",2 - 4,Schw,Ri,
+2,15.10.2025,8,3b,2 - 4,,Lt,Vorhabenwoche 3.Klasse
+2,15.10.2025,8,3c,2 - 4,,Jo,Vorhabenwoche 3.Klasse
+2,15.10.2025,8,9a,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,15.10.2025,8,9b,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,15.10.2025,8,9c,1 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,15.10.2025,8,Hallig,4 - 5,Hallig,Ei,
+2,15.10.2025,8,Hallig,6,Hallig,Ei,
 1,14.10.2025,0,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,14.10.2025,5,"Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,15.10.2025,0,"Klassen: 10a, 10b, 1c, 1 Sonnen, 2a Monde, 2b Monde, 2c, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,15.10.2025,5,"Klassen: 10a, 10b, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
