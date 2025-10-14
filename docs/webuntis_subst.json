@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-14T07:41:09",
+    "scraped_at": "2025-10-14T08:26:21",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -438,16 +438,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "8b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -455,16 +445,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -478,16 +458,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "8f",
         "col_2": "",
         "col_3": "0 - 7",
@@ -495,16 +465,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -990,16 +950,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "8b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -1007,16 +957,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -1030,16 +970,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "8f",
         "col_2": "",
         "col_3": "0 - 7",
@@ -1047,16 +977,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -3022,16 +2942,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "8b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3039,16 +2949,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -3062,16 +2962,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "8f",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3079,16 +2969,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -3574,16 +3454,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "8a",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "8b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3591,16 +3461,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "8b",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -3614,16 +3474,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "8c",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "8f",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3631,16 +3481,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "8f",
-        "col_2": "",
-        "col_3": "1",
-        "col_4": "8a, 8b, 8c, 8f",
-        "col_5": "DaZ Auf",
-        "col_6": "Li",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -5819,21 +5659,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "8b",
       "col_2": "",
       "Stunde": null,
@@ -5846,21 +5671,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -5879,21 +5689,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "8f",
       "col_2": "",
       "Stunde": null,
@@ -5906,21 +5701,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -6644,21 +6424,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "8b",
       "col_2": "",
       "Stunde": null,
@@ -6671,21 +6436,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -6704,21 +6454,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "8f",
       "col_2": "",
       "Stunde": null,
@@ -6731,21 +6466,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -9689,21 +9409,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "8b",
       "col_2": "",
       "Stunde": null,
@@ -9716,21 +9421,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -9749,21 +9439,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "8f",
       "col_2": "",
       "Stunde": null,
@@ -9776,21 +9451,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -10514,21 +10174,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "8a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "8b",
       "col_2": "",
       "Stunde": null,
@@ -10541,21 +10186,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "8b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -10574,21 +10204,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "8c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "8f",
       "col_2": "",
       "Stunde": null,
@@ -10601,21 +10216,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "8f",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "1",
-      "col_4": "8a, 8b, 8c, 8f",
-      "col_5": "DaZ Auf",
-      "col_6": "Li",
-      "col_7": ""
     },
     {
       "table_index": 4,
