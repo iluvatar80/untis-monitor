@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-<header id="report-header" style="font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:1200px;margin:16px auto 8px;padding:12px 16px;display:flex;align-items:baseline;gap:16px;border-bottom:1px solid #ddd;"><h1 style="margin:0;font-size:22px;font-weight:600;">Gottfried-Semper-Schule-Barmstedt Vertretungsplan</h1><div style="opacity:.75;font-size:14px;">Stand: 14.10.2025 18:23 CEST</div></header>
+<header id="report-header" style="font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:1200px;margin:16px auto 8px;padding:12px 16px;display:flex;align-items:baseline;gap:16px;border-bottom:1px solid #ddd;"><h1 style="margin:0;font-size:22px;font-weight:600;">Gottfried-Semper-Schule-Barmstedt Vertretungsplan</h1><div style="opacity:.75;font-size:14px;">Stand: 14.10.2025 18:48 CEST</div></header>
 
   <header>
     <div><strong>Datum:</strong> <select id="dateSel"><option value="">Alle Tage</option></select></div>
@@ -41,7 +41,7 @@
     const v = params.get('v') || Date.now().toString(); // Cache-Buster
     const wantCls = params.get('cls') || '';
 
-    const url = 'untis_subst_normalized.json?v=cd5a87c' + encodeURIComponent(v);
+    const url = 'untis_subst_normalized.json?v=533992d' + encodeURIComponent(v);
 
     function escapeRegex(s){
       return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
