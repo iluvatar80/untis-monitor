@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-14T09:40:15",
+    "scraped_at": "2025-10-14T10:21:38",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -55,16 +55,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "3",
-        "col_4": "1a",
-        "col_5": "Leseband",
-        "col_6": "Kä",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -547,16 +537,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "3",
-        "col_4": "1a",
-        "col_5": "Leseband",
-        "col_6": "Kä",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -2524,16 +2504,6 @@
         "table_index": 3,
         "col_1": "1a",
         "col_2": "",
-        "col_3": "3",
-        "col_4": "1a",
-        "col_5": "Leseband",
-        "col_6": "Kä",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "1a",
-        "col_2": "",
         "col_3": "5",
         "col_4": "1a",
         "col_5": "Deu",
@@ -3011,16 +2981,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "3",
-        "col_4": "1a",
-        "col_5": "Leseband",
-        "col_6": "Kä",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -5016,21 +4976,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "1a",
-      "col_5": "Leseband",
-      "col_6": "Kä",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "1a",
       "col_5": "Deu",
@@ -5741,21 +5686,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "1a",
-      "col_5": "Leseband",
-      "col_6": "Kä",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -8706,21 +8636,6 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "1a",
-      "col_5": "Leseband",
-      "col_6": "Kä",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
       "col_3": "5",
       "col_4": "1a",
       "col_5": "Deu",
@@ -9431,21 +9346,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "3",
-      "col_4": "1a",
-      "col_5": "Leseband",
-      "col_6": "Kä",
-      "col_7": ""
     },
     {
       "table_index": 4,

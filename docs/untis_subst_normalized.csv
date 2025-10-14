@@ -1,6 +1,5 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,14.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,14.10.2025,3,1a,3,Leseband,<span>Kä</span>,
 2,14.10.2025,3,1a,5,Deu,<span>Jo</span>,
 2,14.10.2025,3,1c,4,Sp,<span>Jo</span>,
 2,14.10.2025,3,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
@@ -39,7 +38,6 @@
 2,14.10.2025,8,Hallig,4 - 5,Hallig,Ei,
 2,14.10.2025,8,Hallig,6,Hallig,Ei,
 2,15.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,15.10.2025,3,1a,3,Leseband,<span>Kä</span>,
 2,15.10.2025,3,1a,5,Deu,<span>Jo</span>,
 2,15.10.2025,3,1c,4,Sp,<span>Jo</span>,
 2,15.10.2025,3,2a Monde,4 - 5,Ma,"Sv, <span>Sv</span>",
