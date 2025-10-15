@@ -24,16 +24,6 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "Lü, <span>Lü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "15.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ad</span>",
@@ -94,7 +84,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Sp",
     "lehrkraft": "Hi",
     "text": ""
@@ -104,7 +94,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Sr",
     "text": ""
@@ -114,7 +104,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Lt",
     "text": ""
@@ -124,7 +114,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Ri",
     "text": ""
@@ -564,16 +554,6 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "2",
-    "fach": "Deu",
-    "lehrkraft": "Lü, <span>Lü</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "3",
     "fach": "Leseband",
     "lehrkraft": "<span>Ad</span>",
@@ -634,7 +614,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Sp",
     "lehrkraft": "Hi",
     "text": ""
@@ -644,7 +624,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Sr",
     "text": ""
@@ -654,7 +634,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Lt",
     "text": ""
@@ -664,7 +644,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "2 - 4",
+    "stunde": "3 - 4",
     "fach": "Schw",
     "lehrkraft": "Ri",
     "text": ""
