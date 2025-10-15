@@ -24,50 +24,10 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ad</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "15.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "5",
     "fach": "Sach",
     "lehrkraft": "<span>Jo</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "15.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ge</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "15.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Fu</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "15.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3a",
-    "stunde": "2 - 3",
-    "fach": "",
-    "lehrkraft": "Gro",
-    "text": "Vorhabenwoche 3.Klasse"
   },
   {
     "gruppe": 2,
@@ -84,7 +44,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Sp",
     "lehrkraft": "Hi",
     "text": ""
@@ -94,7 +54,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Sr",
     "text": ""
@@ -104,7 +64,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Lt",
     "text": ""
@@ -114,7 +74,7 @@
     "datum": "15.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Ri",
     "text": ""
@@ -554,50 +514,10 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ad</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "5",
     "fach": "Sach",
     "lehrkraft": "<span>Jo</span>",
     "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Ge</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "2c",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Fu</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3a",
-    "stunde": "2 - 3",
-    "fach": "",
-    "lehrkraft": "Gro",
-    "text": "Vorhabenwoche 3.Klasse"
   },
   {
     "gruppe": 2,
@@ -614,7 +534,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Sp",
     "lehrkraft": "Hi",
     "text": ""
@@ -624,7 +544,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Sr",
     "text": ""
@@ -634,7 +554,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Lt",
     "text": ""
@@ -644,7 +564,7 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "3a, 3b, 3c",
-    "stunde": "3 - 4",
+    "stunde": "4",
     "fach": "Schw",
     "lehrkraft": "Ri",
     "text": ""
@@ -1063,7 +983,7 @@
     "gruppe": 1,
     "datum": "15.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -1083,7 +1003,7 @@
     "gruppe": 1,
     "datum": "16.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
