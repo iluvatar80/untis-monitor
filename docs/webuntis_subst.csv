@@ -1,5 +1,5 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 1a, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
@@ -8,8 +8,6 @@
 3,1a,,,,,,,2,1a,Deu,"Lü, Lü",
 3,1a,,,,,,,3,1a,Leseband,Ad,
 3,1a,,,,,,,5,1a,Sach,Jo,
-3,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Schu , Vorw",
-3,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 3,2b,,,,,,,3,2b,Leseband,Ge,
 3,2c,,,,,,,3,2c,Leseband,Fu,
 3,3a,,,,,,,2 - 3,3a,,Gro,Vorhabenwoche 3.Klasse
@@ -89,8 +87,6 @@
 4,1a,,,,,,,2,1a,Deu,"Lü, Lü",
 4,1a,,,,,,,3,1a,Leseband,Ad,
 4,1a,,,,,,,5,1a,Sach,Jo,
-4,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Schu , Vorw",
-4,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 4,2b,,,,,,,3,2b,Leseband,Ge,
 4,2c,,,,,,,3,2c,Leseband,Fu,
 4,3a,,,,,,,2 - 3,3a,,Gro,Vorhabenwoche 3.Klasse
@@ -317,7 +313,7 @@
 9,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Pr,
 9,Hallig,,,,,,,6,Hallig,Hallig,Pr,
-0,"Klassen: 10a, 10b, 1a, 1 Sonnen, 2a Monde, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1a, 2b, 2c, 3a, 3b, 3c, 4a, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,1 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Volley,Pü,
@@ -326,8 +322,6 @@
 3,1a,,,,,,,2,1a,Deu,"Lü, Lü",
 3,1a,,,,,,,3,1a,Leseband,Ad,
 3,1a,,,,,,,5,1a,Sach,Jo,
-3,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Schu , Vorw",
-3,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 3,2b,,,,,,,3,2b,Leseband,Ge,
 3,2c,,,,,,,3,2c,Leseband,Fu,
 3,3a,,,,,,,2 - 3,3a,,Gro,Vorhabenwoche 3.Klasse
@@ -407,8 +401,6 @@
 4,1a,,,,,,,2,1a,Deu,"Lü, Lü",
 4,1a,,,,,,,3,1a,Leseband,Ad,
 4,1a,,,,,,,5,1a,Sach,Jo,
-4,1 Sonnen,,,,,,,1 - 2,1 Sonnen,Ma,"Sv, Bre, Schu , Vorw",
-4,2a Monde,,,,,,,1 - 2,2a Monde,Deu,Sv,
 4,2b,,,,,,,3,2b,Leseband,Ge,
 4,2c,,,,,,,3,2c,Leseband,Fu,
 4,3a,,,,,,,2 - 3,3a,,Gro,Vorhabenwoche 3.Klasse
