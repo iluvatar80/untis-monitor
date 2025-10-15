@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-15T07:18:54",
+    "scraped_at": "2025-10-15T07:40:43",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -41,7 +41,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -71,7 +71,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -248,6 +248,16 @@
       },
       {
         "table_index": 3,
+        "col_1": "3b",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "3b",
+        "col_5": "Ma",
+        "col_6": "Zi, Zi",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
         "col_1": "3c",
         "col_2": "",
         "col_3": "2 - 4",
@@ -301,7 +311,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -321,7 +331,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -341,7 +351,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -361,7 +371,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -381,7 +391,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -401,10 +411,20 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 3,
+        "col_1": "6b",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "6b",
+        "col_5": "",
+        "col_6": "Bl",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 3,
@@ -421,7 +441,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -441,7 +461,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -461,7 +481,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -551,7 +571,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -601,7 +621,7 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -621,7 +641,7 @@
         "col_1": "8b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -641,7 +661,7 @@
         "col_1": "8c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -661,10 +681,10 @@
         "col_1": "8f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "8f",
         "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_6": "Gr",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 3,
@@ -771,7 +791,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -791,7 +811,7 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -811,7 +831,7 @@
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -843,7 +863,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -873,7 +893,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1050,6 +1070,16 @@
       },
       {
         "table_index": 4,
+        "col_1": "3b",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "3b",
+        "col_5": "Ma",
+        "col_6": "Zi, Zi",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
         "col_1": "3c",
         "col_2": "",
         "col_3": "2 - 4",
@@ -1103,7 +1133,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1123,7 +1153,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1143,7 +1173,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1163,7 +1193,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1183,7 +1213,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1203,10 +1233,20 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 4,
+        "col_1": "6b",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "6b",
+        "col_5": "",
+        "col_6": "Bl",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 4,
@@ -1223,7 +1263,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1243,7 +1283,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1263,7 +1303,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1353,7 +1393,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1403,7 +1443,7 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1423,7 +1463,7 @@
         "col_1": "8b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1443,7 +1483,7 @@
         "col_1": "8c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1463,10 +1503,10 @@
         "col_1": "8f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "8f",
         "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_6": "Gr",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 4,
@@ -1573,7 +1613,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1593,7 +1633,7 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1613,7 +1653,7 @@
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1663,7 +1703,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1673,7 +1713,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1695,7 +1735,7 @@
         "col_3": "2",
         "col_4": "2b",
         "col_5": "Sp",
-        "col_6": "Gro",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -1753,7 +1793,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1763,7 +1803,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1773,7 +1813,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1783,7 +1823,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1793,7 +1833,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1803,7 +1843,7 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1813,7 +1853,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1823,7 +1863,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1833,7 +1873,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1853,7 +1893,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1863,7 +1903,57 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+        "col_5": "",
+        "col_6": "",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "0 - 7",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1872,8 +1962,48 @@
         "table_index": 8,
         "col_1": "8b",
         "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -1882,21 +2012,121 @@
         "table_index": 8,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 8,
         "col_1": "8f",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "8f",
+        "col_5": "Leseband",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "8f",
+        "col_5": "Ma",
+        "col_6": "--- , Gr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "8f",
+        "col_5": "KlR",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 8,
@@ -1945,7 +2175,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -1955,7 +2185,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2015,7 +2245,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2025,7 +2255,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2085,7 +2315,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2095,7 +2325,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2113,7 +2343,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2155,7 +2385,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2165,7 +2395,17 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
         "col_7": ""
       },
       {
@@ -2173,17 +2413,27 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
       },
       {
         "table_index": 8,
+        "col_1": "9g",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2215,7 +2465,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2225,7 +2475,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2247,7 +2497,7 @@
         "col_3": "2",
         "col_4": "2b",
         "col_5": "Sp",
-        "col_6": "Gro",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -2305,7 +2555,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2315,7 +2565,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2325,7 +2575,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2335,7 +2585,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2345,7 +2595,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2355,7 +2605,7 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2365,7 +2615,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2375,7 +2625,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2385,7 +2635,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2405,7 +2655,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2415,7 +2665,57 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+        "col_5": "",
+        "col_6": "",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "0 - 7",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2424,8 +2724,48 @@
         "table_index": 9,
         "col_1": "8b",
         "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2434,21 +2774,121 @@
         "table_index": 9,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 9,
         "col_1": "8f",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "8f",
+        "col_5": "Leseband",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "8f",
+        "col_5": "Ma",
+        "col_6": "--- , Gr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "8f",
+        "col_5": "KlR",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 9,
@@ -2497,7 +2937,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2507,7 +2947,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2567,7 +3007,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2577,7 +3017,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2637,7 +3077,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2647,7 +3087,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -2665,7 +3105,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2707,7 +3147,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -2717,7 +3157,17 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
         "col_7": ""
       },
       {
@@ -2725,17 +3175,27 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
       },
       {
         "table_index": 9,
+        "col_1": "9g",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2785,7 +3245,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2815,7 +3275,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -2992,6 +3452,16 @@
       },
       {
         "table_index": 3,
+        "col_1": "3b",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "3b",
+        "col_5": "Ma",
+        "col_6": "Zi, Zi",
+        "col_7": ""
+      },
+      {
+        "table_index": 3,
         "col_1": "3c",
         "col_2": "",
         "col_3": "2 - 4",
@@ -3045,7 +3515,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3065,7 +3535,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3085,7 +3555,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3105,7 +3575,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3125,7 +3595,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3145,10 +3615,20 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 3,
+        "col_1": "6b",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "6b",
+        "col_5": "",
+        "col_6": "Bl",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 3,
@@ -3165,7 +3645,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3185,7 +3665,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3205,7 +3685,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3295,7 +3775,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3345,7 +3825,7 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3365,7 +3845,7 @@
         "col_1": "8b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3385,7 +3865,7 @@
         "col_1": "8c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3405,10 +3885,10 @@
         "col_1": "8f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "8f",
         "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_6": "Gr",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 3,
@@ -3515,7 +3995,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3535,7 +4015,7 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3555,7 +4035,7 @@
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3587,7 +4067,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3617,7 +4097,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3794,6 +4274,16 @@
       },
       {
         "table_index": 4,
+        "col_1": "3b",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "3b",
+        "col_5": "Ma",
+        "col_6": "Zi, Zi",
+        "col_7": ""
+      },
+      {
+        "table_index": 4,
         "col_1": "3c",
         "col_2": "",
         "col_3": "2 - 4",
@@ -3847,7 +4337,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3867,7 +4357,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3887,7 +4377,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3907,7 +4397,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3927,7 +4417,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3947,10 +4437,20 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 4,
+        "col_1": "6b",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "6b",
+        "col_5": "",
+        "col_6": "Bl",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 4,
@@ -3967,7 +4467,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -3987,7 +4487,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4007,7 +4507,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4097,7 +4597,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4147,7 +4647,7 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4167,7 +4667,7 @@
         "col_1": "8b",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4187,7 +4687,7 @@
         "col_1": "8c",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4207,10 +4707,10 @@
         "col_1": "8f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "8f",
         "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_6": "Gr",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
       },
       {
         "table_index": 4,
@@ -4317,7 +4817,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4337,7 +4837,7 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4357,7 +4857,7 @@
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "1 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4407,7 +4907,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4417,7 +4917,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4439,7 +4939,7 @@
         "col_3": "2",
         "col_4": "2b",
         "col_5": "Sp",
-        "col_6": "Gro",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -4497,7 +4997,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4507,7 +5007,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4517,7 +5017,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4527,7 +5027,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4537,7 +5037,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4547,7 +5047,7 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4557,7 +5057,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4567,7 +5067,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4577,7 +5077,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4597,7 +5097,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4607,7 +5107,57 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+        "col_5": "",
+        "col_6": "",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "0 - 7",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4616,8 +5166,48 @@
         "table_index": 8,
         "col_1": "8b",
         "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4626,21 +5216,121 @@
         "table_index": 8,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 8,
         "col_1": "8f",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "8f",
+        "col_5": "Leseband",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "8f",
+        "col_5": "Ma",
+        "col_6": "--- , Gr",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "8f",
+        "col_5": "KlR",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 8,
@@ -4689,7 +5379,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -4699,7 +5389,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -4759,7 +5449,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -4769,7 +5459,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -4829,7 +5519,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -4839,7 +5529,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -4857,7 +5547,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4899,7 +5589,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -4909,7 +5599,17 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
         "col_7": ""
       },
       {
@@ -4917,17 +5617,27 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
       },
       {
         "table_index": 8,
+        "col_1": "9g",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 8,
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4959,7 +5669,7 @@
         "col_1": "10a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4969,7 +5679,7 @@
         "col_1": "10b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -4991,7 +5701,7 @@
         "col_3": "2",
         "col_4": "2b",
         "col_5": "Sp",
-        "col_6": "Gro",
+        "col_6": "---",
         "col_7": ""
       },
       {
@@ -5049,7 +5759,7 @@
         "col_1": "5a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5059,7 +5769,7 @@
         "col_1": "5b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5069,7 +5779,7 @@
         "col_1": "5c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5079,7 +5789,7 @@
         "col_1": "5d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5089,7 +5799,7 @@
         "col_1": "6a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5099,7 +5809,7 @@
         "col_1": "6b",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5109,7 +5819,7 @@
         "col_1": "6c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5119,7 +5829,7 @@
         "col_1": "6d",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5129,7 +5839,7 @@
         "col_1": "7a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5149,7 +5859,7 @@
         "col_1": "7c",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5159,7 +5869,57 @@
         "col_1": "8a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+        "col_5": "",
+        "col_6": "",
+        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8a",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "0 - 7",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5168,8 +5928,48 @@
         "table_index": 9,
         "col_1": "8b",
         "col_2": "",
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8b",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5178,21 +5978,121 @@
         "table_index": 9,
         "col_1": "8c",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8c",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 9,
         "col_1": "8f",
         "col_2": "",
-        "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-        "col_5": "",
-        "col_6": "",
-        "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+        "col_3": "1",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "DaZ Auf",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "2",
+        "col_4": "8a, 8b, 8c, 8f",
+        "col_5": "WPU",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "3",
+        "col_4": "8f",
+        "col_5": "Leseband",
+        "col_6": "---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "4",
+        "col_4": "8f",
+        "col_5": "Ma",
+        "col_6": "--- , Gr",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "8f",
+        "col_2": "",
+        "col_3": "5 - 6",
+        "col_4": "8f",
+        "col_5": "KlR",
+        "col_6": "---",
+        "col_7": ""
       },
       {
         "table_index": 9,
@@ -5241,7 +6141,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -5251,7 +6151,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -5311,7 +6211,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -5321,7 +6221,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -5381,7 +6281,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -5391,7 +6291,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
         "col_7": ""
       },
       {
@@ -5409,7 +6309,7 @@
         "col_1": "9f",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5451,7 +6351,7 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "HL",
+        "col_6": "Ei",
         "col_7": ""
       },
       {
@@ -5461,7 +6361,17 @@
         "col_3": "2",
         "col_4": "9a, 9b, 9c, 9f",
         "col_5": "WPU",
-        "col_6": "Ei",
+        "col_6": "HL",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
+        "col_1": "9f",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
         "col_7": ""
       },
       {
@@ -5469,17 +6379,27 @@
         "col_1": "9g",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
       },
       {
         "table_index": 9,
+        "col_1": "9g",
+        "col_2": "",
+        "col_3": "5",
+        "col_4": "8f, 9f, 9g",
+        "col_5": "Sp",
+        "col_6": "--- , ---",
+        "col_7": ""
+      },
+      {
+        "table_index": 9,
         "col_1": "DaZ-a",
         "col_2": "",
         "col_3": "0 - 7",
-        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+        "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5547,7 +6467,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5592,7 +6512,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5854,6 +6774,21 @@
     },
     {
       "table_index": 3,
+      "col_1": "3b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "3b",
+      "col_5": "Ma",
+      "col_6": "Zi, Zi",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
       "col_1": "3c",
       "col_2": "",
       "Stunde": null,
@@ -5937,7 +6872,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5967,7 +6902,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -5997,7 +6932,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6027,7 +6962,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6057,7 +6992,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6087,10 +7022,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 3,
+      "col_1": "6b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "6b",
+      "col_5": "",
+      "col_6": "Bl",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 3,
@@ -6117,7 +7067,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6147,7 +7097,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6177,7 +7127,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6312,7 +7262,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6387,7 +7337,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6417,7 +7367,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6447,7 +7397,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6477,10 +7427,10 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "8f",
       "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_6": "Gr",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 3,
@@ -6642,7 +7592,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6672,7 +7622,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6702,7 +7652,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6747,7 +7697,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -6792,7 +7742,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7054,6 +8004,21 @@
     },
     {
       "table_index": 4,
+      "col_1": "3b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "3b",
+      "col_5": "Ma",
+      "col_6": "Zi, Zi",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
       "col_1": "3c",
       "col_2": "",
       "Stunde": null,
@@ -7137,7 +8102,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7167,7 +8132,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7197,7 +8162,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7227,7 +8192,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7257,7 +8222,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7287,10 +8252,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 4,
+      "col_1": "6b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "6b",
+      "col_5": "",
+      "col_6": "Bl",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 4,
@@ -7317,7 +8297,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7347,7 +8327,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7377,7 +8357,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7512,7 +8492,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7587,7 +8567,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7617,7 +8597,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7647,7 +8627,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7677,10 +8657,10 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "8f",
       "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_6": "Gr",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 4,
@@ -7842,7 +8822,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7872,7 +8852,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7902,7 +8882,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7977,7 +8957,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -7992,7 +8972,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8024,7 +9004,7 @@
       "col_3": "2",
       "col_4": "2b",
       "col_5": "Sp",
-      "col_6": "Gro",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -8112,7 +9092,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8127,7 +9107,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8142,7 +9122,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8157,7 +9137,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8172,7 +9152,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8187,7 +9167,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8202,7 +9182,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8217,7 +9197,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8232,7 +9212,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8262,7 +9242,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8277,7 +9257,82 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "0 - 7",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8291,8 +9346,68 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8306,11 +9421,56 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -8321,11 +9481,116 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "8f",
+      "col_5": "Leseband",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "8f",
+      "col_5": "Ma",
+      "col_6": "--- , Gr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "8f",
+      "col_5": "KlR",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -8399,7 +9664,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -8414,7 +9679,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -8504,7 +9769,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -8519,7 +9784,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -8609,7 +9874,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -8624,7 +9889,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -8652,7 +9917,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8714,7 +9979,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -8729,7 +9994,22 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
       "col_7": ""
     },
     {
@@ -8742,10 +10022,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 8,
+      "col_1": "9g",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -8757,7 +10052,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8802,7 +10097,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8817,7 +10112,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8849,7 +10144,7 @@
       "col_3": "2",
       "col_4": "2b",
       "col_5": "Sp",
-      "col_6": "Gro",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -8937,7 +10232,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8952,7 +10247,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8967,7 +10262,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8982,7 +10277,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -8997,7 +10292,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9012,7 +10307,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9027,7 +10322,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9042,7 +10337,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9057,7 +10352,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9087,7 +10382,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9102,7 +10397,82 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "0 - 7",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9116,8 +10486,68 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9131,11 +10561,56 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -9146,11 +10621,116 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "8f",
+      "col_5": "Leseband",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "8f",
+      "col_5": "Ma",
+      "col_6": "--- , Gr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "8f",
+      "col_5": "KlR",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -9224,7 +10804,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -9239,7 +10819,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -9329,7 +10909,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -9344,7 +10924,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -9434,7 +11014,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -9449,7 +11029,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -9477,7 +11057,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9539,7 +11119,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -9554,7 +11134,22 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
       "col_7": ""
     },
     {
@@ -9567,10 +11162,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 9,
+      "col_1": "9g",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -9582,7 +11192,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9657,7 +11267,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9702,7 +11312,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -9964,6 +11574,21 @@
     },
     {
       "table_index": 3,
+      "col_1": "3b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "3b",
+      "col_5": "Ma",
+      "col_6": "Zi, Zi",
+      "col_7": ""
+    },
+    {
+      "table_index": 3,
       "col_1": "3c",
       "col_2": "",
       "Stunde": null,
@@ -10047,7 +11672,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10077,7 +11702,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10107,7 +11732,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10137,7 +11762,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10167,7 +11792,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10197,10 +11822,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 3,
+      "col_1": "6b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "6b",
+      "col_5": "",
+      "col_6": "Bl",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 3,
@@ -10227,7 +11867,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10257,7 +11897,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10287,7 +11927,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10422,7 +12062,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10497,7 +12137,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10527,7 +12167,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10557,7 +12197,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10587,10 +12227,10 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "8f",
       "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_6": "Gr",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 3,
@@ -10752,7 +12392,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10782,7 +12422,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10812,7 +12452,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10857,7 +12497,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -10902,7 +12542,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11164,6 +12804,21 @@
     },
     {
       "table_index": 4,
+      "col_1": "3b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "3b",
+      "col_5": "Ma",
+      "col_6": "Zi, Zi",
+      "col_7": ""
+    },
+    {
+      "table_index": 4,
       "col_1": "3c",
       "col_2": "",
       "Stunde": null,
@@ -11247,7 +12902,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11277,7 +12932,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11307,7 +12962,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11337,7 +12992,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11367,7 +13022,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11397,10 +13052,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 4,
+      "col_1": "6b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "6b",
+      "col_5": "",
+      "col_6": "Bl",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 4,
@@ -11427,7 +13097,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11457,7 +13127,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11487,7 +13157,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11622,7 +13292,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11697,7 +13367,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11727,7 +13397,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11757,7 +13427,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11787,10 +13457,10 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "8f",
       "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_6": "Gr",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
     },
     {
       "table_index": 4,
@@ -11952,7 +13622,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -11982,7 +13652,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12012,7 +13682,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "1 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12087,7 +13757,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12102,7 +13772,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12134,7 +13804,7 @@
       "col_3": "2",
       "col_4": "2b",
       "col_5": "Sp",
-      "col_6": "Gro",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -12222,7 +13892,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12237,7 +13907,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12252,7 +13922,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12267,7 +13937,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12282,7 +13952,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12297,7 +13967,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12312,7 +13982,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12327,7 +13997,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12342,7 +14012,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12372,7 +14042,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12387,7 +14057,82 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "0 - 7",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12401,8 +14146,68 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12416,11 +14221,56 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -12431,11 +14281,116 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "8f",
+      "col_5": "Leseband",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "8f",
+      "col_5": "Ma",
+      "col_6": "--- , Gr",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "8f",
+      "col_5": "KlR",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -12509,7 +14464,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -12524,7 +14479,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -12614,7 +14569,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -12629,7 +14584,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -12719,7 +14674,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -12734,7 +14689,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -12762,7 +14717,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12824,7 +14779,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -12839,7 +14794,22 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
+      "col_7": ""
+    },
+    {
+      "table_index": 8,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
       "col_7": ""
     },
     {
@@ -12852,10 +14822,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 8,
+      "col_1": "9g",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
     },
     {
       "table_index": 8,
@@ -12867,7 +14852,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12912,7 +14897,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12927,7 +14912,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -12959,7 +14944,7 @@
       "col_3": "2",
       "col_4": "2b",
       "col_5": "Sp",
-      "col_6": "Gro",
+      "col_6": "---",
       "col_7": ""
     },
     {
@@ -13047,7 +15032,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13062,7 +15047,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13077,7 +15062,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13092,7 +15077,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13107,7 +15092,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13122,7 +15107,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13137,7 +15122,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13152,7 +15137,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13167,7 +15152,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13197,7 +15182,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13212,7 +15197,82 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8a",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "0 - 7",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13226,8 +15286,68 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8b",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13241,11 +15361,56 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8c",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -13256,11 +15421,116 @@
       "Fach": null,
       "Lehrkraft": null,
       "Vertretungstext": null,
-      "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
-      "col_5": "",
-      "col_6": "",
-      "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+      "col_3": "1",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "DaZ Auf",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "2",
+      "col_4": "8a, 8b, 8c, 8f",
+      "col_5": "WPU",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "3",
+      "col_4": "8f",
+      "col_5": "Leseband",
+      "col_6": "---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "4",
+      "col_4": "8f",
+      "col_5": "Ma",
+      "col_6": "--- , Gr",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "8f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5 - 6",
+      "col_4": "8f",
+      "col_5": "KlR",
+      "col_6": "---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -13334,7 +15604,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -13349,7 +15619,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -13439,7 +15709,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -13454,7 +15724,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -13544,7 +15814,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -13559,7 +15829,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
       "col_7": ""
     },
     {
@@ -13587,7 +15857,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
@@ -13649,7 +15919,7 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "HL",
+      "col_6": "Ei",
       "col_7": ""
     },
     {
@@ -13664,7 +15934,22 @@
       "col_3": "2",
       "col_4": "9a, 9b, 9c, 9f",
       "col_5": "WPU",
-      "col_6": "Ei",
+      "col_6": "HL",
+      "col_7": ""
+    },
+    {
+      "table_index": 9,
+      "col_1": "9f",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
       "col_7": ""
     },
     {
@@ -13677,10 +15962,25 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+    },
+    {
+      "table_index": 9,
+      "col_1": "9g",
+      "col_2": "",
+      "Stunde": null,
+      "Klassen": null,
+      "Fach": null,
+      "Lehrkraft": null,
+      "Vertretungstext": null,
+      "col_3": "5",
+      "col_4": "8f, 9f, 9g",
+      "col_5": "Sp",
+      "col_6": "--- , ---",
+      "col_7": ""
     },
     {
       "table_index": 9,
@@ -13692,7 +15992,7 @@
       "Lehrkraft": null,
       "Vertretungstext": null,
       "col_3": "0 - 7",
-      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+      "col_4": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"

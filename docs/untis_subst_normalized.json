@@ -3,7 +3,7 @@
     "gruppe": 2,
     "datum": "15.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -143,11 +143,31 @@
     "gruppe": 2,
     "datum": "15.10.2025",
     "quelle_table_index": 3,
+    "klasse": "3b",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "Zi, <span>Zi</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 3,
     "klasse": "3c",
     "stunde": "2 - 4",
     "fach": "",
     "lehrkraft": "Jo",
     "text": "Vorhabenwoche 3.Klasse"
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "6b",
+    "stunde": "5 - 6",
+    "fach": "",
+    "lehrkraft": "Bl",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
   },
   {
     "gruppe": 2,
@@ -188,6 +208,16 @@
     "fach": "Rel",
     "lehrkraft": "Sn",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "8f",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Gr",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
   },
   {
     "gruppe": 2,
@@ -243,7 +273,7 @@
     "gruppe": 2,
     "datum": "15.10.2025",
     "quelle_table_index": 8,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
     "stunde": "0 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -266,7 +296,7 @@
     "klasse": "2b",
     "stunde": "2",
     "fach": "Sp",
-    "lehrkraft": "<span>Gro</span>",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -333,6 +363,66 @@
     "gruppe": 2,
     "datum": "15.10.2025",
     "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "1",
+    "fach": "DaZ Auf",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "2",
+    "fach": "WPU",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Gr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f, 9f, 9g",
+    "stunde": "5",
+    "fach": "Sp",
+    "lehrkraft": "<span>---</span>, <span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "5 - 6",
+    "fach": "KlR",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "15.10.2025",
+    "quelle_table_index": 8,
     "klasse": "9a",
     "stunde": "0 - 7",
     "fach": "",
@@ -376,7 +466,7 @@
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "HL",
+    "lehrkraft": "Ei",
     "text": ""
   },
   {
@@ -386,7 +476,7 @@
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "Ei",
+    "lehrkraft": "HL",
     "text": ""
   },
   {
@@ -443,7 +533,7 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 3,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -583,11 +673,31 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 3,
+    "klasse": "3b",
+    "stunde": "5",
+    "fach": "Ma",
+    "lehrkraft": "Zi, <span>Zi</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 3,
     "klasse": "3c",
     "stunde": "2 - 4",
     "fach": "",
     "lehrkraft": "Jo",
     "text": "Vorhabenwoche 3.Klasse"
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "6b",
+    "stunde": "5 - 6",
+    "fach": "",
+    "lehrkraft": "Bl",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
   },
   {
     "gruppe": 2,
@@ -628,6 +738,16 @@
     "fach": "Rel",
     "lehrkraft": "Sn",
     "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "8f",
+    "stunde": "1 - 7",
+    "fach": "",
+    "lehrkraft": "Gr",
+    "text": "Klassenlehrerunterricht - 8:30 Uhr bis 12:05 Uhr"
   },
   {
     "gruppe": 2,
@@ -683,7 +803,7 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 8,
-    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",
+    "klasse": "10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 9f, 9g, DaZ-a",
     "stunde": "0 - 7",
     "fach": "",
     "lehrkraft": "",
@@ -706,7 +826,7 @@
     "klasse": "2b",
     "stunde": "2",
     "fach": "Sp",
-    "lehrkraft": "<span>Gro</span>",
+    "lehrkraft": "<span>---</span>",
     "text": ""
   },
   {
@@ -773,6 +893,66 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "1",
+    "fach": "DaZ Auf",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8a, 8b, 8c, 8f",
+    "stunde": "2",
+    "fach": "WPU",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "4",
+    "fach": "Ma",
+    "lehrkraft": "<span>---</span>, Gr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f, 9f, 9g",
+    "stunde": "5",
+    "fach": "Sp",
+    "lehrkraft": "<span>---</span>, <span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "8f",
+    "stunde": "5 - 6",
+    "fach": "KlR",
+    "lehrkraft": "<span>---</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
     "klasse": "9a",
     "stunde": "0 - 7",
     "fach": "",
@@ -816,7 +996,7 @@
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "HL",
+    "lehrkraft": "Ei",
     "text": ""
   },
   {
@@ -826,7 +1006,7 @@
     "klasse": "9a, 9b, 9c, 9f",
     "stunde": "2",
     "fach": "WPU",
-    "lehrkraft": "Ei",
+    "lehrkraft": "HL",
     "text": ""
   },
   {
