@@ -286,7 +286,7 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Li</span>",
     "text": ""
   },
   {
@@ -316,7 +316,7 @@
     "klasse": "3b",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Re</span>",
     "text": ""
   },
   {
@@ -326,7 +326,7 @@
     "klasse": "6a",
     "stunde": "4",
     "fach": "Sp",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -346,7 +346,17 @@
     "klasse": "7a",
     "stunde": "2",
     "fach": "WK",
-    "lehrkraft": "<span>Rr</span>",
+    "lehrkraft": "<span>Kt</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "16.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>Kt</span>",
     "text": ""
   },
   {
@@ -356,7 +366,7 @@
     "klasse": "7a, 7b, 7c",
     "stunde": "5",
     "fach": "WPU",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -366,7 +376,7 @@
     "klasse": "8a",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Rr</span>",
     "text": ""
   },
   {
@@ -376,7 +386,7 @@
     "klasse": "8b",
     "stunde": "5",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Ls</span>",
     "text": ""
   },
   {
@@ -706,7 +716,7 @@
     "klasse": "10a",
     "stunde": "5",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Li</span>",
     "text": ""
   },
   {
@@ -736,7 +746,7 @@
     "klasse": "3b",
     "stunde": "3",
     "fach": "Leseband",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Re</span>",
     "text": ""
   },
   {
@@ -746,7 +756,7 @@
     "klasse": "6a",
     "stunde": "4",
     "fach": "Sp",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -766,7 +776,17 @@
     "klasse": "7a",
     "stunde": "2",
     "fach": "WK",
-    "lehrkraft": "<span>Rr</span>",
+    "lehrkraft": "<span>Kt</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "17.10.2025",
+    "quelle_table_index": 8,
+    "klasse": "7a",
+    "stunde": "3",
+    "fach": "Leseband",
+    "lehrkraft": "<span>Kt</span>",
     "text": ""
   },
   {
@@ -776,7 +796,7 @@
     "klasse": "7a, 7b, 7c",
     "stunde": "5",
     "fach": "WPU",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Pü</span>",
     "text": ""
   },
   {
@@ -786,7 +806,7 @@
     "klasse": "8a",
     "stunde": "4",
     "fach": "Eng",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Rr</span>",
     "text": ""
   },
   {
@@ -796,7 +816,7 @@
     "klasse": "8b",
     "stunde": "5",
     "fach": "Deu",
-    "lehrkraft": "<span>---</span>",
+    "lehrkraft": "<span>Ls</span>",
     "text": ""
   },
   {
