@@ -1,11 +1,13 @@
 ﻿table_index,col_1,col_2,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,col_3,col_4,col_5,col_6,col_7
-0,"Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,3a,,,,,,,1 - 7,3a,,Hr,
-3,3b,,,,,,,6,3b,Ma,"Zi, Zi",
-3,3c,,,,,,,6,3c,KlR,Ad,
+3,1a,,,,,,,5,1a,Rel,Gro,
+3,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
+3,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
+3,3a,,,,,,,6,3a,Sp,Gro,
+3,4b,,,,,,,6,4b,Sp,Lt,
 3,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -15,24 +17,82 @@
 3,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7b,,,,,,,1 - 7,7b,,Sn,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
+3,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,Hallig,,,,,,,6,Hallig,Hallig,Pr,
+3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
+3,Hallig,,,,,,,6,Hallig,Hallig,Bk,
 4,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,3a,,,,,,,1 - 7,3a,,Hr,
-4,3b,,,,,,,6,3b,Ma,"Zi, Zi",
-4,3c,,,,,,,6,3c,KlR,Ad,
+4,1a,,,,,,,5,1a,Rel,Gro,
+4,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
+4,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
+4,3a,,,,,,,6,3a,Sp,Gro,
+4,4b,,,,,,,6,4b,Sp,Lt,
 4,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -42,198 +102,206 @@
 4,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7b,,,,,,,1 - 7,7b,,Sn,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
+4,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,Hallig,,,,,,,6,Hallig,Hallig,Pr,
-5,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
+4,Hallig,,,,,,,6,Hallig,Hallig,Bk,
+5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,1a,,,,,,,5,1a,Rel,Gro,
-8,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
-8,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
-8,3a,,,,,,,6,3a,Sp,Gro,
-8,4b,,,,,,,6,4b,Sp,Lt,
-8,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
-8,Hallig,,,,,,,6,Hallig,Hallig,Bk,
-9,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,1a,,,,,,,5,1a,Rel,Gro,
-9,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
-9,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
-9,3a,,,,,,,6,3a,Sp,Gro,
-9,4b,,,,,,,6,4b,Sp,Lt,
-9,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
-9,Hallig,,,,,,,6,Hallig,Hallig,Bk,
-0,"Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+8,10a,,,,,,,2,"10a, 10b",WPU,Vo,
+8,10a,,,,,,,5,10a,Eng,---,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,10b,,,,,,,2,"10a, 10b",WPU,Vo,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,3b,,,,,,,3,3b,Leseband,---,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6a,,,,,,,4,6a,Sp,---,
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7a,,,,,,,1,7a,KlR,"Bon , Bon",
+8,7a,,,,,,,2,7a,WK,Rr,
+8,7a,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7b,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7c,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8a,,,,,,,4,8a,Eng,---,
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8b,,,,,,,5,8b,Deu,---,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9a,,,,,,,1 - 7,9a,,Hu,Betriebspraktikum
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9b,,,,,,,1 - 7,9b,,Sn,Betriebspraktikum
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9c,,,,,,,1 - 7,9c,,Vo,Betriebspraktikum
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9f,,,,,,,1 - 7,9f,,Ne,Betriebspraktikum
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,10a,,,,,,,2,"10a, 10b",WPU,Vo,
+9,10a,,,,,,,5,10a,Eng,---,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,10b,,,,,,,2,"10a, 10b",WPU,Vo,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,3b,,,,,,,3,3b,Leseband,---,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6a,,,,,,,4,6a,Sp,---,
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7a,,,,,,,1,7a,KlR,"Bon , Bon",
+9,7a,,,,,,,2,7a,WK,Rr,
+9,7a,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7b,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7c,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8a,,,,,,,4,8a,Eng,---,
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8b,,,,,,,5,8b,Deu,---,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9a,,,,,,,1 - 7,9a,,Hu,Betriebspraktikum
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9b,,,,,,,1 - 7,9b,,Sn,Betriebspraktikum
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9c,,,,,,,1 - 7,9c,,Vo,Betriebspraktikum
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9f,,,,,,,1 - 7,9f,,Ne,Betriebspraktikum
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
 2,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
 3,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,3a,,,,,,,1 - 7,3a,,Hr,
-3,3b,,,,,,,6,3b,Ma,"Zi, Zi",
-3,3c,,,,,,,6,3c,KlR,Ad,
+3,1a,,,,,,,5,1a,Rel,Gro,
+3,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
+3,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
+3,3a,,,,,,,6,3a,Sp,Gro,
+3,4b,,,,,,,6,4b,Sp,Lt,
 3,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -243,24 +311,82 @@
 3,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7b,,,,,,,1 - 7,7b,,Sn,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
+3,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+3,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+3,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 3,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,Hallig,,,,,,,6,Hallig,Hallig,Pr,
+3,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
+3,Hallig,,,,,,,6,Hallig,Hallig,Bk,
 4,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,3a,,,,,,,1 - 7,3a,,Hr,
-4,3b,,,,,,,6,3b,Ma,"Zi, Zi",
-4,3c,,,,,,,6,3c,KlR,Ad,
+4,1a,,,,,,,5,1a,Rel,Gro,
+4,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
+4,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
+4,3a,,,,,,,6,3a,Sp,Gro,
+4,4b,,,,,,,6,4b,Sp,Lt,
 4,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -270,188 +396,194 @@
 4,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7b,,,,,,,1 - 7,7b,,Sn,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
+4,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
+4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
+4,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
+4,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
 4,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,Hallig,,,,,,,6,Hallig,Hallig,Pr,
-5,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,,,,,,,,
+4,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
+4,Hallig,,,,,,,6,Hallig,Hallig,Bk,
+5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,,,,,,,,
 7,,,Stunde,Klassen,Fach,Lehrkraft,Vertretungstext,,,,,
-8,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,1a,,,,,,,5,1a,Rel,Gro,
-8,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
-8,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
-8,3a,,,,,,,6,3a,Sp,Gro,
-8,4b,,,,,,,6,4b,Sp,Lt,
-8,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,5d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-8,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-8,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-8,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-8,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-8,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-8,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
-8,Hallig,,,,,,,6,Hallig,Hallig,Bk,
-9,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,1a,,,,,,,5,1a,Rel,Gro,
-9,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
-9,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
-9,3a,,,,,,,6,3a,Sp,Gro,
-9,4b,,,,,,,6,4b,Sp,Lt,
-9,5a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,5d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7a,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7b,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,7c,,,,,,,1,"7a, 7b, 7c",DaZ Auf,Li,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-9,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
-9,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,8f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,9a,,,,,,,0 - 7,9a,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9a,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9a,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9b,,,,,,,0 - 7,9b,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9b,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9b,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9c,,,,,,,0 - 7,9c,,,Projektprüfungen nach Prüfplan kein Unterricht
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9c,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9c,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9f,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Re,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,HL,
-9,9f,,,,,,,5,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Pü,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Re,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Sc,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,HL,
-9,9f,,,,,,,6,"9a, 9b, 9c, 9f",WPU,Ei,
-9,9g,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,DaZ-a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-9,Hallig,,,,,,,4 - 5,Hallig,Hallig,Bk,
-9,Hallig,,,,,,,6,Hallig,Hallig,Bk,
+8,10a,,,,,,,2,"10a, 10b",WPU,Vo,
+8,10a,,,,,,,5,10a,Eng,---,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,10b,,,,,,,2,"10a, 10b",WPU,Vo,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,3b,,,,,,,3,3b,Leseband,---,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6a,,,,,,,4,6a,Sp,---,
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7a,,,,,,,1,7a,KlR,"Bon , Bon",
+8,7a,,,,,,,2,7a,WK,Rr,
+8,7a,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7b,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,7c,,,,,,,5,"7a, 7b, 7c",WPU,---,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8a,,,,,,,4,8a,Eng,---,
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8b,,,,,,,5,8b,Deu,---,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9a,,,,,,,1 - 7,9a,,Hu,Betriebspraktikum
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9b,,,,,,,1 - 7,9b,,Sn,Betriebspraktikum
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9c,,,,,,,1 - 7,9c,,Vo,Betriebspraktikum
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9f,,,,,,,1 - 7,9f,,Ne,Betriebspraktikum
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+8,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,10a,,,,,,,2,"10a, 10b",WPU,Vo,
+9,10a,,,,,,,5,10a,Eng,---,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,10a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,10b,,,,,,,2,"10a, 10b",WPU,Vo,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,10b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,3b,,,,,,,3,3b,Leseband,---,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,5d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6a,,,,,,,4,6a,Sp,---,
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,6d,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7a,,,,,,,1,7a,KlR,"Bon , Bon",
+9,7a,,,,,,,2,7a,WK,Rr,
+9,7a,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7b,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,7c,,,,,,,5,"7a, 7b, 7c",WPU,---,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,7c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8a,,,,,,,4,8a,Eng,---,
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8b,,,,,,,5,8b,Deu,---,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,8f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9a,,,,,,,1 - 7,9a,,Hu,Betriebspraktikum
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9a,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9b,,,,,,,1 - 7,9b,,Sn,Betriebspraktikum
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9b,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9c,,,,,,,1 - 7,9c,,Vo,Betriebspraktikum
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9c,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9f,,,,,,,1 - 7,9f,,Ne,Betriebspraktikum
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9f,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Mofa,Pr,
+9,9g,,,,,,,7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",AG Global,Bk,
