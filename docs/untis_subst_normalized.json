@@ -13,16 +13,6 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 3,
-    "klasse": "1a",
-    "stunde": "5",
-    "fach": "Sp",
-    "lehrkraft": "<span>Vo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
     "klasse": "3a",
     "stunde": "1 - 7",
     "fach": "",
@@ -37,16 +27,6 @@
     "stunde": "6",
     "fach": "Ma",
     "lehrkraft": "Zi, <span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3c",
-    "stunde": "5",
-    "fach": "Sach",
-    "lehrkraft": "Hb, <span>Hb</span>, Bon",
     "text": ""
   },
   {
@@ -83,16 +63,6 @@
     "gruppe": 2,
     "datum": "16.10.2025",
     "quelle_table_index": 3,
-    "klasse": "9a, 9b, 9c",
-    "stunde": "5",
-    "fach": "Phi",
-    "lehrkraft": "Wei",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "0 - 7",
     "fach": "",
@@ -108,16 +78,6 @@
     "fach": "",
     "lehrkraft": "",
     "text": "Projektprüfungen nach Prüfplan kein Unterricht"
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "Hallig",
-    "stunde": "5",
-    "fach": "Hallig",
-    "lehrkraft": "Pr",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -373,16 +333,6 @@
     "gruppe": 2,
     "datum": "17.10.2025",
     "quelle_table_index": 3,
-    "klasse": "1a",
-    "stunde": "5",
-    "fach": "Sp",
-    "lehrkraft": "<span>Vo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
     "klasse": "3a",
     "stunde": "1 - 7",
     "fach": "",
@@ -397,16 +347,6 @@
     "stunde": "6",
     "fach": "Ma",
     "lehrkraft": "Zi, <span>Zi</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3c",
-    "stunde": "5",
-    "fach": "Sach",
-    "lehrkraft": "Hb, <span>Hb</span>, Bon",
     "text": ""
   },
   {
@@ -443,16 +383,6 @@
     "gruppe": 2,
     "datum": "17.10.2025",
     "quelle_table_index": 3,
-    "klasse": "9a, 9b, 9c",
-    "stunde": "5",
-    "fach": "Phi",
-    "lehrkraft": "Wei",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
     "klasse": "9b",
     "stunde": "0 - 7",
     "fach": "",
@@ -468,16 +398,6 @@
     "fach": "",
     "lehrkraft": "",
     "text": "Projektprüfungen nach Prüfplan kein Unterricht"
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "Hallig",
-    "stunde": "5",
-    "fach": "Hallig",
-    "lehrkraft": "Pr",
-    "text": ""
   },
   {
     "gruppe": 2,
@@ -723,7 +643,7 @@
     "gruppe": 1,
     "datum": "16.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",
@@ -743,7 +663,7 @@
     "gruppe": 1,
     "datum": "17.10.2025",
     "quelle_table_index": 0,
-    "klasse": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+    "klasse": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
     "stunde": "",
     "fach": "",
     "lehrkraft": "",

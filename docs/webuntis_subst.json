@@ -1,7 +1,7 @@
 {
   "meta": {
     "url": "https://nessa.webuntis.com/WebUntis/monitor?school=Barmstedt%20Schule&monitorType=subst&format=Homepage",
-    "scraped_at": "2025-10-16T11:42:13",
+    "scraped_at": "2025-10-16T12:20:35",
     "slide1": {
       "tables": 10,
       "headers": 2
@@ -20,7 +20,7 @@
     "0": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
       }
     ],
     "1": [
@@ -58,16 +58,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "1a",
-        "col_5": "Sp",
-        "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "3a",
         "col_2": "",
         "col_3": "1 - 7",
@@ -84,16 +74,6 @@
         "col_4": "3b",
         "col_5": "Ma",
         "col_6": "Zi, Zi",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "3c",
-        "col_5": "Sach",
-        "col_6": "Hb, Hb , Bon",
         "col_7": ""
       },
       {
@@ -268,16 +248,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "9a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "9b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -288,16 +258,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "9c",
         "col_2": "",
         "col_3": "0 - 7",
@@ -305,16 +265,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -345,16 +295,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "Hallig",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "Hallig",
-        "col_5": "Hallig",
-        "col_6": "Pr",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -390,16 +330,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "1a",
-        "col_5": "Sp",
-        "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "3a",
         "col_2": "",
         "col_3": "1 - 7",
@@ -416,16 +346,6 @@
         "col_4": "3b",
         "col_5": "Ma",
         "col_6": "Zi, Zi",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "3c",
-        "col_5": "Sach",
-        "col_6": "Hb, Hb , Bon",
         "col_7": ""
       },
       {
@@ -600,16 +520,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "9a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "9b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -620,16 +530,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "9c",
         "col_2": "",
         "col_3": "0 - 7",
@@ -637,16 +537,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -677,16 +567,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "Hallig",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "Hallig",
-        "col_5": "Hallig",
-        "col_6": "Pr",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -2424,7 +2304,7 @@
     "8": [
       {
         "table_index": 0,
-        "col_1": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
+        "col_1": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig"
       }
     ],
     "9": [
@@ -2462,16 +2342,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "1a",
-        "col_5": "Sp",
-        "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "3a",
         "col_2": "",
         "col_3": "1 - 7",
@@ -2488,16 +2358,6 @@
         "col_4": "3b",
         "col_5": "Ma",
         "col_6": "Zi, Zi",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
-        "col_1": "3c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "3c",
-        "col_5": "Sach",
-        "col_6": "Hb, Hb , Bon",
         "col_7": ""
       },
       {
@@ -2672,16 +2532,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "9a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "9b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -2692,16 +2542,6 @@
       },
       {
         "table_index": 3,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 3,
         "col_1": "9c",
         "col_2": "",
         "col_3": "0 - 7",
@@ -2709,16 +2549,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-      },
-      {
-        "table_index": 3,
-        "col_1": "9c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -2749,16 +2579,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 3,
-        "col_1": "Hallig",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "Hallig",
-        "col_5": "Hallig",
-        "col_6": "Pr",
-        "col_7": ""
       },
       {
         "table_index": 3,
@@ -2794,16 +2614,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "1a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "1a",
-        "col_5": "Sp",
-        "col_6": "Vo",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "3a",
         "col_2": "",
         "col_3": "1 - 7",
@@ -2820,16 +2630,6 @@
         "col_4": "3b",
         "col_5": "Ma",
         "col_6": "Zi, Zi",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
-        "col_1": "3c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "3c",
-        "col_5": "Sach",
-        "col_6": "Hb, Hb , Bon",
         "col_7": ""
       },
       {
@@ -3004,16 +2804,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "9a",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "9b",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3024,16 +2814,6 @@
       },
       {
         "table_index": 4,
-        "col_1": "9b",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
-      },
-      {
-        "table_index": 4,
         "col_1": "9c",
         "col_2": "",
         "col_3": "0 - 7",
@@ -3041,16 +2821,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-      },
-      {
-        "table_index": 4,
-        "col_1": "9c",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "9a, 9b, 9c",
-        "col_5": "Phi",
-        "col_6": "Wei",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -3081,16 +2851,6 @@
         "col_5": "",
         "col_6": "",
         "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-      },
-      {
-        "table_index": 4,
-        "col_1": "Hallig",
-        "col_2": "",
-        "col_3": "5",
-        "col_4": "Hallig",
-        "col_5": "Hallig",
-        "col_6": "Pr",
-        "col_7": ""
       },
       {
         "table_index": 4,
@@ -4829,7 +4589,7 @@
   "combined": [
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -4889,21 +4649,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "1a",
-      "col_5": "Sp",
-      "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "3a",
       "col_2": "",
       "Stunde": null,
@@ -4930,21 +4675,6 @@
       "col_4": "3b",
       "col_5": "Ma",
       "col_6": "Zi, Zi",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "3c",
-      "col_5": "Sach",
-      "col_6": "Hb, Hb , Bon",
       "col_7": ""
     },
     {
@@ -5204,21 +4934,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "9b",
       "col_2": "",
       "Stunde": null,
@@ -5234,21 +4949,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "9c",
       "col_2": "",
       "Stunde": null,
@@ -5261,21 +4961,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -5321,21 +5006,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "Hallig",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "Hallig",
-      "col_5": "Hallig",
-      "col_6": "Pr",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -5384,21 +5054,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "1a",
-      "col_5": "Sp",
-      "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "3a",
       "col_2": "",
       "Stunde": null,
@@ -5425,21 +5080,6 @@
       "col_4": "3b",
       "col_5": "Ma",
       "col_6": "Zi, Zi",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "3c",
-      "col_5": "Sach",
-      "col_6": "Hb, Hb , Bon",
       "col_7": ""
     },
     {
@@ -5699,21 +5339,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "9b",
       "col_2": "",
       "Stunde": null,
@@ -5729,21 +5354,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "9c",
       "col_2": "",
       "Stunde": null,
@@ -5756,21 +5366,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -5816,21 +5411,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "Hallig",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "Hallig",
-      "col_5": "Hallig",
-      "col_6": "Pr",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -8429,7 +8009,7 @@
     },
     {
       "table_index": 0,
-      "col_1": "Klassen: 10a, 10b, 1a, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
+      "col_1": "Klassen: 10a, 10b, 3a, 3b, 3c, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",
       "col_2": null,
       "Stunde": null,
       "Klassen": null,
@@ -8489,21 +8069,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "1a",
-      "col_5": "Sp",
-      "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "3a",
       "col_2": "",
       "Stunde": null,
@@ -8530,21 +8095,6 @@
       "col_4": "3b",
       "col_5": "Ma",
       "col_6": "Zi, Zi",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
-      "col_1": "3c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "3c",
-      "col_5": "Sach",
-      "col_6": "Hb, Hb , Bon",
       "col_7": ""
     },
     {
@@ -8804,21 +8354,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "9b",
       "col_2": "",
       "Stunde": null,
@@ -8834,21 +8369,6 @@
     },
     {
       "table_index": 3,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 3,
       "col_1": "9c",
       "col_2": "",
       "Stunde": null,
@@ -8861,21 +8381,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-    },
-    {
-      "table_index": 3,
-      "col_1": "9c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -8921,21 +8426,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 3,
-      "col_1": "Hallig",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "Hallig",
-      "col_5": "Hallig",
-      "col_6": "Pr",
-      "col_7": ""
     },
     {
       "table_index": 3,
@@ -8984,21 +8474,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "1a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "1a",
-      "col_5": "Sp",
-      "col_6": "Vo",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "3a",
       "col_2": "",
       "Stunde": null,
@@ -9025,21 +8500,6 @@
       "col_4": "3b",
       "col_5": "Ma",
       "col_6": "Zi, Zi",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
-      "col_1": "3c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "3c",
-      "col_5": "Sach",
-      "col_6": "Hb, Hb , Bon",
       "col_7": ""
     },
     {
@@ -9299,21 +8759,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "9a",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "9b",
       "col_2": "",
       "Stunde": null,
@@ -9329,21 +8774,6 @@
     },
     {
       "table_index": 4,
-      "col_1": "9b",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
-    },
-    {
-      "table_index": 4,
       "col_1": "9c",
       "col_2": "",
       "Stunde": null,
@@ -9356,21 +8786,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Projektprüfungen nach Prüfplan kein Unterricht"
-    },
-    {
-      "table_index": 4,
-      "col_1": "9c",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "9a, 9b, 9c",
-      "col_5": "Phi",
-      "col_6": "Wei",
-      "col_7": ""
     },
     {
       "table_index": 4,
@@ -9416,21 +8831,6 @@
       "col_5": "",
       "col_6": "",
       "col_7": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
-    },
-    {
-      "table_index": 4,
-      "col_1": "Hallig",
-      "col_2": "",
-      "Stunde": null,
-      "Klassen": null,
-      "Fach": null,
-      "Lehrkraft": null,
-      "Vertretungstext": null,
-      "col_3": "5",
-      "col_4": "Hallig",
-      "col_5": "Hallig",
-      "col_6": "Pr",
-      "col_7": ""
     },
     {
       "table_index": 4,
