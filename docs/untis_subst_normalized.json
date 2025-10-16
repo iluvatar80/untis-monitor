@@ -14,16 +14,6 @@
     "datum": "16.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Jo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "5",
     "fach": "Sp",
     "lehrkraft": "<span>Vo</span>",
@@ -37,16 +27,6 @@
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "Hr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "16.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "Zm, <span>Zm</span>",
     "text": ""
   },
   {
@@ -374,16 +354,6 @@
     "datum": "17.10.2025",
     "quelle_table_index": 3,
     "klasse": "1a",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "<span>Jo</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "1a",
     "stunde": "5",
     "fach": "Sp",
     "lehrkraft": "<span>Vo</span>",
@@ -397,16 +367,6 @@
     "stunde": "1 - 7",
     "fach": "",
     "lehrkraft": "Hr",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "3b",
-    "stunde": "3",
-    "fach": "Leseband",
-    "lehrkraft": "Zm, <span>Zm</span>",
     "text": ""
   },
   {

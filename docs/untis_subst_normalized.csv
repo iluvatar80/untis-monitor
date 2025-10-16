@@ -1,9 +1,7 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,16.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,16.10.2025,3,1a,3,Leseband,<span>Jo</span>,
 2,16.10.2025,3,1a,5,Sp,<span>Vo</span>,
 2,16.10.2025,3,3a,1 - 7,,Hr,
-2,16.10.2025,3,3b,3,Leseband,"Zm, <span>Zm</span>",
 2,16.10.2025,3,3b,6,Ma,"Zi, <span>Zi</span>",
 2,16.10.2025,3,3c,5,Sach,"Hb, <span>Hb</span>, Bon",
 2,16.10.2025,3,3c,6,KlR,<span>Ad</span>,
@@ -36,10 +34,8 @@
 2,16.10.2025,8,"9a, 9b, 9c, 9f",6,WPU,HL,
 2,16.10.2025,8,"9a, 9b, 9c, 9f",6,WPU,Ei,
 2,17.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,17.10.2025,3,1a,3,Leseband,<span>Jo</span>,
 2,17.10.2025,3,1a,5,Sp,<span>Vo</span>,
 2,17.10.2025,3,3a,1 - 7,,Hr,
-2,17.10.2025,3,3b,3,Leseband,"Zm, <span>Zm</span>",
 2,17.10.2025,3,3b,6,Ma,"Zi, <span>Zi</span>",
 2,17.10.2025,3,3c,5,Sach,"Hb, <span>Hb</span>, Bon",
 2,17.10.2025,3,3c,6,KlR,<span>Ad</span>,
