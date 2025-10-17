@@ -133,6 +133,16 @@
     "gruppe": 2,
     "datum": "17.10.2025",
     "quelle_table_index": 3,
+    "klasse": "7b",
+    "stunde": "6",
+    "fach": "",
+    "lehrkraft": "Dr",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "17.10.2025",
+    "quelle_table_index": 3,
     "klasse": "9a",
     "stunde": "0 - 7",
     "fach": "",
@@ -568,6 +578,16 @@
     "fach": "",
     "lehrkraft": "Vo",
     "text": "Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr"
+  },
+  {
+    "gruppe": 2,
+    "datum": "18.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "7b",
+    "stunde": "6",
+    "fach": "",
+    "lehrkraft": "Dr",
+    "text": ""
   },
   {
     "gruppe": 2,
