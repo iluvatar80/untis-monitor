@@ -1,9 +1,7 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
 2,17.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,17.10.2025,3,1a,5,Rel,<span>Gro</span>,
-2,17.10.2025,3,2a Monde,3 - 4,Deu,"Jo, <span>Jo</span>",
 2,17.10.2025,3,3a,6,Sp,<span>Gro</span>,
-2,17.10.2025,3,3c,4,Ma,<span>An</span>,
 2,17.10.2025,3,3c,5,Sach,"<span>Zi</span>, Bon",
 2,17.10.2025,3,4b,6,Sp,<span>Lt</span>,
 2,17.10.2025,3,7b,1 - 7,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -21,7 +19,7 @@
 2,17.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Ei,
 2,17.10.2025,3,9b,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
 2,17.10.2025,3,9c,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,17.10.2025,3,Hallig,4 - 5,Hallig,Bk,
+2,17.10.2025,3,Hallig,5,Hallig,Bk,
 2,17.10.2025,3,Hallig,6,Hallig,Bk,
 2,17.10.2025,8,"10a, 10b",2,WPU,Vo,
 2,17.10.2025,8,10a,5,Eng,<span>Li</span>,
@@ -41,9 +39,7 @@
 2,17.10.2025,8,9f,1 - 7,,Ne,Betriebspraktikum
 2,18.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,18.10.2025,3,1a,5,Rel,<span>Gro</span>,
-2,18.10.2025,3,2a Monde,3 - 4,Deu,"Jo, <span>Jo</span>",
 2,18.10.2025,3,3a,6,Sp,<span>Gro</span>,
-2,18.10.2025,3,3c,4,Ma,<span>An</span>,
 2,18.10.2025,3,3c,5,Sach,"<span>Zi</span>, Bon",
 2,18.10.2025,3,4b,6,Sp,<span>Lt</span>,
 2,18.10.2025,3,7b,1 - 7,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -61,7 +57,7 @@
 2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Ei,
 2,18.10.2025,3,9b,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
 2,18.10.2025,3,9c,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,18.10.2025,3,Hallig,4 - 5,Hallig,Bk,
+2,18.10.2025,3,Hallig,5,Hallig,Bk,
 2,18.10.2025,3,Hallig,6,Hallig,Bk,
 2,18.10.2025,8,"10a, 10b",2,WPU,Vo,
 2,18.10.2025,8,10a,5,Eng,<span>Li</span>,
@@ -79,7 +75,7 @@
 2,18.10.2025,8,9b,1 - 7,,Sn,Betriebspraktikum
 2,18.10.2025,8,9c,1 - 7,,Vo,Betriebspraktikum
 2,18.10.2025,8,9f,1 - 7,,Ne,Betriebspraktikum
-1,17.10.2025,0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,17.10.2025,0,"Klassen: 10a, 10b, 1a, 3a, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,17.10.2025,5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
-1,18.10.2025,0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,18.10.2025,0,"Klassen: 10a, 10b, 1a, 3a, 3c, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,18.10.2025,5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
