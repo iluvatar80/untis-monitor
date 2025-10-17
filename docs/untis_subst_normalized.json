@@ -64,6 +64,16 @@
     "datum": "17.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a",
+    "stunde": "1",
+    "fach": "Deu",
+    "lehrkraft": "Bk, Bon",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "17.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "7a",
     "stunde": "2",
     "fach": "WK",
     "lehrkraft": "<span>Kt</span>, Kt",
@@ -407,6 +417,16 @@
     "stunde": "4",
     "fach": "Sp",
     "lehrkraft": "<span>Pü</span>",
+    "text": ""
+  },
+  {
+    "gruppe": 2,
+    "datum": "18.10.2025",
+    "quelle_table_index": 3,
+    "klasse": "7a",
+    "stunde": "1",
+    "fach": "Deu",
+    "lehrkraft": "Bk, Bon",
     "text": ""
   },
   {
