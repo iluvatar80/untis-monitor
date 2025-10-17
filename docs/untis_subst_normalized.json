@@ -84,16 +84,6 @@
     "datum": "17.10.2025",
     "quelle_table_index": 3,
     "klasse": "7a, 7b, 7c",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Li",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "17.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
     "stunde": "2",
     "fach": "WPU",
     "lehrkraft": "Ni",
@@ -527,16 +517,6 @@
     "stunde": "6",
     "fach": "Sp",
     "lehrkraft": "<span>Lt</span>",
-    "text": ""
-  },
-  {
-    "gruppe": 2,
-    "datum": "18.10.2025",
-    "quelle_table_index": 3,
-    "klasse": "7a, 7b, 7c",
-    "stunde": "1",
-    "fach": "DaZ Auf",
-    "lehrkraft": "Li",
     "text": ""
   },
   {
