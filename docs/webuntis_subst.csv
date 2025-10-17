@@ -4,7 +4,6 @@
 3,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,1a,,,,,,,5,1a,Rel,Gro,
-3,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
 3,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
 3,3a,,,,,,,6,3a,Sp,Gro,
 3,3c,,,,,,,4,3c,Ma,An,
@@ -19,21 +18,9 @@
 3,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7b,,,,,,,6,7b,,Dr,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -89,7 +76,6 @@
 4,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,1a,,,,,,,5,1a,Rel,Gro,
-4,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
 4,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
 4,3a,,,,,,,6,3a,Sp,Gro,
 4,3c,,,,,,,4,3c,Ma,An,
@@ -104,21 +90,9 @@
 4,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7b,,,,,,,6,7b,,Dr,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -300,7 +274,6 @@
 3,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,1a,,,,,,,5,1a,Rel,Gro,
-3,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
 3,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
 3,3a,,,,,,,6,3a,Sp,Gro,
 3,3c,,,,,,,4,3c,Ma,An,
@@ -315,21 +288,9 @@
 3,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,7b,,,,,,,6,7b,,Dr,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-3,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 3,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 3,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
@@ -385,7 +346,6 @@
 4,10a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,10b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,1a,,,,,,,5,1a,Rel,Gro,
-4,2a Monde,,,,,,,2 - 3,2a Monde,Leseband,Sv,
 4,2a Monde,,,,,,,3 - 4,2a Monde,Deu,"Jo, Jo",
 4,3a,,,,,,,6,3a,Sp,Gro,
 4,3c,,,,,,,4,3c,Ma,An,
@@ -400,21 +360,9 @@
 4,6c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,6d,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7a,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7b,,,,,,,1 - 7,7b,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,7b,,,,,,,6,7b,,Dr,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7b,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,7c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ni,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Sc,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Vo,
-4,7c,,,,,,,2,"7a, 7b, 7c",WPU,Ei,
 4,8a,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8b,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 4,8c,,,,,,,0 - 7,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
