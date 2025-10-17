@@ -1,47 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,16.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,16.10.2025,3,1a,5,Rel,<span>Gro</span>,
-2,16.10.2025,3,2a Monde,2 - 3,Leseband,<span>Sv</span>,
-2,16.10.2025,3,2a Monde,3 - 4,Deu,"Jo, <span>Jo</span>",
-2,16.10.2025,3,3a,6,Sp,<span>Gro</span>,
-2,16.10.2025,3,4b,6,Sp,<span>Lt</span>,
-2,16.10.2025,3,"7a, 7b, 7c",1,DaZ Auf,Li,
-2,16.10.2025,3,"7a, 7b, 7c",2,WPU,Ni,
-2,16.10.2025,3,"7a, 7b, 7c",2,WPU,Sc,
-2,16.10.2025,3,"7a, 7b, 7c",2,WPU,Vo,
-2,16.10.2025,3,"7a, 7b, 7c",2,WPU,Ei,
-2,16.10.2025,3,7b,1 - 7,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
-2,16.10.2025,3,9a,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,16.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Pü,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Re,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Sc,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,HL,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Ei,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Pü,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Re,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Sc,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,HL,
-2,16.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Ei,
-2,16.10.2025,3,9b,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,16.10.2025,3,9c,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
-2,16.10.2025,3,Hallig,4 - 5,Hallig,Bk,
-2,16.10.2025,3,Hallig,6,Hallig,Bk,
-2,16.10.2025,8,"10a, 10b",2,WPU,Vo,
-2,16.10.2025,8,10a,5,Eng,<span>Li</span>,
-2,16.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Mofa,Pr,
-2,16.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Global,Bk,
-2,16.10.2025,8,3b,3,Leseband,<span>Re</span>,
-2,16.10.2025,8,6a,4,Sp,<span>Pü</span>,
-2,16.10.2025,8,7a,1,KlR,"<span>Bon</span>, Bon",
-2,16.10.2025,8,7a,2,WK,<span>Kt</span>,
-2,16.10.2025,8,7a,3,Leseband,<span>Kt</span>,
-2,16.10.2025,8,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
-2,16.10.2025,8,8a,4,Eng,<span>Rr</span>,
-2,16.10.2025,8,8b,5,Deu,<span>Ls</span>,
-2,16.10.2025,8,9a,1 - 7,,Hu,Betriebspraktikum
-2,16.10.2025,8,9b,1 - 7,,Sn,Betriebspraktikum
-2,16.10.2025,8,9c,1 - 7,,Vo,Betriebspraktikum
-2,16.10.2025,8,9f,1 - 7,,Ne,Betriebspraktikum
 2,17.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
 2,17.10.2025,3,1a,5,Rel,<span>Gro</span>,
 2,17.10.2025,3,2a Monde,2 - 3,Leseband,<span>Sv</span>,
@@ -85,7 +42,50 @@
 2,17.10.2025,8,9b,1 - 7,,Sn,Betriebspraktikum
 2,17.10.2025,8,9c,1 - 7,,Vo,Betriebspraktikum
 2,17.10.2025,8,9f,1 - 7,,Ne,Betriebspraktikum
-1,16.10.2025,0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
-1,16.10.2025,5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
+2,18.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7c, 8a, 8b, 8c, 8f, 9f, 9g, DaZ-a",0 - 7,,,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,18.10.2025,3,1a,5,Rel,<span>Gro</span>,
+2,18.10.2025,3,2a Monde,2 - 3,Leseband,<span>Sv</span>,
+2,18.10.2025,3,2a Monde,3 - 4,Deu,"Jo, <span>Jo</span>",
+2,18.10.2025,3,3a,6,Sp,<span>Gro</span>,
+2,18.10.2025,3,4b,6,Sp,<span>Lt</span>,
+2,18.10.2025,3,"7a, 7b, 7c",1,DaZ Auf,Li,
+2,18.10.2025,3,"7a, 7b, 7c",2,WPU,Ni,
+2,18.10.2025,3,"7a, 7b, 7c",2,WPU,Sc,
+2,18.10.2025,3,"7a, 7b, 7c",2,WPU,Vo,
+2,18.10.2025,3,"7a, 7b, 7c",2,WPU,Ei,
+2,18.10.2025,3,7b,1 - 7,,Vo,Klassenlehrerunterricht - 8:30 Uhr bis 13:30 Uhr
+2,18.10.2025,3,9a,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,18.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Pü,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Re,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Sc,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,HL,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",5,WPU,Ei,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Pü,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Re,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Sc,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,HL,
+2,18.10.2025,3,"9a, 9b, 9c, 9f",6,WPU,Ei,
+2,18.10.2025,3,9b,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,18.10.2025,3,9c,0 - 7,,,Projektprüfungen nach Prüfplan kein Unterricht
+2,18.10.2025,3,Hallig,4 - 5,Hallig,Bk,
+2,18.10.2025,3,Hallig,6,Hallig,Bk,
+2,18.10.2025,8,"10a, 10b",2,WPU,Vo,
+2,18.10.2025,8,10a,5,Eng,<span>Li</span>,
+2,18.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Mofa,Pr,
+2,18.10.2025,8,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Global,Bk,
+2,18.10.2025,8,3b,3,Leseband,<span>Re</span>,
+2,18.10.2025,8,6a,4,Sp,<span>Pü</span>,
+2,18.10.2025,8,7a,1,KlR,"<span>Bon</span>, Bon",
+2,18.10.2025,8,7a,2,WK,<span>Kt</span>,
+2,18.10.2025,8,7a,3,Leseband,<span>Kt</span>,
+2,18.10.2025,8,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
+2,18.10.2025,8,8a,4,Eng,<span>Rr</span>,
+2,18.10.2025,8,8b,5,Deu,<span>Ls</span>,
+2,18.10.2025,8,9a,1 - 7,,Hu,Betriebspraktikum
+2,18.10.2025,8,9b,1 - 7,,Sn,Betriebspraktikum
+2,18.10.2025,8,9c,1 - 7,,Vo,Betriebspraktikum
+2,18.10.2025,8,9f,1 - 7,,Ne,Betriebspraktikum
 1,17.10.2025,0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
 1,17.10.2025,5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
+1,18.10.2025,0,"Klassen: 10a, 10b, 1a, 2a Monde, 3a, 4b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g, DaZ-a, Hallig",,,,
+1,18.10.2025,5,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
