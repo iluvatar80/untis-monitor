@@ -1,40 +1,4 @@
 ﻿gruppe,datum,quelle_table_index,klasse,stunde,fach,lehrkraft,text
-2,23.10.2025,3,"10a, 10b",2,WPU,Vo,
-2,23.10.2025,3,10a,5,Eng,<span>Li</span>,
-2,23.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Mofa,Pr,
-2,23.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Global,Bk,
-2,23.10.2025,3,3b,3,Leseband,<span>Re</span>,
-2,23.10.2025,3,6a,4,Sp,<span>Pü</span>,
-2,23.10.2025,3,7a,1,Deu,"Bk, Bon",
-2,23.10.2025,3,7a,2,WK,"<span>Kt</span>, Kt",
-2,23.10.2025,3,7a,3,Leseband,"<span>Kt</span>, Kt",
-2,23.10.2025,3,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
-2,23.10.2025,3,8a,4,Eng,<span>Rr</span>,
-2,23.10.2025,3,8b,5,Deu,<span>Ls</span>,
-2,23.10.2025,3,9a,1 - 7,,Hu,Betriebspraktikum
-2,23.10.2025,3,9b,1 - 7,,Sn,Betriebspraktikum
-2,23.10.2025,3,9c,1 - 7,,Vo,Betriebspraktikum
-2,23.10.2025,3,9f,1 - 7,,Ne,Betriebspraktikum
-2,23.10.2025,8,10a,3,Leseband,<span>Ls</span>,
-2,23.10.2025,8,10a,5,Ma,<span>Rr</span>,
-2,23.10.2025,8,10b,5,Ma,<span>---</span>,
-2,23.10.2025,8,10b,7,Sp,Vo,
-2,23.10.2025,8,2c,5,Rel,<span>Wei</span>,
-2,23.10.2025,8,"5a, 5b",6,Schw,Pü,
-2,23.10.2025,8,"5a, 5b",6,Schw,Vo,
-2,23.10.2025,8,"7a, 7b, 7c",5,WPU,<span>Hi</span>,
-2,23.10.2025,8,8a,1 - 7,,Pü,Berufsfelderkundung
-2,23.10.2025,8,"8a, 8b, 8c, 8f",1,DaZ Auf,Li,
-2,23.10.2025,8,8b,1 - 7,,Pü,Berufsfelderkundung
-2,23.10.2025,8,8c,1 - 7,,Ri,Berufsfelderkundung
-2,23.10.2025,8,8f,1 - 7,,Ri,Berufsfelderkundung
-2,23.10.2025,8,"8f, 9f, 9g",5,Sp,"HL, <span>HL</span>",
-2,23.10.2025,8,9a,0 - 7,,Hu,Betriebspraktikum
-2,23.10.2025,8,9b,0 - 7,,Sn,Betriebspraktikum
-2,23.10.2025,8,9c,0 - 7,,Vo,Betriebspraktikum
-2,23.10.2025,8,9f,0 - 7,,Ne,Betriebspraktikum
-2,23.10.2025,8,9g,1,WiPo,Ri,
-2,23.10.2025,8,9g,2,Deu,"Gr, <span>Gr</span>",
 2,24.10.2025,3,"10a, 10b",2,WPU,Vo,
 2,24.10.2025,3,10a,5,Eng,<span>Li</span>,
 2,24.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Mofa,Pr,
@@ -71,7 +35,43 @@
 2,24.10.2025,8,9f,0 - 7,,Ne,Betriebspraktikum
 2,24.10.2025,8,9g,1,WiPo,Ri,
 2,24.10.2025,8,9g,2,Deu,"Gr, <span>Gr</span>",
-1,23.10.2025,0,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
-1,23.10.2025,5,"Klassen: 10a, 10b, 2c, 5a, 5b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
+2,25.10.2025,3,"10a, 10b",2,WPU,Vo,
+2,25.10.2025,3,10a,5,Eng,<span>Li</span>,
+2,25.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Mofa,Pr,
+2,25.10.2025,3,"10a, 10b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",7,AG Global,Bk,
+2,25.10.2025,3,3b,3,Leseband,<span>Re</span>,
+2,25.10.2025,3,6a,4,Sp,<span>Pü</span>,
+2,25.10.2025,3,7a,1,Deu,"Bk, Bon",
+2,25.10.2025,3,7a,2,WK,"<span>Kt</span>, Kt",
+2,25.10.2025,3,7a,3,Leseband,"<span>Kt</span>, Kt",
+2,25.10.2025,3,"7a, 7b, 7c",5,WPU,<span>Pü</span>,
+2,25.10.2025,3,8a,4,Eng,<span>Rr</span>,
+2,25.10.2025,3,8b,5,Deu,<span>Ls</span>,
+2,25.10.2025,3,9a,1 - 7,,Hu,Betriebspraktikum
+2,25.10.2025,3,9b,1 - 7,,Sn,Betriebspraktikum
+2,25.10.2025,3,9c,1 - 7,,Vo,Betriebspraktikum
+2,25.10.2025,3,9f,1 - 7,,Ne,Betriebspraktikum
+2,25.10.2025,8,10a,3,Leseband,<span>Ls</span>,
+2,25.10.2025,8,10a,5,Ma,<span>Rr</span>,
+2,25.10.2025,8,10b,5,Ma,<span>---</span>,
+2,25.10.2025,8,10b,7,Sp,Vo,
+2,25.10.2025,8,2c,5,Rel,<span>Wei</span>,
+2,25.10.2025,8,"5a, 5b",6,Schw,Pü,
+2,25.10.2025,8,"5a, 5b",6,Schw,Vo,
+2,25.10.2025,8,"7a, 7b, 7c",5,WPU,<span>Hi</span>,
+2,25.10.2025,8,8a,1 - 7,,Pü,Berufsfelderkundung
+2,25.10.2025,8,"8a, 8b, 8c, 8f",1,DaZ Auf,Li,
+2,25.10.2025,8,8b,1 - 7,,Pü,Berufsfelderkundung
+2,25.10.2025,8,8c,1 - 7,,Ri,Berufsfelderkundung
+2,25.10.2025,8,8f,1 - 7,,Ri,Berufsfelderkundung
+2,25.10.2025,8,"8f, 9f, 9g",5,Sp,"HL, <span>HL</span>",
+2,25.10.2025,8,9a,0 - 7,,Hu,Betriebspraktikum
+2,25.10.2025,8,9b,0 - 7,,Sn,Betriebspraktikum
+2,25.10.2025,8,9c,0 - 7,,Vo,Betriebspraktikum
+2,25.10.2025,8,9f,0 - 7,,Ne,Betriebspraktikum
+2,25.10.2025,8,9g,1,WiPo,Ri,
+2,25.10.2025,8,9g,2,Deu,"Gr, <span>Gr</span>",
 1,24.10.2025,0,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
 1,24.10.2025,5,"Klassen: 10a, 10b, 2c, 5a, 5b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
+1,25.10.2025,0,"Klassen: 10a, 10b, 3b, 5a, 5b, 5c, 5d, 6a, 6b, 6c, 6d, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
+1,25.10.2025,5,"Klassen: 10a, 10b, 2c, 5a, 5b, 7a, 7b, 7c, 8a, 8b, 8c, 8f, 9a, 9b, 9c, 9f, 9g",,,,
